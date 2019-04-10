@@ -1,0 +1,17 @@
+TY  - CONF
+AU  - Schulz, Hans-Jörg
+AU  - Akbar, Zabed
+AU  - Maurer, Frank
+A2  - Carpendale, Sheelagh
+A2  - Chen, Wei
+A2  - Hong, Seokhee
+T1  - A Generative Layout Approach for Rooted Tree Drawings
+T2  - PacificVis'13: Proceedings of the IEEE Pacific Visualization Symposium
+PB  - IEEE Computer Society
+Y1  - 2013
+SP  - 225
+EP  - 232
+N2  - In response to the large number of existing tree layouts, generic ``meta-layouts'' have recently been proposed. These generic approaches utilize layout design spaces to pinpoint a tree drawing with desired characteristics in the wealth of available drawing options and parameters. While design-space-based generic layouts work well for the confined set of implicit space-filling tree layouts, they have so far eluded their extension to explicit node-link diagrams. In order to produce both, implicit and explicit tree layouts, this paper parts with the descriptive nature of the design spaces and instead takes a generative approach based on operators. As these operators can be combined into operator sequences and be used at different stages of the layout process, a small operator set already suffices to yield a large number of different tree layouts. To this end, we present a generic tree layout pipeline and give examples of suitable layout operators to plug into the pipeline. A prototypical implementation of our pipeline and operators is presented, and it is illustrated with space-filling and node-link examples. Furthermore, the paper presents results from a user study evaluating our generative approach as it is realized by the prototype.
+SN  - 9781467347976
+UR  - http://dx.doi.org/10.1109/PacificVis.2013.6596149
+ER  -

@@ -1,0 +1,15 @@
+TY  - CONF
+AU  - Lin, Chun-Cheng
+AU  - Yen, Hsu-Chun
+A2  - Healy, Patrick
+A2  - Nikolov, Nikola S.
+T1  - On Balloon Drawings of Rooted Trees
+T2  - GD'05: Proceedings of the International Symposium on Graph Drawing
+PB  - Springer
+Y1  - 2005
+SP  - 285
+EP  - 296
+N2  - Among various styles of tree drawing, balloon drawing, where each subtree is enclosed in a circle, enjoys a desirable feature of displaying tree structures in a rather balanced fashion. We first design an efficient algorithm to optimize angular resolution and aspect ratio for the balloon drawing of rooted unordered trees. For the case of ordered trees for which the center of the enclosing circle of a subtree need not coincide with the root of the subtree, flipping the drawing of a subtree (along the axis from the parent to the root of the subtree) might change both the aspect ratio and the angular resolution of the drawing. We show that optimizing the angular resolution as well as the aspect ratio with respect to this type of rooted ordered trees is reducible to the perfect matching problem for bipartite graphs, which is solvable in polynomial time. Aside from studying balloon drawing from an algorithmic viewpoint, we also propose a local magnetic spring model for producing dynamic balloon drawings with applications to the drawings of galaxy systems, H-trees, and sparse graphs, which are of practical interest.
+SN  - 9783540314257
+UR  - http://dx.doi.org/10.1007/11618058_26
+ER  -

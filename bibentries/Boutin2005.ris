@@ -1,0 +1,16 @@
+TY  - CONF
+AU  - Boutin, François
+AU  - Thièvre, Jérôme
+AU  - Hascoët, Mountaz
+A2  - Costabile, Maria Francesca
+A2  - Paternó, Fabio
+T1  - Multilevel Compound Tree - Construction Visualization and Interaction
+T2  - INTERACT'05: Proceedings of the IFIP TC13 Conference on Human-Computer Interaction
+PB  - Springer
+Y1  - 2005
+SP  - 847
+EP  - 860
+N2  - Several hierarchical clustering techniques have been proposed to visualize large graphs, but fewer solutions suggest a focus based approach. We propose a multilevel clustering technique that produces in linear time a contextual clustered view depending on a user-focus. We get a tree of clusters where each cluster - called meta-silhouette - is itself hierarchically clustered into an inclusion tree of silhouettes. Resulting Multilevel Silhouette Tree (MuSi-Tree) has a specific structure called multilevel compound tree. This work builds upon previous work on a compound tree structure called MO-Tree. The work presented in this paper is a major improvement over previous work by (1) defining multilevel compound tree as a more generic structure, (2) proposing original space-filling visualization techniques to display it, (3) defining relevant interaction model based on both focus changes and graph filtering techniques and (4) reporting from case studies in various fields: co-citation graphs, related-document graphs and social graphs.
+SN  - 3540289437
+UR  - http://dx.doi.org/10.1007/11555261_67
+ER  -

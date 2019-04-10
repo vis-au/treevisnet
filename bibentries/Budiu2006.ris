@@ -1,0 +1,16 @@
+TY  - CONF
+AU  - Budiu, Raluca
+AU  - Pirolli, Peter
+AU  - Fleetwood, Michael
+A2  - Celentano, Augusto
+A2  - Mussio, Piero
+T1  - Navigation in degree of interest trees
+T2  - AVI'06: Proceedings of the Working Conference on Advanced Visual Interfaces
+PB  - ACM Press
+Y1  - 2006
+SP  - 457
+EP  - 462
+N2  - We present an experiment that compares how people perform search tasks in a degree-of-interest browser and in a Windows-Explorer-like browser. Our results show that, whereas users do attend to more information in the DOI browser, they do not complete the task faster than in an Explorer-like browser. However, in both types of browser, users are faster to complete high information scent search tasks than low information scent tasks. We present an ACT-R computational model of the search task in the DOI browser. The model describes how a visual search strategy may combine with semantic aspects of processing, as captured by information scent. We also describe a way of automatically estimating information scent in an ontological hierarchy by querying a large corpus (in our case, Google's corpus).
+SN  - 1595933530
+UR  - http://dx.doi.org/10.1145/1133265.1133358
+ER  -

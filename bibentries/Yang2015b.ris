@@ -1,0 +1,16 @@
+TY  - CONF
+AU  - Yang, Muye Yang
+AU  - Biuk-Aghai, Robert P.
+A2  - Bottoni, Paolo
+A2  - Takahashi, Shigeo
+A2  - Itoh, Takayuki
+T1  - Enhanced Hexagon-Tiling Algorithm for Map-Like Information Visualisation
+T2  - VINCI'15: Proceedings of the International Symposium on Visual Information Communication and Interaction
+PB  - ACM Press
+Y1  - 2015
+SP  - 137
+EP  - 142
+N2  - Hierarchical information is ubiquitous, and analysing such information is one of the common tasks performed by its users. Map-like visualisations, which resemble geographic maps, can be a useful tool for perceiving hierarchical information. Maps have the advantage that the majority of ordinary users can easily understand them without prior training. This paper presents a novel method for visualising hierarchical data in a form resembling a geographic map, using hexagon tiling. Our method can be used for visualising general hierarchical data, such as organisational structures, library catalogues, file systems, and many more. Like treemaps, our new method is area-based, thus it not only reveals hierarchy but also other attributes. Unlike treemaps, however, our method produces visualisations that resemble geographic maps in shape and appearance. Several tactics are employed to control the space-division process and aspect ratio. In this paper we present experiments involving our visualisation, evaluations of results, comparisons with other methods, and discuss advantages and potential issues.
+SN  - 9781450334822
+UR  - http://dx.doi.org/10.1145/2801040.2801056
+ER  -

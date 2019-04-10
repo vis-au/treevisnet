@@ -1,0 +1,17 @@
+TY  - CONF
+AU  - Neumann, Petra
+AU  - Carpendale, Sheelagh
+AU  - Agarawala, Anand
+A2  - Santos, Beatriz Sousa
+A2  - Ertl, Thomas
+A2  - Joy, Kenneth I.
+T1  - PhylloTrees: Phyllotactic Patterns for Tree Layout
+T2  - EuroVis'06: Proceedings of the Joint Eurographics - IEEE VGTC Symposium on Visualization
+PB  - Eurographics Association
+Y1  - 2006
+SP  - 59
+EP  - 66
+N2  - Motivations for drawing hierarchical structures are probably as diverse as datasets to visualize. This ubiquity of tree structures has lead to a manifold of tree layout algorithms and tree visualization systems. While many tree layouts exist, increasingly massive data sets, expanding computational power, and still relatively limited display space make tree layout algorithms a topic of ongoing interest. We explore the use of nature's phyllotactic patterns to inform the layout of hierarchical data. These naturally occurring patterns provide a non-overlapping, optimal packing when the total number of nodes is not known a priori. We present PhylloTrees, a family of expandable tree layouts based on these patterns.
+SN  - 3905673312
+UR  - http://dx.doi.org/10.2312/VisSym/EuroVis06/059-066
+ER  -

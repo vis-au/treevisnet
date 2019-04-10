@@ -1,0 +1,9 @@
+TY  - CONF
+AU  - Andrews, Keith
+AU  - Heidegger, Helmut
+T1  - Information Slices: Visualising and Exploring Large Hierarchies using Cascading, Semi-Circular Discs
+SP  - 9
+EP  - 12
+N2  - This paper presents work in progress on a new technique for visualising and manipulating large hierarchies. The information slices approach compactly visualises hierarchical structures using a series of semi-circular discs. The technique is described in the context of our early experience with a prototype file system visualiser based on information slices.
+SN  - 0818690933
+ER  -

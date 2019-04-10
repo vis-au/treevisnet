@@ -1,0 +1,10 @@
+TY  - CONF
+AU  - Andrews, Keith
+AU  - Wolte, Josef
+AU  - Pichler, Michael
+T1  - Information Pyramids A New Approach to Visualising Large Hierarchies
+SP  - 49
+EP  - 52
+N2  - This paper presents work in progress on a new technique for visualising and manipulating large hierarchies. The Information Pyramids approach compactly visualises hierarchical structures in three dimensions using pyramid-like structures, which grow upwards as the hierarchy is descended. The technique is described in the context of our early experience with a prototype file system visualiser based on Information Pyramids.
+SN  - 1581130112
+ER  -

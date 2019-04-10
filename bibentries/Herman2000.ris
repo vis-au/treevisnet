@@ -1,0 +1,14 @@
+TY  - JOUR
+AU  - Herman, Ivan
+AU  - Melançon, Guy
+AU  - Marshall, M. Scott
+T1  - Graph Visualization and Navigation in Information Visualization: A Survey
+JO  - IEEE Transactions on Visualization and Computer Graphics
+Y1  - 2000
+VL  - 6
+IS  - 1
+SP  - 24
+EP  - 43
+N2  - This is a survey on graph visualization and navigation techniques, as used in information visualization. Graphs appear in numerous applications such as Web browsing, state-transition diagrams, and data structures. The ability to visualize and to navigate in these potentially large, abstract graphs is often a crucial part of an application. Information visualization has specific requirements, which means that this survey approaches the results of traditional graph drawing from a different perspective.
+UR  - http://dx.doi.org/10.1109/2945.841119
+ER  -

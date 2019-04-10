@@ -1,0 +1,14 @@
+TY  - CONF
+AU  - Wesson, Janet
+AU  - du Plessis, MC
+AU  - Oosthuizen, Craig
+T1  - A ZoomTree interface for searching genealogical information
+T2  - AFRIGRAPH'04: Proceedings of the International Conference on Computer Graphics, Virtual Reality, Visualisation and Interaction in Africa
+PB  - ACM Press
+Y1  - 2004
+SP  - 131
+EP  - 136
+N2  - Genealogical information systems (GIS) typically contain large amounts of information about families and relationships between family members. Most existing GIS have textual, form-based interfaces for searching and browsing family information. These interfaces do not support dynamic browsing and manipulation of family trees. This paper discusses the design and development of a novel interface, called ZoomTree, for WINGIS (the GIS developed at UPE), to facilitate dynamic exploration and browsing of family tree information.
+SN  - 1581138636
+UR  - http://dx.doi.org/10.1145/1029949.1029974
+ER  -

@@ -1,0 +1,15 @@
+TY  - CONF
+AU  - Appert, Caroline
+AU  - Fekete, Jean-Daniel
+A2  - Agon, Carlos
+A2  - Delerue, Olivier
+T1  - Naviguer dans des grands arbres avec ControlTree
+T2  - IHM'07: Proceedings of the International Conference on Association Francophone d'Interaction Homme-Machine
+PB  - ACM Press
+Y1  - 2007
+SP  - 139
+EP  - 142
+N2  - This article presents ControlTree, a relevant technique to select a node is a very large node-link representation using a continuous interaction. The node-link representation is dynamic and driven by the cursor location to optimize screen space and to ease the selections. ControlTree uses a snapping mechanism and adapts the OrthoZoom technique to offer an alternative to common "point-and-click" techniques. We also present a preliminary theoretical evaluation showing that ControlTree is a promising technique.
+SN  - 9781595937919
+UR  - http://dx.doi.org/10.1145/1541436.1541463
+ER  -

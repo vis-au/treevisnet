@@ -1,0 +1,15 @@
+TY  - CONF
+AU  - Schreck, Tobias
+AU  - Keim, Daniel
+AU  - Mansmann, Florian
+A2  - Slavk, Pavel
+T1  - Regular TreeMap Layouts for Visual Analysis of Hierarchical Data
+T2  - SCCG'06: Proceedings of the Spring Conference on Computer Graphics
+PB  - Comenius University, Bratislava
+Y1  - 2006
+SP  - 184
+EP  - 191
+N2  - Hierarchical relationships play an utmost important role in many application domains. The appropriate visualization of hierarchically structured data sets can contribute towards supporting the data analyst in effectively analyzing hierarchic structures using visualization as a user friendly means to communicate information. Information Visualization has contributed a number of useful techniques for visualization of hierarchically structured data sets. Yet, the support for certain regularity requirements as arising from many data element types has to be improved. In this paper, we analyze an existing variant of the popular TreeMap family of hierarchical layout algorithms, and we introduce a novel TreeMap algorithm supporting space efficient layout of hierarchical data sets providing global regular layouts. We detail our algorithm, and we present applications on a real-world data set as well as experiments performed on a synthetic data set, showing its applicability and usefulness.
+SN  - 8022321753
+UR  - http://www.inf.uni-konstanz.de/gk/pubsys/publishedFiles/ScKeMa06.pdf
+ER  -

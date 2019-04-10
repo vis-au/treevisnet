@@ -1,0 +1,28 @@
+TY  - CONF
+AU  - Otjacques, Benot
+AU  - Noirhomme, Monique
+AU  - Gobert, Xavier
+AU  - Collin, Pierre
+AU  - Feltz, Fernand
+A2  - Banissi, Ebad
+A2  - Burkhard, Remo Aslak
+A2  - Grinstein, Georges
+A2  - Cvek, Urska
+A2  - Trutschl, Marjan
+A2  - Stuart, Liz
+A2  - Wyeld, Theodor G.
+A2  - Andrienko, Gennady
+A2  - Dykes, Jason
+A2  - Jern, Mikael
+A2  - Groth, Dennis
+A2  - Ursyn, Anna
+T1  - Visualizing the activity of a web-based collaborative platform
+T2  - IV'07: Proceedings of the International Conference on Information Visualisation
+PB  - IEEE Computer Society
+Y1  - 2007
+SP  - 251
+EP  - 256
+N2  - This paper describes a prototype that offers visualization features for monitoring a Web-based collaborative platform. The data displayed supports workplace awareness by providing an overview of the activities carried out on the platform. The prototype focuses on the information structured as hierarchical data. Three views are included: a classic vertical tree, a treemap view and an original new layout called ellimap. The system has been implemented on a real case in the domain of the support to innovation.
+SN  - 0769529003
+UR  - http://dx.doi.org/10.1109/IV.2007.137
+ER  -

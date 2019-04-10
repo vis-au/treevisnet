@@ -1,0 +1,16 @@
+TY  - CONF
+AU  - Chevalier, Fanny
+AU  - Auber, David
+AU  - Telea, Alexandru
+A2  - Penta, Massimiliano Di
+A2  - Lanza, Michele
+T1  - Structural Analysis and Visualization of C++ Code Evolution using Syntax Trees
+T2  - IWPSE'07: Proceedings of the International workshop on Principles of Software Evolution
+PB  - ACM Press
+Y1  - 2007
+SP  - 90
+EP  - 97
+N2  - We present a method to detect and visualize evolution patterns in C++ source code. Our method consists of three steps. First, we extract an annotated syntax tree (AST) from each version of a given C++ source code. Next, we hash the extracted syntax nodes based on a metric combining structure and type information, and construct matches (correspondences) between similar-hash subtrees. Our technique detects code fragments which have not changed, or changed little, during the software evolution. By parameterizing the similarity metric, we can flexibly decide what is considered to be identical or not during the software evolution. Finally, we visualize the evolution of the code structure by emphasizing both changing and constant code patterns. We demonstrate our technique on a versioned code base containing a variety of changes ranging from simple to complex.
+SN  - 9781595937223
+UR  - http://dx.doi.org/10.1145/1294948.1294971
+ER  -

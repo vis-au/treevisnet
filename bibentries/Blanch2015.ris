@@ -1,0 +1,17 @@
+TY  - CONF
+AU  - Blanch, Renaud
+AU  - Dautriche, Rémy
+AU  - Bisson, Gilles
+A2  - Liu, Shixia
+A2  - Scheuermann, Gerik
+A2  - Takahashi, Shigeo
+T1  - Dendrogramix: A hybrid tree-matrix visualization technique to support interactive exploration of dendrograms
+T2  - PacificVis'15: Proceedings of the IEEE Pacific Visualization Symposium
+PB  - IEEE Computer Society
+Y1  - 2015
+SP  - 31
+EP  - 38
+N2  - Clustering is often a first step when trying to make sense of a large data set. A wide family of cluster analysis algorithms, namely hierarchical clustering algorithms, does not provide a partition of the data set but a hierarchy of clusters organized in a binary tree, known as a dendrogram. The dendrogram has a classical node-link representation used by experts for various tasks like: to decide which subtrees are actual clusters (e.g., by cutting the dendrogram at a given depth); to give those clusters a name by inspecting their content; etc. We present Dendrogramix, a hybrid tree-matrix interactive visualization of dendrograms that superimposes the relationship between individual objects on to the hierarchy of clusters. Dendrogramix enables users to do tasks which involve both clusters and individual objects that are impracticable with the classical representation, like: to explain why a particular objects belongs to a particular cluster; to elicit and understand uncommon patterns (e.g., objects that could have been classified in a totally different cluster); etc. Those sensemaking tasks are supported by a consistent set of interaction techniques that facilitates the exploration of large clustering results.
+SN  - 9781467368797
+UR  - http://dx.doi.org/10.1109/PACIFICVIS.2015.7156353
+ER  -

@@ -1,0 +1,18 @@
+TY  - CONF
+AU  - Huang, Mao Lin
+AU  - Nguyen, Quang Vinh
+AU  - Lai, Wei
+AU  - Huang, Xiaodi
+A2  - Banissi, Ebad
+A2  - Sarfraz, Muhammad
+A2  - Dejdumrong, Natasha
+T1  - Three-Dimensional EncCon Tree
+T2  - CGIV'07: Proceedings of the Computer Graphics, Imaging and Visualisation
+PB  - IEEE Computer Society
+Y1  - 2007
+SP  - 429
+EP  - 433
+N2  - This paper describes a three-dimensional extension of a enclosure+connection layout technique, called EncCon tree. The three-dimensional visualization includes layout and navigation. The layout algorithm directly generalizes the two-dimensional EncCon tree layout algorithm to three-dimensional space in which nodes at the same level of the hierarchy are placed onto the same plane. The interactive navigation uses standard three-dimensional viewing techniques which include view transformation, rotation and zoom.
+SN  - 0769529283
+UR  - http://dx.doi.org/10.1109/CGIV.2007.82
+ER  -

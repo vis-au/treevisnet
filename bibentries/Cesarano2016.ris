@@ -1,0 +1,11 @@
+TY  - JOUR
+AU  - Cesarano, Antonio
+AU  - Ferrucci, Filomena
+AU  - Torre, Mario
+T1  - A heuristic extending the Squarified treemapping algorithm
+JO  - arXiv.org e-print service
+Y1  - 2016
+VL  - 1609.00754
+N2  - A heuristic extending the Squarified Treemap technique for the representation of hierarchical information as treemaps is presented. The original technique gives high quality treemap views, since items are laid out with rectangles that approximate squares, allowing easy comparison and selection operations. New key steps, with a low computational impact, have been introduced to yield treemaps with even better aspect ratios and higher homogeneity among items.
+UR  - http://arxiv.org/abs/1609.00754
+ER  -

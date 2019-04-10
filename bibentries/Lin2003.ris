@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Lin, Y.-B.
+AU  - Miller, Zevi
+AU  - Perkel, Manley
+AU  - Pritikin, Dan
+AU  - Sudborough, Ivan Hal
+T1  - Expansion of layouts of complete binary trees into grids
+JO  - Discrete Applied Mathematics
+Y1  - 2003
+VL  - 131
+IS  - 3
+SP  - 611
+EP  - 642
+N2  - Let $T_h$ be the complete binary tree of height h. Let M be the infinite grid graph with vertex set Z^2, where two vertices (x1,y1) and (x2,y2) of M are adjacent if and only if |x1-x2|+|y1-y2|=1. Suppose that T is a tree which is a subdivision of $T_h$ and is also isomorphic to a subgraph of M. Motivated by issues in optimal VLSI design, we show that the point expansion ratio $n(T)/n(T_h)=n(T)/(2^(h+1)-1)$ is bounded below by 1.122 for h sufficiently large. That is, we give bounds on how many vertices of degree 2 must be inserted along the edges of $T_h$ in order that the resulting tree can be laid out in the grid. Concerning the constructive end of VLSI design, suppose that T is a tree which is a subdivision of $T_h$ and is also isomorphic to a subgraph of the $ntimes n$ grid graph. Define the expansion ratio of such a layout to be $n*n/n(T_h)=n*n/(2^(h+1)-1)$. We show constructively that the minimum possible expansion ratio over all layouts of $T_h$ is bounded above by 1.4656 for sufficiently large h. That is, we give efficient layouts of complete binary trees into square grids, making improvements upon the previous work of others. We also give bounds for the point expansion and expansion problems for layouts of Th into extended grids, i.e. grids with added diagonals.
+UR  - http://dx.doi.org/10.1016/S0166-218X(02)00550-4
+ER  -

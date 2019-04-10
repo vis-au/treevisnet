@@ -1,0 +1,11 @@
+TY  - RPRT
+AU  - Itoh, Takayuki
+AU  - Kajinaga, Yasumasa
+AU  - Ikehata, Yuko
+AU  - Yamaguchi, Yumi
+T1  - Data Jewelry Box: A Graphics Showcase for Large-Scale Hierarchical Data Visualization
+Y1  - 2002
+IS  - RT0427
+N2  - We see many kinds of large-scale hierarchical data in our daily lives, such as file systems of computers, company organizations, and category-based Web search sites such as Yahoo. Most of the GUIs for these data sources first represent a higher level of the data, and provide an interface so that users can select an interesting portion of the data and locally explore the lower levels. On the other hand, there are not many visualization techniques that give an overview of the data by placing all of the lower-level data onto a display region. How can we implement such a technique that represents all the data in one display, just like the showcases of a jewelry store displays all the jewels in the shop? That is the motivation of this research. The report presents a visualization technique that places all of the lowest-level portions of a hierarchical data set on a display space. It first groups icons that denote the lowest-level data, and then generates rectangles that enclose each group of icons. It repeats the process of generating rectangles that enclose the lower-level rectangles, until the highest-level rectangles are enclosed by the largest rectangle. To use the display space most reasonably, our technique efficiently searches for gaps where rectangles can be located without overlapping adjacent rectangles. We use Delaunay triangular meshes that connect the centers of the rectangles to quickly find the gaps.
+UR  - http://domino.research.ibm.com/library/cyberdig.nsf/1e4115aea78b6e7c85256b360066f0d4/65ee18867a4cf82385256b870028fa47
+ER  -

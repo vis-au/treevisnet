@@ -1,0 +1,13 @@
+TY  - CONF
+AU  - Cleary, Brendan
+AU  - Exton, Chris
+T1  - CHIVE -- A program source visualisation framework
+T2  - WPC'04: Proceedings of the IEEE Workshop on Program Comprehension
+PB  - IEEE Computer Society
+Y1  - 2004
+SP  - 268
+EP  - 269
+N2  - The CHIVE visualisation framework is an attempt to provide program comprehension and visualisation tool developers with a flexible means for creating 3-dimensional visualisations of hierarchies such as those that occur in program source. The CHIVE framework supports user definable datasets, multiple graph layouts and an environment in which users can interact with visualisations created from applying a graph layout to a dataset.
+SN  - 0769521495
+UR  - http://dx.doi.org/10.1109/WPC.2004.1311074
+ER  -

@@ -1,0 +1,25 @@
+TY  - CONF
+AU  - Rusu, Adrian
+AU  - Santiago, Confesor
+A2  - Banissi, Ebad
+A2  - Burkhard, Remo Aslak
+A2  - Grinstein, Georges
+A2  - Cvek, Urska
+A2  - Trutschl, Marjan
+A2  - Stuart, Liz
+A2  - Wyeld, Theodor G.
+A2  - Andrienko, Gennady
+A2  - Dykes, Jason
+A2  - Jern, Mikael
+A2  - Groth, Dennis
+A2  - Ursyn, Anna
+T1  - A Practical Algorithm for Planar Straight-line Grid Drawings of General Trees with Linear Area and Arbitrary Aspect Ratio
+T2  - IV'07: Proceedings of the International Conference on Information Visualisation
+PB  - IEEE Computer Society
+Y1  - 2007
+SP  - 743
+EP  - 750
+N2  - Trees are usually drawn using planar straight-line drawings. [2] presented an algorithm for constructing a planar straight-line grid drawing of a degree-d (general) tree with area O(n) and any pre-specified aspect ratio in the range [n^-alpha,n^alpha], where 0 <= alpha <= 1 is any constant, in O(n log n) time. Unfortunately, the algorithm of [2] is not suitable for practical use. The main problem is that the constant hidden in the "Oh " notation for area is quite large (for binary trees was 3900). In this paper, we have made several improvements to the algorithm, which make it suitable for practical use. We have also conducted an experiment on this newer version of the algorithm for randomly-generated general trees with up to 50,000 nodes. Our experiment shows that it constructs area-efficient drawings in practice, with area at most 19 times the number of nodes.
+SN  - 0769529003
+UR  - http://dx.doi.org/10.1109/IV.2007.14
+ER  -

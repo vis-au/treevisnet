@@ -1,0 +1,15 @@
+TY  - CONF
+AU  - Carlson, Josiah
+AU  - Eppstein, David
+A2  - Kaufmann, Michael
+A2  - Wagner, Dorothea
+T1  - Trees with convex faces and optimal angles
+T2  - GD'06: Proceedings of the International Symposium on Graph Drawing
+PB  - Springer
+Y1  - 2006
+SP  - 77
+EP  - 88
+N2  - We consider drawings of trees in which all edges incident to leaves can be extended to infinite rays without crossing, partitioning the plane into infinite convex polygons. Among all such drawings we seek the one maximizing the angular resolution of the drawing. We find linear time algorithms for solving this problem, both for plane trees and for trees without a fixed embedding. In any such drawing, the edge lengths may be set independently of the angles, without crossing; we describe multiple strategies for setting these lengths.
+SN  - 9783540709039
+UR  - http://dx.doi.org/10.1007/978-3-540-70904-6_9
+ER  -

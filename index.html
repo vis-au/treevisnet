@@ -1,0 +1,404 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="Expires" CONTENT="-1">
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
+<title>treevis.net</title>
+<link rel="stylesheet" type="text/css" href="design.css"/>
+<script src="jquery-3.3.1.min.js" type="text/javascript"></script>
+</head>
+<body>
+<script type="text/javascript">
+	//declare global variables
+	version = "v.10-APR-2019";
+	detailwidth = 900;
+	var filteroptions = ["0","d2","d3","dH","rE","rI","rH","aA","aR","aF"];
+	var states = ["on","off","hover"];
+	var currentfilter = ["0","0","0"];
+	var detail_id = "";
+	var techcounter = 0;
+	
+	//preload button and icon images
+	for (var d=0;d<=9;++d) {
+		for (var s=0;s<=2;++s) {
+			document.write("<img src='images\/"+filteroptions[d]+states[s]+"_40.png' class='hidepics'>");
+		}
+	}
+	
+	//function that hides the currently opened detail view and the closebutton
+	function closedetail(){
+		if (detail_id != "") {
+			$("#"+detail_id).css({"visibility":"hidden","display":"none"});
+			$("#closebutton").css({"visibility":"hidden","display":"none"});
+			detail_id = "";
+			//also remove the hash/anchor from the URL as best as possible
+			if ("pushState" in history)
+				history.pushState("", document.title, window.location.pathname);
+			else
+				window.location.hash = "";
+		}
+	}
+	
+	//provide main filtering functionality
+	function filter(){
+		//close detail view if it is shown
+		closedetail();
+		techcounter = 0;
+		var pattern = new RegExp($('#pattern').val(),"i");
+		$('a.preview').each(function() {
+			if ((currentfilter[0] != "0" && $(this).attr("dim") != currentfilter[0]) ||
+				(currentfilter[1] != "0" && $(this).attr("rep") != currentfilter[1]) ||
+				(currentfilter[2] != "0" && $(this).attr("pos") != currentfilter[2]) ||
+				(!pattern.test($(this).attr("description"))))
+			{
+				$(this).css({"visibility":"hidden","display":"none"});
+			}
+			else
+			{
+				$(this).css({"visibility":"visible","display":"inline"});
+				techcounter++;
+			}
+		});
+		$("#counter").text(techcounter);
+		$(window).scrollTop(0);
+	}
+</script>
+<div id="top" class="container">
+	<div id="header">
+	<center>
+	<br/>
+		<b>treevis.net - A Visual Bibliography of Tree Visualization 2.0 by <a href="http://hjschulz.net" target="_blank" style="color:#FFFFFF;">Hans-J&ouml;rg Schulz</a></b>
+		<div style="font-size:20px;">&nbsp;</div>
+	</center>
+	</div>
+	<div id="hr1"></div>
+	
+	<div id="visbuttons" class="topleftbuttons">
+	<input type="button" name="citebutton" class="visbutton" value="How to cite this site?" onclick="window.open('https://doi.org/10.1109/MCG.2011.103','_blank');"><br />
+	<select id="othersurveys" class="visbutton">
+		<option value="0" selected="selected">Check out other surveys!</option>
+		<option value="12">Biological Visualization</option>
+		<option value="16">Cartograms</option>
+		<option value="1">Dynamic Graph Visualization</option>
+		<option value="2">Financial Visualization</option>
+		<option value="9">Groups in Graph Visualization</option>
+		<option value="10">High-dimensional Visualization</option>
+		<option value="11">Literature Visualization</option>
+		<option value="7">Multi-faceted Visualization</option>
+		<option value="3">Performance Visualization</option>
+		<option value="14">Predictive Visual Analytics</option>
+		<option value="13">Sentiment Visualization</option>
+		<option value="8">Set Visualization</option>
+		<option value="4">Space-Time-Cube Visualization</option>
+		<option value="15">Sparkline Visualization</option>
+		<option value="5">Text Visualization</option>
+		<option value="6">Time Visualization</option>
+		<option value="17">Timeline Visualization</option>
+	</select> 
+	</div>
+	
+	<div id="buttons" class="toprightbuttons" align="right">
+	<a href="treevis.bib" target="_blank" title="BibTeX file for the entire site..."><img src="images/bibtex.png"/></a>
+	&nbsp;	
+	<a href="mailto:contact@treevis.net" target="_blank" title="eMail for comments..."><img src="images/mail.png"/></a>
+	&nbsp;
+	<a href="https://twitter.com/treevisproject" target="_blank" title="Website news via Twitter..."><img src="images/twitter.png"/></a>
+	<br/>
+	<p id="version" align="right"></p>
+	</div>
+	
+	<div id="menu">
+	<center>
+		<table border="0" cellspacing="8" cellpadding="0">
+			<tr>
+				<td align="center" colspan="4">Dimensionality</td>
+				<td width="30">&nbsp;</td>
+				<td align="center" colspan="4">Representation</td>
+				<td width="30">&nbsp;</td>
+				<td align="center" colspan="4">Alignment</td>
+				<td width="30">&nbsp;</td>
+				<td align="center">Fulltext Search</td>
+				<td width="30">&nbsp;</td>
+				<td align="center">Techniques Shown</td>
+			</tr>
+			<tr>
+				<td><a href="#" id="d0" class='filterbutton' style="background-image:url(images/0on_40.png);">&nbsp;<span style="position: relative; top:40px; left:10px">all</span></a></td>
+				<td><a href="#" id="d2" class='filterbutton' style="background-image:url(images/d2off_40.png);">&nbsp;<span style="position: relative; top:40px; left:10px">2D</span></a></td>
+				<td><a href="#" id="d3" class='filterbutton' style="background-image:url(images/d3off_40.png);">&nbsp;<span style="position: relative; top:40px; left:10px">3D</span></a></td>				
+				<td><a href="#" id="dH" class='filterbutton' style="background-image:url(images/dHoff_40.png);">&nbsp;<span style="position: relative; top:40px; left:10px">hybrid</span></a></td>	
+				<td>&nbsp;</td>
+				
+				<td><a href="#" id="r0" class='filterbutton' style="background-image:url(images/0on_40.png);">&nbsp;<span style="position: relative; top:40px; left:10px">all</span></a></td>
+				<td><a href="#" id="rE" class='filterbutton' style="background-image:url(images/rEoff_40.png);">&nbsp;<span style="position: relative; top:40px; left:10px">explicit</span></a></td>
+				<td><a href="#" id="rI" class='filterbutton' style="background-image:url(images/rIoff_40.png);">&nbsp;<span style="position: relative; top:40px; left:10px">implicit</span></a></td>				
+				<td><a href="#" id="rH" class='filterbutton' style="background-image:url(images/rHoff_40.png);">&nbsp;<span style="position: relative; top:40px; left:10px">hybrid</span></a></td>	
+				<td>&nbsp;</td>				
+				
+				<td><a href="#" id="a0" class='filterbutton' style="background-image:url(images/0on_40.png);">&nbsp;<span style="position: relative; top:40px; left:10px">all</span></a></td>
+				<td><a href="#" id="aA" class='filterbutton' style="background-image:url(images/aAoff_40.png);">&nbsp;<span style="position: relative; top:40px; left:10px">axis-parallel</span></a></td>
+				<td><a href="#" id="aR" class='filterbutton' style="background-image:url(images/aRoff_40.png);">&nbsp;<span style="position: relative; top:40px; left:10px">radial</span></a></td>				
+				<td><a href="#" id="aF" class='filterbutton' style="background-image:url(images/aFoff_40.png);">&nbsp;<span style="position: relative; top:40px; left:10px">free</span></a></td>	
+				<td>&nbsp;</td>				
+
+				<td valign="middle">
+					<input type="text" id="pattern" onkeyup="filter()"/>
+					<a href="#" id="clearbutton" style="background-image:url(images/clear.png);"/>
+				</td>
+				<td>&nbsp;</td>
+				<td valign="middle">
+					<center><div id="counter">---</div></center>
+				</td>				
+			</tr>
+		</table>
+		<div style="font-size:8px;">&nbsp;</div>
+	</center>
+	</div>
+</div>
+
+<script type="text/javascript">
+//add content to header (version)
+$("#version").text(version);
+
+//add click handler to other surveys selector fixing Chrome issues
+$('#othersurveys').on( 'change keyup', function() {
+	switch (this.value) {
+    case "1":
+        window.open('http://dynamicgraphs.fbeck.com','_blank'); break;
+    case "2":
+        window.open('http://financevis.net','_blank'); break;
+    case "3":
+        window.open('http://idav.ucdavis.edu/~ki/STAR/','_blank'); break;
+    case "4":
+        window.open('http://spacetimecubevis.com','_blank'); break;
+    case "5":
+        window.open('http://textvis.lnu.se','_blank'); break;
+    case "6":
+        window.open('http://survey.timeviz.net','_blank'); break;
+	case "7":
+        window.open('http://multivis.net','_blank'); break;
+	case "8":
+        window.open('http://www.cvast.tuwien.ac.at/~alsallakh/SetViz/literature/www/index.html','_blank'); break;
+	case "9":
+        window.open('http://groups-in-graphs.corinna-vehlow.com','_blank'); break;
+	case "10":
+        window.open('http://www.sci.utah.edu/~shusenl/highDimSurvey/website/','_blank'); break;
+	case "11":
+        window.open('http://paperviz.org','_blank'); break;
+	case "12":
+        window.open('http://biovis.lnu.se','_blank'); break;
+	case "13":
+        window.open('http://sentimentvis.lnu.se','_blank'); break;
+	case "14":
+        window.open('http://104.196.253.120/pva_browser/','_blank'); break;
+	case "15":
+        window.open('http://sparklines-literature.fbeck.com/','_blank'); break;		
+	case "16":
+        window.open('http://cartogram.cs.arizona.edu/survis-cartogram/','_blank'); break;			
+	case "17":
+        window.open('http://www.aviz.fr/~bbach/timelines/','_blank'); break;	
+}});
+
+//add filterbutton logic
+$('a.filterbutton').click(function() {
+	//find out which button was pressed
+	var button = $(this).attr('id');
+	//assume design dimension 0 (dimensionality)
+	var dimension = 0;
+	//check if any other design dimension was changed from the first letter of the button id
+	if (button[0] == "r") { dimension = 1; } else if (button[0] == "a") { dimension = 2; }
+	//check what was changed from the second letter of the button id
+	if (currentfilter[dimension] != button[1]) {
+		//deactivate old button
+		$('#'+button[0]+currentfilter[dimension])
+			.css("background-image","url(images\/"+((currentfilter[dimension] == "0")?"0":(button[0]+currentfilter[dimension]))+"off_40.png)");
+		//activate new button
+		currentfilter[dimension] = button[1];
+		$(this).css("background-image","url(images\/"+((currentfilter[dimension] == "0")?"0":(button[0]+currentfilter[dimension]))+"on_40.png)");		
+		//call filter
+		filter();
+		return false; //do not propagate the click further
+	}
+});
+	
+$("a.filterbutton").hover(function(e){
+	//show tooltip
+	$("> span",this).css({"visibility":"visible"}).fadeIn("fast");
+	//show hover glow
+	var button = $(this).attr('id');
+	var dimension = 0;
+	if (button[0] == "r") { dimension = 1; } else if (button[0] == "a") { dimension = 2; }
+	if (currentfilter[dimension] != button[1]) {
+		$(this).css("background-image","url(images\/"+((button[1] == "0")?"0":button)+"hover_40.png)");
+	}
+   },
+function(){
+	//hide tooltip
+	$("> span",this).css({"visibility":"hidden","display":"none"});
+	//hide hover glow
+	var button = $(this).attr('id');
+	var dimension = 0;
+	if (button[0] == "r") { dimension = 1; } else if(button[0] == "a") { dimension = 2; }
+	if (currentfilter[dimension] != button[1]) {
+		$(this).css("background-image","url(images\/"+((button[1] == "0")?"0":button)+"off_40.png)");
+	}
+   });
+   
+//add clearbutton logic
+$("#clearbutton").click(function(){$('#pattern').val("");filter();return false;});
+</script>
+
+<div id="content" class="container">
+<center>
+<a id="closebutton" href="javascript:closedetail();" title="close"><img style="border:none;" src="images/close.png"/></a>
+<script type="text/javascript">
+var xmlDoc;
+var imageformat = "png";
+
+//fetch XML
+$.ajax({type:"GET",async:false,url:"treevis.xml",dataType:"xml",success:function(xml) {xmlDoc=xml;}});
+techcounter = 0;
+
+$("item",xmlDoc).each(function() {
+	techcounter++;
+	var id = $(this).attr("id");
+	if(id.indexOf("_")<0) {var baseid=id;} else {var baseid=id.substring(0,id.indexOf("_"));}
+
+	//create thumbnail view
+	document.write("<a class='preview' id='"+id+
+					"pv' dim='"+$(this).attr("dim")+
+					"' rep='"+$(this).attr("rep")+
+					"' pos='"+$(this).attr("pos")+
+					"' description=\""+$("> name",this).text()+
+					" "+$("> authors",this).text().replace(/%26/g,"&")+
+					" "+$("> title",this).text()+
+					" "+$("> publication",this).text().replace(/%26/g,"&")+
+					" "+$("> year",this).text()+
+					"\" href='#"+id+"'><img src='thumbs100"+imageformat+"\/"+id+
+					"."+imageformat+"' alt='"+$("> name",this).text()+
+					"' class='image'\/><\/a>");
+	
+	//create tooltip
+	document.write("<span id='"+id+"tt' class='previewtt'>"+$("> name",this).text()+" ("+$("> year",this).text()+")<\/span>");
+	
+	//create detailed view
+	var pretext = $("> title",this).attr("pretext");
+	if (typeof pretext !== 'undefined' && pretext !== false) {pretext = pretext + " ";} else {pretext = "";}
+	var posttext = $("> title",this).attr("posttext");
+	if (typeof posttext == 'undefined' || posttext == false) {posttext = "";}
+	document.write("<table id='"+id+
+				   "dv' class='detail' border='0' cellpadding='0' cellspacing='0' width='"+detailwidth+
+				   "'><tr valign='top'><th rowspan='2' class='detailimage' width='202'><img id='"+id+
+				   "hres' src='images\/cthrough200.png' border=1 width=200 height=200 style='background-image:url(thumbs100"+imageformat+"\/"+id+				   
+				   "."+imageformat+");background-size:100%;' loaded='0'\/><\/th><td align='left' class='detailheadline'><h2>"+$("> name",this).text()+" ("+$("> year",this).text()+
+				   ")<\/h2><h3>by "+$("> authors",this).text().replace(/%26/g,"&")+
+				   ".<\/h3><\/td><td align='right' class='detailicons' width='95'><img src='images\/d"+$(this).attr("dim")+
+				   "on_25.png' style='border-width:0px'\/>&nbsp;<img src='images\/r"+$(this).attr("rep")+
+				   "on_25.png' style='border-width:0px'\/>&nbsp;<img src='images\/a"+$(this).attr("pos")+
+				   "on_25.png' style='border-width:0px'\/><\/td><\/tr><tr valign='top'><th colspan='2' align='left' class='detailcontent'><h4>"+pretext+
+				   "<a href='"+$("> url",this).text().replace(/%26/g,"&")+
+				   "' target='_blank'>"+$("> title",this).text().replace(/%26/g,"&")+
+				   "<\/a>"+posttext+
+				   "&nbsp;&nbsp;<a href='bibentries\/"+baseid+".bib'><img src='images\/bib.png'\/><\/a>"+
+				   "&nbsp;<a href='bibentries\/"+baseid+".ris'><img src='images\/ris.png'\/><\/a>"+
+				   "<\/h4><h5>"+$("> publication",this).text().replace(/%26/g,"&")+".<\/h5>");
+
+	var related = $('> related',this)[0];
+	if (related) {
+		document.write("<h6><b>Related publications:<\/b><ul class='noindent'>");
+		$("> entry",related).each(function(idx) {
+			var relid = $(this).attr("id");
+		    pretext = $("> title",this).attr("pretext");
+			if (typeof pretext !== 'undefined' && pretext !== false) {pretext = pretext + " ";} else {pretext = "";}
+			posttext = $("> title",this).attr("posttext");
+			if (typeof posttext == 'undefined' || posttext == false) {posttext = "";}
+			document.write("<li>"+$("> authors",this).text().replace(/%26/g,"&")+" "+$("> year",this).text()+": "+pretext+
+						   "<a href='"+$("> url",this).text().replace(/%26/g,"&")+"' target='_blank'>"+$("> title",this).text().replace(/%26/g,"&")+"<\/a>"+posttext+
+						   "&nbsp;&nbsp;<a href='bibentries\/"+relid+".bib'><img src='images\/bib.png'\/><\/a>"+
+							"&nbsp;<a href='bibentries\/"+relid+".ris'><img src='images\/ris.png'\/><\/a><\/li>");
+		});
+		document.write("<\/ul><\/h6>");
+	}
+	
+	document.write("<\/th><\/tr><\/table>");
+	
+});
+
+$("#counter").text(techcounter);
+
+var xOffset = 10;
+var yOffset = 180;
+
+//open up details on any initial technique specified in the URL
+var show_onload = window.location.hash.substring(1);
+if (document.getElementById(show_onload+"dv")) {
+	detail_id = show_onload+"dv";
+	$("#"+show_onload+"hres").attr("src","thumbs200\/"+show_onload+".png").attr("loaded","1");
+	var detailview = $("#"+detail_id);
+	var preview = $("#"+show_onload+"pv");
+	var pos = preview.offset();
+	var xCoord = pos.left;
+	if (xCoord>=$(window).width()/2) {xCoord += preview.width()+xOffset;} //use the right side boundary if the preview is on the right side of the screen
+	xCoord -= (detailwidth+2*xOffset)/$(window).width()*xCoord;
+	var yCoord = pos.top - yOffset - preview.width()/2; //using preview.width(), as height() of the <a>-tag doesn't measure it correctly and width=height in this case anyways
+	if (yCoord-$(window).scrollTop()+detailview.height()>$(window).height()-250) {yCoord -= detailview.height();}
+	//auto-scroll to the detail view
+	$(window).scrollTop(yCoord-$(window).height()/2+yOffset+detailview.height()/2);
+    detailview.css({'visibility':'visible','top':(yCoord)+"px",'left':(xCoord)+"px"}).fadeIn("fast");
+	$("#closebutton").css({'visibility':'visible','top':(yCoord)+"px",'left':(xCoord)+"px"}).fadeIn("fast");
+}
+
+//program logic for the detail view
+$("a.preview").click(function(e){
+	var plain_id=$(this).attr("id").slice(0,-2);
+	if (detail_id != plain_id+"dv") {
+		//close detail view if it is shown
+		closedetail();
+		//show details of clicked
+		detail_id = plain_id+"dv";
+		//add highres picture to detailview
+		var highrespic = $("#"+plain_id+"hres");
+		if (highrespic.attr("loaded") == "0") {highrespic.attr("src","thumbs200"+imageformat+"\/"+plain_id+"."+imageformat).attr("loaded","1");}
+		//position and show detailview
+		var detailview = $("#"+detail_id);
+		var xCoord = e.pageX - (detailwidth+2*xOffset)/$(window).width()*e.pageX + xOffset;
+		var yCoord = e.pageY - yOffset;
+		if (yCoord-$(window).scrollTop()+detailview.height()>$(window).height()-250) {yCoord -= detailview.height()+20;}
+		if (yCoord-$(window).scrollTop()<=0) {yCoord = e.pageY - yOffset - detailview.height()/2;}
+		detailview.css({'visibility':'visible','top':(yCoord)+"px",'left':(xCoord)+"px"}).fadeIn("fast");
+		//add closebutton on top of it
+		$("#closebutton").css({'visibility':'visible','top':(yCoord)+"px",'left':(xCoord)+"px"}).fadeIn("slow");
+	} else {
+		//hide details of clicked
+		closedetail();
+		return false; //to prevent the propagation of the click, which messes up the anchor removal in the URL
+	}
+});
+
+//program logic for the tooltips
+$("a.preview").hover(function(e){
+	var detailtt = $("#"+$(this).attr("id").slice(0,-2)+"tt");
+	var xCoord = e.pageX - (detailtt.width()+2*xOffset)/$(window).width()*e.pageX + xOffset;
+	var yCoord = e.pageY - yOffset+20;
+	if (yCoord+detailtt.height()>$(window).height()-250) {yCoord -= detailtt.height()+45;}
+	detailtt.css({'visibility':'visible','top':(yCoord)+"px",'left':(xCoord)+"px"}).fadeIn("fast");
+   },
+function(){
+	$("#"+$(this).attr("id").slice(0,-2)+"tt").css({'visibility':'hidden','display':'none'});
+   });
+   
+$("a.preview").mousemove(function(e){
+	var detailtt = $("#"+$(this).attr("id").slice(0,-2)+"tt");
+	var xCoord = e.pageX - (detailtt.width()+2*xOffset)/$(window).width()*e.pageX + xOffset;
+	var yCoord = e.pageY - yOffset+20;
+	if (yCoord+detailtt.height()>$(window).height()-250) {yCoord -= detailtt.height()+45;}	
+	detailtt.css({'top':(yCoord)+"px",'left':(xCoord)+"px"});
+});
+
+</script>
+
+</center>
+</div>
+</body>
+</html>

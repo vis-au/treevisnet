@@ -1,0 +1,12 @@
+TY  - CONF
+AU  - Choi, Junghong
+AU  - hyun Kwon, Oh
+AU  - Lee, Kyungwon
+T1  - Strata Treemaps
+T2  - SIGGRAPH'11: Posters of the Special Interest Group on Computer Graphics and Interactive Techniques Conference
+Y1  - 2011
+SP  - 87
+EP  - 87
+N2  - Treemap is a method of visualization to recognize a hierarchical structure of data using the size and arrangement of nested rectangles. A limitation of a treemap is the difficulty to discern the structure of a hierarchy. Several approaches have been proposed to improve the visibility of the hierarchical structure. These approaches involve the use of a border or padding to emphasize the hierarchical structure. However, this leads to a disparity between the node weight and the relative node size.
+UR  - http://dx.doi.org/10.1145/2037715.2037813
+ER  -

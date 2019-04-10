@@ -1,0 +1,17 @@
+TY  - CONF
+AU  - Eades, Peter
+AU  - Lin, Tao
+AU  - Lin, Xuemin
+A2  - Catarci, Tiziana
+A2  - Costabile, Maria Francesca
+A2  - Levialdi, Stefano
+T1  - Minimum size h-v drawings
+T2  - AVI'92: Proceedings of the Workshop on Advanced Visual Interfaces
+PB  - World Scientific Publishing
+Y1  - 1992
+SP  - 386
+EP  - 394
+N2  - Trees are one of the most commonly used structures in computing, and many techniques for the visualization of trees are available. These techniques usually aim to find an aestetically pleasing layout for a tree on a screen of limited size. This paper presents an algorithm for "h-v tree" drawing. The algorithm can be used to find a drawing of minimal "size", where "size" has a variety of definitions (inclusing area). Two applications of the algorithm are explicitly presented.
+SN  - 9810211236
+UR  - http://www.informatik.uni-rostock.de/~hs162/treeposter/scans/Eades1992a.pdf
+ER  -

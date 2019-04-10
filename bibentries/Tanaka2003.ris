@@ -1,0 +1,14 @@
+TY  - CONF
+AU  - Tanaka, Yoichi
+AU  - Okada, Yoshihiro
+AU  - Niijima, Koichi
+T1  - Treecube: Visualization Tool for Browsing 3D Multimedia Data
+T2  - IV'03: Proceedings of the International Conference on Information Visualisation
+PB  - IEEE Computer Society
+Y1  - 2003
+SP  - 427
+EP  - 432
+N2  - This paper proposes a new 3D visualization tool for hierarchical information. A 2D visualization tool for hierarchical information called treemap has already been proposed by Ben Shneiderman, et al. in 1992. In general, hierarchical information is represented as a tree structure. Treemap hierarchically lays out each node as a bounding box, whose size is the same as the specific weight or attribute value of the node. After the original treemap algorithm called slice-and-dice, some extensions to it have been proposed: squarified treemap, ordered treemap and strip treemap. Furthermore, quantum treemap is a quantization version of these extensions. In this paper, the authors propose a new 3D visualization tool for hierarchical information called treecube that can be taken as a 3D extension of treemap. Especially, this paper shows its usefulness for browsing 3D multimedia data, i.e., 2D images, 3D shape models, motion data, etc., originally stored in a file system.
+SN  - 0769519881
+UR  - http://dx.doi.org/10.1109/IV.2003.1218020
+ER  -

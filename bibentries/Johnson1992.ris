@@ -1,0 +1,15 @@
+TY  - CONF
+AU  - Johnson, Brian
+A2  - Bauersfeld, Penny
+A2  - Bennett, John
+A2  - Lynch, Gene
+T1  - TreeViz: Treemap visualization of hierarchically structured information
+T2  - CHI'92: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems
+PB  - ACM Press
+Y1  - 1992
+SP  - 369
+EP  - 370
+N2  - TreeViz is an Apple Macintosh implementation of the treemap technique for visualizing hierarchical information structures. TreeViz enables users to visualize and browse large hierarchically structured information spaces. TreeViz enables the drawing of hierarchies an order of magnitude larger (number of nodes) than is possible with typical presentation methods, given the same display space.
+SN  - 0897915135
+UR  - http://dx.doi.org/10.1145/142750.142833
+ER  -

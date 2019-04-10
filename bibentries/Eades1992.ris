@@ -1,0 +1,11 @@
+TY  - JOUR
+AU  - Eades, Peter
+T1  - Drawing free trees
+JO  - Bulletin of the Institute of Combinatorics and its Applications
+Y1  - 1992
+VL  - 5
+SP  - 10
+EP  - 36
+N2  - Trees are models of various structures in computing and it is not surprising that considerable efforts have been made towards effective drawing algorithms for them. This paper discusses drawing algorithms for "free trees", that is, trees with no special root. The aim of these algorithms is to provide a drawing which satisfies several aesthetic criteria, such as avoiding edge crossings, minimizing variance in edge length, and keeping vertices a resonable distance apart. In this paper we measure the effectiveness of the algorithm presented by proving or disproving that they achieve such criteria.
+UR  - http://www.informatik.uni-rostock.de/~hs162/treeposter/scans/Eades1992.pdf
+ER  -

@@ -1,0 +1,28 @@
+TY  - CONF
+AU  - Tekusova, Tatiana
+AU  - Schreck, Tobias
+A2  - Banissi, Ebad
+A2  - Stuart, Liz
+A2  - Jern, Mikael
+A2  - Andrienko, Gennady
+A2  - Marchese, Francis T.
+A2  - Memon, Nasrullah
+A2  - Alhajj, Reda
+A2  - Wyeld, Theodor G.
+A2  - Burkhard, Remo Aslak
+A2  - Grinstein, Georges
+A2  - Groth, Dennis
+A2  - Ursyn, Anna
+A2  - Maple, Carsten
+A2  - Faiola, Anthony
+A2  - Craft, Brock
+T1  - Visualizing Time-Dependent Data in Multivariate Hierarchic Plots -- Design and Evaluation of an Economic Application
+T2  - IV'08: Proceedings of the International Conference on Information Visualisation
+PB  - IEEE Computer Society
+Y1  - 2008
+SP  - 143
+EP  - 150
+N2  - For successfully competing in a modern economy, large amounts of hierarchic time-dependent data need to be analyzed. As an example, one could consider the geographic composition of inflation in the European Union, or the revenue by product (sub) categories of a firm in the last month. Analysts wish to interpret the structure of the data not only at a single point in time, but examine the changes in the data categories through time. The analysts may need to consider additional dimensions to composition and time, such as the growth rate or profit rate. To reflect such analytic requirements, we have developed an interactive visualization of multi-dimensional, structured data taking the time dimension into account. The data are displayed in a three dimensional hierarchic circular or column plot. The time dimension of the data is represented by animation. Our system provides interactive tools for the visual data analysis and variable set-up of the data display. For better orientation in the data space, we have enhanced the visualization with smooth transitions between different data selections in case of 3D hierarchic plots. The techniques presented can be applied to various data domains. A user study using European inflation data has shown the usefulness for effective economic analysis.
+SN  - 9780769532684
+UR  - http://dx.doi.org/10.1109/IV.2008.51
+ER  -

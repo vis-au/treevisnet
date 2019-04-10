@@ -1,0 +1,18 @@
+TY  - CONF
+AU  - Workman, David
+AU  - Bernard, Margaret
+AU  - Pothoven, Steven
+A2  - Bubak, Marian
+A2  - van Albada, Geert Dick
+A2  - Sloot, Peter M.A.
+A2  - Dongarra, Jack J.
+T1  - An Incremental Editor for Dynamic Hierarchical Drawing of Trees
+T2  - ICCS'04: Proceedings of the International Conference on Computational Science
+PB  - Springer
+Y1  - 2004
+SP  - 986
+EP  - 995
+N2  - We present an incremental tree editor based on algorithms for manipulating shape functions. The tree layout is hierarchical, left-to-right. Nodes of variable size and shape are supported. The paper presents algorithms for basic tree editing operations, including cut and paste. The layout algorithm for positioning child-subtrees rooted at a given parent is incrementally recomputed with each edit operation; it attempts to conserve the total display area allocated to child-subtrees while preserving the user’s mental map. The runtime and space efficiency is good as a result of exploiting a specially designed Shape abstraction for encoding and manipulating the geometric boundaries of subtrees as monotonic step functions to determine their best placement. All tree operations, including loading, saving trees to files, and incremental cut and paste, are worst case O(N) in time, but typically cut and paste are O(log(N)2), where N is the number of nodes.
+SN  - 3540221166
+UR  - http://dx.doi.org/10.1007/978-3-540-24688-6_126
+ER  -

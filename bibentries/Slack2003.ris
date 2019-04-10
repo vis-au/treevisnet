@@ -1,0 +1,12 @@
+TY  - CONF
+AU  - Slack, James
+AU  - Munzner, Tamara
+AU  - Guimbretiére, François
+T1  - TreeJuxtaposer InfoVis Contest Entry
+T2  - InfoVis'03: Poster Compendium of the IEEE Symposium on Information Visualization
+Y1  - 2003
+SP  - 118
+EP  - 119
+N2  - TreeJuxtaposer is a tool for interactive side-by-side tree comparison. Its two key innovations are the automatic marking of topological structural differences, and the guaranteed visibility of marked items. It uses the AccordionDrawer approach for layout and navigation, a multifocus global Focus+Context approach where stretching one part of the tree or screen causes the rest to shrink, and vice versa. Progressive rendering guarantees immediate interactive response even for large trees.
+UR  - http://www.cs.ubc.ca/~tmm/papers/contest03/contest.pdf
+ER  -

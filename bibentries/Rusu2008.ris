@@ -1,0 +1,29 @@
+TY  - CONF
+AU  - Rusu, Adrian
+AU  - Yao, Chu
+AU  - Crowell, Andrew
+A2  - Banissi, Ebad
+A2  - Stuart, Liz
+A2  - Jern, Mikael
+A2  - Andrienko, Gennady
+A2  - Marchese, Francis T.
+A2  - Memon, Nasrullah
+A2  - Alhajj, Reda
+A2  - Wyeld, Theodor G.
+A2  - Burkhard, Remo Aslak
+A2  - Grinstein, Georges
+A2  - Groth, Dennis
+A2  - Ursyn, Anna
+A2  - Maple, Carsten
+A2  - Faiola, Anthony
+A2  - Craft, Brock
+T1  - A Planar Straight-line Grid Drawing Algorithm for High Degree General Trees with User-Specified Angular Coefficient
+T2  - IV'08: Proceedings of the International Conference on Information Visualisation
+PB  - IEEE Computer Society
+Y1  - 2008
+SP  - 600
+EP  - 609
+N2  - General trees are usually displayed as planar straight-line grid drawings which provide an easily understandable structure to the viewer. Current general tree drawing algorithms have one common problem: their drawings on high degree trees produce many small angles, which makes it difficult to distinguish edges. The algorithm we propose in this paper allows the user to provide an angular coefficient and then employs the 'best-effort-delivery' to draw edges such that the angles are above the angular coefficient. It allows the non-root nodes to place their children within a maximum of three quads of the Cartesian plane. When a node has too many children, resulting in an impossibility of achieving angles above the specified angular coefficient, our algorithm distributes all remaining children evenly among the three quads.
+SN  - 9780769532684
+UR  - http://dx.doi.org/10.1109/IV.2008.26
+ER  -

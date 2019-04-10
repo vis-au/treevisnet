@@ -1,0 +1,21 @@
+TY  - CONF
+AU  - Chi, Ed H.
+AU  - Pitkow, James
+AU  - Mackinlay, Jock
+AU  - Pirolli, Peter
+AU  - Gossweiler, Rich
+AU  - Card, Stuart K.
+A2  - Karat, Clare-Marie
+A2  - Lund, Arnold
+A2  - Coutaz, Joëlle
+A2  - Karat, John
+T1  - Visualizing the evolution of Web ecologies
+T2  - CHI'98: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems
+PB  - ACM Press
+Y1  - 1998
+SP  - 400
+EP  - 407
+N2  - Several visualizations have emerged which attempt to visualize all or part of the World Wide Web. Those visualizations, however, fail to present the dynamically changing ecology of users and documents on the Web. We present new techniques for Web Ecology and Evolution Visualization (WEEV). Disk Trees represent a discrete time slice of the Web ecology. A collection of Disk Trees forms a Time Tube, representing the evolution of the Web over longer periods of time. These visualizations are intended to aid authors and webmasters with the production and organization of content, assist Web surfers making sense of information, and help researchers understand the Web.
+SN  - 0201309874
+UR  - http://dx.doi.org/10.1145/274644.274699
+ER  -

@@ -1,0 +1,18 @@
+TY  - CONF
+AU  - Granitzer, Michael
+AU  - Kienreich, Wolfgang
+AU  - Sabol, Vedran
+AU  - Andrews, Keith
+AU  - Klieber, Werner
+A2  - Ward, Matthew O.
+A2  - Munzner, Tamara
+T1  - Evaluating a System for Interactive Exploration of Large, Hierarchically Structured Document Repositories
+T2  - InfoVis'04: Proceedings of the IEEE Symposium on Information Visualization
+PB  - IEEE Computer Society
+Y1  - 2004
+SP  - 127
+EP  - 134
+N2  - The InfoSky visual explorer is a system enabling users to interactively explore large, hierarchically structured document collections. Similar to a real-world telescope, InfoSky employs a planar graphical representation with variable magnification. Documents of similar content are placed close to each other and displayed as stars, while collections of documents at a particular level in the hierarchy are visualised as bounding polygons. Usability testing of an early prototype implementation of InfoSky revealed several design issues which prevented users from fully exploiting the power of the visual metaphor. Evaluation results have been incorporated into an advanced prototype, and another usability test has been conducted. A comparison of test results demonstrates enhanced system performance and points out promising directions for further work.
+SN  - 0780387791
+UR  - http://dx.doi.org/10.1109/INFVIS.2004.19
+ER  -

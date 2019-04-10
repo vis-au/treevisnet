@@ -1,0 +1,12 @@
+TY  - PAT
+AU  - Cao, Nan
+AU  - Liu, Shixia
+AU  - Lu, Hao
+AU  - Ma, Xi Jun
+AU  - Wattenberg, Martin M.
+T1  - Method and apparatus for improving the visibility of a Treemap
+Y1  - 2011
+IS  - US 7870509 B2
+N2  - The visibility of a treemap is improved by offsetting the area of a parent node relative to a bounding box containing all of its child nodes while constructing the treemap, so that a part of the bounding box lies outside the area of the parent node, and the area of each child node in the bounding box is located entirely or partially within the area of the parent node. The present invention highlights the parent-child relationships in the treemap with a cascading effect to make the structural information therein more apparent and easier to recognize.
+UR  - http://www.freepatentsonline.com/7870509.html
+ER  -

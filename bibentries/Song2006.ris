@@ -1,0 +1,19 @@
+TY  - CONF
+AU  - Song, Hongzhi
+AU  - Qi, Yu
+AU  - Xiao, Lei
+AU  - Zhu, Tonglin
+AU  - Curran, Edwin P.
+A2  - Chen, Qingzhang
+A2  - Liang, Ronghua
+A2  - Pan, Zhigeng
+T1  - LensTree: Browsing and Navigating Large Hierarchical Information Structures
+T2  - ICAT'06: Proceedings of the International Conference on Artificial Reality and Telexistence
+PB  - IEEE Computer Society
+Y1  - 2006
+SP  - 682
+EP  - 687
+N2  - This paper presents LensTree, a novel browsing and navigation tool for large hierarchical information structures. It enhances traditional indented lists by applying focus+context view to its design. LensTree dynamically changes the sizes of nodes to provide a focal area around the mouse pointer while keeping nodes in the peripheral area in smaller sizes as context. This enables it to display a larger hierarchy than traditional indented lists within the same screen area. Therefore scrolling and expanding/collapsing are less often used so that it is more efficient for performing browsing and navigation tasks. An informal user test was conducted and the users showed strong interest to LensTree's visual presentation. It suggested that this technique was worth further exploitation.
+SN  - 076952754X
+UR  - http://dx.doi.org/10.1109/ICAT.2006.81
+ER  -

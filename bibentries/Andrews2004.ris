@@ -1,0 +1,11 @@
+TY  - CONF
+AU  - Andrews, Keith
+AU  - Kienreich, Wolfgang
+AU  - Sabol, Vedran
+AU  - Granitzer, Michael
+T1  - The visualisation of large hierarchical document spaces with InfoSky
+T2  - CODATA'04: Proceedings of the Workshop on Information Visualisation, Presentation and Design
+Y1  - 2004
+N2  - It is no longer unusual for large document collections to contain many millions of documents. In order to manage this size of repository, it is often essential to structure the repository according to a thematic classification hierarchy. InfoSky is a system enabling users to explore such large, hierarchically structured document collections. Similar to a real-world telescope, InfoSky employs a planar graphical representation with variable magnification. The hierarchical structure is represented by recursive Voronoi subdivision of the available space. At each level, larger subcollections are assigned more space and related subcollections gravitate towards one another. Individual documents at each level of the hierarchy are represented by stars placed according to their similarity. Finally, InfoSky extracts and displays descriptors describing the essential theme of each subcollection at each level of the hierarchy.
+UR  - http://dcgi.felk.cvut.cz/cgg/infoviz04/papers/andrews.pdf
+ER  -

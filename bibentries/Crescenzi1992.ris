@@ -1,0 +1,14 @@
+TY  - JOUR
+AU  - Crescenzi, Pierluigi
+AU  - Battista, Giuseppe Di
+AU  - Piperno, Adolfo
+T1  - A note on optimal area algorithms for upward drawings of binary trees
+JO  - Computational Geometry
+Y1  - 1992
+VL  - 2
+IS  - 4
+SP  - 187
+EP  - 200
+N2  - The goal of this paper is to investigate the area requirements for upward grid drawings of binary trees. First, we show that there is a family of binary trees with n vertices that require w(n*logn) area; this bound is tight to within a constant factor, i.e. any binary tree with n vertices can be drawn in O(n*logn) area. Then we present an algorithm for constructing an upward drawing of a complete binary tree with n vertices in O(n) area, and, finally, we extend this result to the drawings of Fibonacci trees.
+UR  - http://dx.doi.org/10.1016/0925-7721(92)90021-J
+ER  -

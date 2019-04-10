@@ -1,0 +1,15 @@
+TY  - CONF
+AU  - Ahmed, Adel
+AU  - Hong, Seok-Hee
+A2  - Hong, Seok-Hee
+A2  - Ma, Kwan-Liu
+T1  - Navigation techniques for 2.5D graph layout
+T2  - APVIS'07: Proceedings of the Asia Pacific Symposium on Information Visualization
+PB  - IEEE Computer Society
+Y1  - 2007
+SP  - 81
+EP  - 84
+N2  - In this paper, we consider the problem of navigating graphs drawn in 2.5 dimensions. First, we define criteria for good navigation and then present various methods to satisfy some of the criteria. In particular, we design and implement methods for trees, clustered graphs and hierarchical graphs drawn in 2.5 dimensions.
+SN  - 1424408083
+UR  - http://dx.doi.org/10.1109/APVIS.2007.329279
+ER  -

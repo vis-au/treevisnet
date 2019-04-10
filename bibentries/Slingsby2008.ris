@@ -1,0 +1,14 @@
+TY  - JOUR
+AU  - Slingsby, Aidan
+AU  - Dykes, Jason
+AU  - Wood, Jo
+T1  - Using Treemaps for variable selection in spatio-temporal visualisation
+JO  - Information Visualization
+Y1  - 2008
+VL  - 7
+IS  - 3
+SP  - 210
+EP  - 224
+N2  - We demonstrate and reflect upon the use of enhanced treemaps that incorporate spatial and temporal ordering for exploring a large multivariate spatio-temporal data set. The resulting data-dense views summarise and simultaneously present hundreds of space-, time-, and variable-constrained subsets of a large multivariate data set in a structure that facilitates their meaningful comparison and supports visual analysis. Interactive techniques allow localised patterns to be explored and subsets of interest selected and compared with the spatial aggregate. Spatial variation is considered through interactive raster maps and high-resolution local road maps. The techniques are developed in the context of 42.2 million records of vehicular activity in a 98 sqkm area of central London and informally evaluated through a design used in the exploratory visualisation of this data set. The main advantages of our technique are the means to simultaneously display hundreds of summaries of the data and to interactively browse hundreds of variable combinations with ordering and symbolism that are consistent and appropriate for space- and time-based variables. These capabilities are difficult to achieve in the case of spatio-temporal data with categorical attributes using existing geovisualisation methods. We acknowledge limitations in the treemap representation but enhance the cognitive plausibility of this popular layout through our two-dimensional ordering algorithm and interactions. Patterns that are expected (e.g. more traffic in central London), interesting (e.g. the spatial and temporal distribution of particular vehicle types) and anomalous (e.g. low speeds on particular road sections) are detected at various scales and locations using the approach. In many cases, anomalies identify biases that may have implications for future use of the data set for analyses and applications. Ordered treemaps appear to have potential as interactive interfaces for variable selection in spatio-temporal visualisation.
+UR  - http://dx.doi.org/10.1057/palgrave.ivs.9500185
+ER  -

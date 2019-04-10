@@ -1,0 +1,9 @@
+TY  - PAT
+AU  - Strasnick, Steven L.
+AU  - Tesler, Joel D.
+T1  - Method and apparatus for navigation within three-dimensional information landscape
+Y1  - 1996
+IS  - US 5555354
+N2  - A method and apparatus for navigating within a three dimensional graphic display space and manipulating information and data represented by objects in display space. The method and apparatus presents users with a vastly expanded view of their data, displayed with a richer dimensionality. Data objects represented by graphic objects are arranged into a navigable landscape representing the containership and contextual relations of the underlying data. The graphic objects are columns, pedestals and disks, which represent data blocks, cells, and comparative values respectively. The columns rest on the pedestals. The disks are located with respect to the top of the column to signify a comparative attribute. The pedestal rest upon a ground plane. The ground plane represents a threshold value. Data attributes may be represented by visual, textual, executable, or audible characteristics of the display. The user may interact with the data to affect change in the underlying data or its representation within the display space. Less detail is displayed as the user navigates away from objects within the display space. Objects change from three-dimensional to two-dimensional, to line segments as the user moves away from the objects. Visible attributes such as text and icons are not displayed for distant objects.
+UR  - http://www.freepatentsonline.com/5555354.html
+ER  -

@@ -1,0 +1,7 @@
+TY  - GEN
+AU  - Wetzel, Kai
+T1  - Pebbles -- using Circular Treemaps to visualize disk usage
+Y1  - 2003
+N2  - During the 1990s Ben Shneiderman of the Human-Computer Interaction Laboritory (HCIL) of the University of Maryland invented Treemaps as a "compact visualization of directory tree structures". Treemaps involve "turning a tree into a planar space-filling" representation. Unlike other variations such as squarified treemaps, or cushion treemaps, circular treemaps as presented here could be considered an evolutionary dead-end (rejected early by Ben Shneiderman) but at least I think it's a pretty one.
+UR  - http://lip.sourceforge.net/ctreemap.html
+ER  -

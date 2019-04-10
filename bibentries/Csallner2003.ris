@@ -1,0 +1,17 @@
+TY  - CONF
+AU  - Csallner, Christoph
+AU  - Handte, Marcus
+AU  - Lehmann, Othmar
+AU  - Stasko, John
+A2  - Munzner, Tamara
+A2  - North, Stephen
+T1  - FundExplorer: Supporting the diversification of mutual fund portfolios using Context Treemaps
+T2  - InfoVis'03: Proceedings of the IEEE Symposium on Information Visualization
+PB  - IEEE Computer Society
+Y1  - 2003
+SP  - 203
+EP  - 208
+N2  - An equity mutual fund is a financial instrument that invests in a set of stocks. Any two different funds may partially invest in some of the same stocks, thus overlap is common. Portfolio diversification aims at spreading an investment over many different stocks in search of greater returns. Helping people with portfolio diversification is challenging because it requires informing them about both their current portfolio of stocks held through funds and the other stocks in the market not invested in yet. Current stock/fund visualization systems either waste screen real estate and visualization of all data points. We have developed a system called FundExplorer that implements a distorted treemap to visualize both the amount of money invested in a person's fund portfolio and the context of remaining market stocks. The FundExplorer system enables people to interactively explore diversification possibilities with their portfolios.
+SN  - 0780381548
+UR  - http://dx.doi.org/10.1109/INFVIS.2003.1249027
+ER  -

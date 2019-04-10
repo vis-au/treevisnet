@@ -1,0 +1,14 @@
+TY  - CONF
+AU  - Heer, Jeffrey
+AU  - Card, Stuart K.
+A2  - Costabile, Maria Francesca
+T1  - DOITrees Revisited: Scalable, Space-Constrained Visualization of Hierarchical Data
+T2  - AVI'04: Proceedings of the Working Conference on Advanced Visual Interfaces
+PB  - ACM Press
+Y1  - 2004
+SP  - 421
+EP  - 424
+N2  - This paper extends previous work on focus+context visualizations of tree-structured data, introducing an efficient, space-constrained, multi-focal tree layout algorithm (TreeBlock) and techniques at both the system and interactive levels for dealing with scale. These contributions are realized in a new version of the Degree-Of-Interest Tree browser, supporting real-time interactive visualization and exploration of data sets containing on the order of a million nodes.
+SN  - 1581138679
+UR  - http://dx.doi.org/10.1145/989863.989941
+ER  -

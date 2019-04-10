@@ -1,0 +1,10 @@
+TY  - PAT
+AU  - Hida, Yozo
+AU  - Lamping, John O.
+AU  - Rao, Ramana B.
+T1  - Tree visualization system and method based upon a compressed half-plane model of hyperbolic geometry
+Y1  - 2005
+IS  - US 6901555 B2
+N2  - A node-link structure is displayed within a display area, having a narrow rectangular shape with an edge along one side acting as a horizon of a hyperbolic space half-plane. Lower level node features that share a parent node feature have centers of area positioned on the display in order along a line parallel with the horizon, with sufficiently similar spacings along an axis perpendicular to the horizon from the region around a parent node feature, and with sufficiently similar spacings in a dimension parallel to the horizon from adjacent node features along the line, that the lower level node features sharing the parent node feature are perceptible as a group of related node features. The half-plane model with compression is used for layout of the node-link data, and the hyperbolic layout data is mapped to a Euclidean space for display.
+UR  - http://www.freepatentsonline.com/6901555.html
+ER  -

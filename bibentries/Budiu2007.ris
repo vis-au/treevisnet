@@ -1,0 +1,15 @@
+TY  - CONF
+AU  - Budiu, Raluca
+AU  - Pirolli, Peter
+A2  - McNamara, Danielle S.
+A2  - Trafton, Greg
+T1  - Modeling Navigation in Degree-of-Interest Trees
+T2  - CogSci'07: Proceedings of the Conference of the Cognitive Science Society
+PB  - Psychology Press
+Y1  - 2007
+SP  - 845
+EP  - 850
+N2  - We present an ACT-R (Anderson and Lebiere, 1998) computational model of how people navigate in a degree-of-interest (DOI) tree. The model incorporates a visual salience function that determines which part of the display to attend to next. The salience function uses visual features of the display (e.g., distances) and semantic features of labels (e.g., information scent). The model was compared against data from participants and provided medium to strong fits to latencies and the number of nodes visited by the participants. The model shows that it is useful to distinguish between category-based versus similarity-based information scent. It also suggests that visual distance and scent may interact with one another, with scent playing a greater role at distances close to the current node in the visual focus.
+SN  - 9781605605074
+UR  - http://csjarchive.cogsci.rpi.edu/Proceedings/2007/docs/p845.pdf
+ER  -

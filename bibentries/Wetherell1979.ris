@@ -1,0 +1,13 @@
+TY  - JOUR
+AU  - Wetherell, Charles
+AU  - Shannon, Alfred
+T1  - Tidy Drawings of Trees
+JO  - IEEE Transactions on Software Engineering
+Y1  - 1979
+VL  - SE-5
+IS  - 5
+SP  - 514
+EP  - 520
+N2  - Trees are extremely common data structures, both as internal objects and as models for program output. But it is unusual to see a program actually draw trees for visual inspection. Although part of the difficulty lies in programming graphics devices, most of the problem arises because naive algorithms to draw trees use too much drawing space and sophisticated algorithms are not obvious. We survey two naive tree drawers, formalize aesthetics for tidy trees, and descnbe two algorithms which draw tidy trees. One of the algorithms may be shown to require the minimum possible paper width. Along with the algorithms proper, we discuss the reasoning behind the algorithm development.
+UR  - http://dx.doi.org/10.1109/TSE.1979.234212
+ER  -

@@ -1,0 +1,15 @@
+TY  - JOUR
+AU  - Sallaberry, Arnaud
+AU  - Fu, Yang-Chih
+AU  - Ho, Hwai-Chung
+AU  - Ma, Kwan-Liu
+T1  - Contact Trees: Network Visualization beyond Nodes and Edges
+JO  - PLOS One
+Y1  - 2016
+VL  - 11
+IS  - 1
+SP  - e0146368
+EP  - e0146368
+N2  - Node-Link diagrams make it possible to take a quick glance at how nodes (or actors) in a network are connected by edges (or ties). A conventional network diagram of a "contact tree" maps out a root and branches that represent the structure of nodes and edges, often without further specifying leaves or fruits that would have grown from small branches. By furnishing such a network structure with leaves and fruits, we reveal details about "contacts" in our ContactTrees upon which ties and relationships are constructed. Our elegant design employs a bottom-up approach that resembles a recent attempt to understand subjective well-being by means of a series of emotions. Such a bottom-up approach to social-network studies decomposes each tie into a series of interactions or contacts, which can help deepen our understanding of the complexity embedded in a network structure. Unlike previous network visualizations, ContactTrees highlight how relationships form and change based upon interactions among actors, as well as how relationships and networks vary by contact attributes. Based on a botanical tree metaphor, the design is easy to construct and the resulting tree-like visualization can display many properties at both tie and contact levels, thus recapturing a key ingredient missing from conventional techniques of network visualization. We demonstrate ContactTrees using data sets consisting of up to three waves of 3-month contact diaries over the 2004-2012 period, and discuss how this design can be applied to other types of datasets.
+UR  - http://dx.doi.org/10.1371/journal.pone.0146368
+ER  -

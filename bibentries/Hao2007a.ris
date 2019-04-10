@@ -1,0 +1,11 @@
+TY  - CONF
+AU  - Hao, Jie
+AU  - Zhang, Kang
+T1  - A Mobile Interface for Hierarchical Information Visualization and Navigation
+T2  - ISCE'07: Proceedings of the IEEE International Symposium on Consumer Electronics
+PB  - IEEE Computer Society
+Y1  - 2007
+N2  - There is a dramatic increase in the population who use mobile computing devices. Though the hardware becomes more powerful, effective support for information rendering on small screens very much lags behind. To display hierarchical information, researchers have proposed many algorithms for desktop screen visualization. Such algorithms are generally divided into connection and enclosure. Connection approach displays hierarchy with a clear structure but consume display area. Enclosure can maximally utilize the screen space but the layout is essentially implicit. This paper describes a new Radial Edgeless Tree (RELT) for visualizing hierarchical data on palm sized devices. The aim of RELT is to combine the advantages of connection and enclosure approaches. By recursively partitioning the display area, this technique maximizes the space usage. The structural clarity of layout can be reached by arranging location of non-overlapping regions. RELT can be adapted for visualizing structural information for various applications.
+SN  - 9781424411092
+UR  - http://dx.doi.org/10.1109/ISCE.2007.4382214
+ER  -

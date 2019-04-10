@@ -1,0 +1,14 @@
+TY  - JOUR
+AU  - Jia, Ming
+AU  - Choi, Suh-Yeon
+AU  - Reiners, Dirk
+AU  - Wurtele, Eve S.
+AU  - Dickerson, Julie A.
+T1  - MetNetGE: interactive views of biological networks and ontologies
+JO  - BMC Bioinformatics
+Y1  - 2010
+VL  - 11
+IS  - 469
+N2  - Linking high-throughput experimental data with biological networks is a key step for understanding complex biological systems. Currently, visualization tools for large metabolic networks often result in a dense web of connections that is difficult to interpret biologically. The MetNetGE application organizes and visualizes biological networks in a meaningful way to improve performance and biological interpretability. MetNetGE is an interactive visualization tool based on the Google Earth platform. MetNetGE features novel visualization techniques for pathway and ontology information display. Instead of simply showing hundreds of pathways in a complex graph, MetNetGE gives an overview of the network using the hierarchical pathway ontology using a novel layout, called the Enhanced Radial Space-Filling (ERSF) approach that allows the network to be summarized compactly. The non-tree edges in the pathway or gene ontology, which represent pathways or genes that belong to multiple categories, are linked using orbital connections in a third dimension. Biologists can easily identify highly activated pathways or gene ontology categories by mapping of summary experiment statistics such as coefficient of variation and overrepresentation values onto the visualization. After identifying such pathways, biologists can focus on the corresponding region to explore detailed pathway structure and experimental data in an aligned 3D tiered layout. In this paper, the use of MetNetGE is illustrated with pathway diagrams and data from E. coli and Arabidopsis. MetNetGE is a visualization tool that organizes biological networks according to a hierarchical ontology structure. The ERSF technique assigns attributes in 3D space, such as color, height, and transparency, to any ontological structure. For hierarchical data, the novel ERSF layout enables the user to identify pathways or categories that are differentially regulated in particular experiments. MetNetGE also displays complex biological pathway in an aligned 3D tiered layout for exploration.
+UR  - http://dx.doi.org/10.1186/1471-2105-11-469
+ER  -

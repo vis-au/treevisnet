@@ -1,0 +1,14 @@
+TY  - CONF
+AU  - Chhetri, Abhishek P.
+AU  - Zhang, Kang
+AU  - Jain, Eakta
+T1  - ERELT: a faster alternative to the list-based interfaces for tree exploration and searching in mobile devices
+T2  - VINCI'13: Proceedings of the International Symposium on Visual Information Communication and Interaction
+PB  - ACM Press
+Y1  - 2013
+SP  - 54
+EP  - 63
+N2  - This paper presents ERELT (Enhanced Radial Edgeless Tree), a tree visualization approach on modern mobile devices. ERELT is designed to offer a clear visualization of any tree structure with intuitive interaction. We are interested in both the observation and navigation of such structures. Such visualization can assist users in interacting with a hierarchical structure such as a media collection, file system, etc. In the ERELT visualization, a subset of the tree is displayed at a time. The displayed tree size depends on the maximum number of tree elements that can be put on the screen while maintaining clarity. Users can quickly navigate to the hidden parts of the tree through touch-based gestures. We conducted a user study to evaluate this visualization for a music collection. Test results show that this approach reduces the time and effort in navigating tree structures for exploration and search tasks.
+SN  - 9781450319881
+UR  - http://dx.doi.org/10.1145/2493102.2493109
+ER  -

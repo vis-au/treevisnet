@@ -1,0 +1,11 @@
+TY  - CONF
+AU  - Balzer, Michael
+AU  - Deussen, Oliver
+T1  - Hierarchy based 3D Visualization of Large Software Structures
+T2  - Visualization'04: Poster Compendium of the IEEE Visualization Conference
+Y1  - 2004
+SP  - 81
+EP  - 82
+N2  - Modern object-oriented programs are hierarchical systems with many thousands of interrelated subsystems. Visualization helps developers to better comprehend these large and complex systems. This work presents a three-dimensional visualization technique that represents the static structure of object-oriented software using distributions of three-dimensional objects on a two-dimensional plane. The visual complexity is reduced by adjusting the transparency of object surfaces to the distance of the viewpoint. An approach called Hierarchical Net is proposed for a clear representation of the relationships between the subsystems.
+UR  - http://dx.doi.org/10.1109/VISUAL.2004.39
+ER  -

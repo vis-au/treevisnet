@@ -1,0 +1,7 @@
+TY  - GEN
+AU  - Rafelsberger, Walter
+T1  - 3D family tree visualization using Rhizome Navigation
+Y1  - 2007
+N2  - For an upcoming documentary by Benedikt Bjarnason, Rhizome Navigation was used to create animated visualizations of large genealogy data sets. The graph layout was done using an adapted force-directed algorithm and features more than 3300 persons. What set's it apart from similar visualizations is the capability to show far more complex relationships by breaking up the classic tree structure and following a more rhizome-like approach - and of course the sheer amount of relationships shown.
+UR  - http://www.rafelsberger.at/node/genealogy-visualization
+ER  -

@@ -1,0 +1,25 @@
+TY  - CONF
+AU  - Luboschik, Martin
+AU  - Schumann, Heidrun
+A2  - Banissi, Ebad
+A2  - Burkhard, Remo Aslak
+A2  - Grinstein, Georges
+A2  - Cvek, Urska
+A2  - Trutschl, Marjan
+A2  - Stuart, Liz
+A2  - Wyeld, Theodor G.
+A2  - Andrienko, Gennady
+A2  - Dykes, Jason
+A2  - Jern, Mikael
+A2  - Groth, Dennis
+A2  - Ursyn, Anna
+T1  - Explode to Explain -- Illustrative Information Visualization
+T2  - IV'07: Proceedings of the International Conference on Information Visualisation
+PB  - IEEE Computer Society
+Y1  - 2007
+SP  - 301
+EP  - 307
+N2  - Due to complexity, modern visualization techniques for large data volumes and complex interrelationships are difficult to understand for non-expert users and even for expert users the visualization result may be difficult to interpret. Often the limited screen space and the risk of occlusion hinders a meaningful explanation of techniques or datasets by additional visual elements. This paper presents a novel way how views from information visualization can be adapted by the use of the well-known illustrative technique "exploded view", to successfully face the problems described above. The application of exploded views gains screen space for an explanation in a smart way and acts explanatory itself. With our approach of illustrating visual representations, the understanding of complex visualization techniques is eased and new comprehensible views on data are given.
+SN  - 0769529003
+UR  - http://dx.doi.org/10.1109/IV.2007.50
+ER  -

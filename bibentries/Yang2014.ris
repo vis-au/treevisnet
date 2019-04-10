@@ -1,0 +1,17 @@
+TY  - CONF
+AU  - Yang, Yalong
+AU  - Dou, Ning
+AU  - Zhao, Shuai
+AU  - Yang, Zhichao
+AU  - Zhang, Kang
+AU  - Nguyen, Quang Vinh
+T1  - Visualizing large hierarchies with Drawer Trees
+T2  - SAC'14: Proceedings of the ACM Symposium on Applied Computing
+PB  - ACM Press
+Y1  - 2014
+SP  - 951
+EP  - 956
+N2  - Enclosure partitioning approaches, such as Treemaps, have proved their effectiveness in visualizing large hierarchical structures within a compact and limited display area. Most of the Treemaps techniques do not use node-links to show the structural relations. This paper presents a new tree visualization approach known as Drawer-Tree that can be used to present the structure, organization and interrelation of big data. By utilizing the display space with traditional node-link visualization, we have developed a novel method for visualizing tree structures with high scalability. The name "drawer" is a metaphor that helps people understand the visualization.
+SN  - 9781450324694
+UR  - http://dx.doi.org/10.1145/2554850.2554870
+ER  -

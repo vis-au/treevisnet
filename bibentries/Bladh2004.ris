@@ -1,0 +1,17 @@
+TY  - CONF
+AU  - Bladh, Thomas
+AU  - Carr, David A.
+AU  - Scholl, Jeremiah
+A2  - Masoodian, Masood
+A2  - Jones, Steve
+A2  - Rogers, Bill
+T1  - Extending Tree-Maps to Three Dimensions: A Comparative Study
+T2  - APCHI'04: Proceedings of the Asia Pacific Conference on Computer Human Interaction
+PB  - Springer
+Y1  - 2004
+SP  - 50
+EP  - 59
+N2  - This paper presents StepTree, an information visualization tool designed for depicting hierarchies, such as directory structures. StepTree is similar to the hierarchy-visualization tool, Treemap, in that it uses a rectangular, space-filling methodology, but differs from Treemap in that it employs three-dimensional space, which is used to more clearly convey the structural relationships of the hierarchy. The paper includes an empirical study comparing typical search and analysis tasks using StepTree and Treemap. The study shows that users perform significantly better on tasks related to interpreting structural relationships when using StepTree. In addition, users achieved the same performance with StepTree and Treemap when doing a range of other common interpretative and navigational tasks.
+SN  - 9783540223122
+UR  - http://dx.doi.org/10.1007/978-3-540-27795-8_6
+ER  -

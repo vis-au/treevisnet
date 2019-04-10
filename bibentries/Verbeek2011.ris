@@ -1,0 +1,18 @@
+TY  - CONF
+AU  - Verbeek, Kevin
+AU  - Buchin, Kevin
+AU  - Speckmann, Bettina
+A2  - Asano, Takao
+A2  - ichi Nakano, Shin
+A2  - Okamoto, Yoshio
+A2  - Watanabe, Osamu
+T1  - Angle-Restricted Steiner Arborescences for Flow Map Layout
+T2  - ISAAC'11: Proceedings of the International Symposium on Algorithms and Computations
+PB  - Springer
+Y1  - 2011
+SP  - 250
+EP  - 259
+N2  - We introduce a new variant of the geometric Steiner arborescence problem, motivated by the layout of flow maps. Flow maps show the movement of objects between places. They reduce visual clutter by bundling lines smoothly and avoiding self-intersections. To capture these properties, our angle-restricted Steiner arborescences, or flux trees, connect several targets to a source with a tree of minimal length whose arcs obey a certain restriction on the angle they form with the source. We study the properties of optimal flux trees and show that they are planar and consist of logarithmic spirals and straight lines. Flux trees have the shallow-light property. We show that computing optimal flux trees is NP-hard. Hence we consider a variant of flux trees which uses only logarithmic spirals. Spiral trees approximate flux trees within a factor depending on the angle restriction. Computing optimal spiral trees remains NP-hard, but we present an efficient 2-approximation, which can be extended to avoid "positive monotone"' obstacles.
+SN  - 9783642255908
+UR  - http://dx.doi.org/10.1007/978-3-642-25591-5_27
+ER  -

@@ -1,0 +1,32 @@
+TY  - CONF
+AU  - Miyazaki, Reiko
+AU  - Itoh, Takayuki
+A2  - Banissi, Ebad
+A2  - Stuart, Liz
+A2  - Wyeld, Theodor G.
+A2  - Jern, Mikael
+A2  - Andrienko, Gennady
+A2  - Memon, Nasrullah
+A2  - Alhajj, Reda
+A2  - Burkhard, Remo Aslak
+A2  - Grinstein, Georges
+A2  - Groth, Dennis
+A2  - Ursyn, Anna
+A2  - Johansson, Jimmy
+A2  - Forsell, Camilla
+A2  - Cvek, Urska
+A2  - Trutschi, Marjan
+A2  - Marchese, Francis T.
+A2  - Maple, Carsten
+A2  - Cowell, Andrew J.
+A2  - Moere, Andrew Vande
+T1  - An Occlusion-Reduced 3D Hierarchical Data Visualization Technique
+T2  - IV'09: Proceedings of the International Conference on Information Visualisation
+PB  - IEEE Computer Society
+Y1  - 2009
+SP  - 38
+EP  - 43
+N2  - Occlusion is an important problem to be solved for readability improvement of 3D visualization techniques. This paper presents an occlusion reduction technique for cityscape-style 3D visualization techniques. The paper first presents an algorithm for occlusion reduction. It generates bounding boxes of 3D objects on the 2D display space, moves them to reduce their overlap, and finally reversely projects their movements onto the 3D space. The paper then presents an application of the algorithm to our own hierarchical data visualization technique, and a music browser based on the technique. The paper also shows several numerical evaluations that denote the effectiveness of the presented technique.
+SN  - 9780769537337
+UR  - http://dx.doi.org/10.1109/IV.2009.32
+ER  -

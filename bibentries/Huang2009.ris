@@ -1,0 +1,33 @@
+TY  - CONF
+AU  - Huang, Mao Lin
+AU  - Huang, Tze-Haw
+AU  - Zhang, Jiawan
+A2  - Banissi, Ebad
+A2  - Stuart, Liz
+A2  - Wyeld, Theodor G.
+A2  - Jern, Mikael
+A2  - Andrienko, Gennady
+A2  - Memon, Nasrullah
+A2  - Alhajj, Reda
+A2  - Burkhard, Remo Aslak
+A2  - Grinstein, Georges
+A2  - Groth, Dennis
+A2  - Ursyn, Anna
+A2  - Johansson, Jimmy
+A2  - Forsell, Camilla
+A2  - Cvek, Urska
+A2  - Trutschi, Marjan
+A2  - Marchese, Francis T.
+A2  - Maple, Carsten
+A2  - Cowell, Andrew J.
+A2  - Moere, Andrew Vande
+T1  - TreemapBar: Visualizing Additional Dimensions of Data in Bar Chart
+T2  - IV'09: Proceedings of the International Conference on Information Visualisation
+PB  - IEEE Computer Society
+Y1  - 2009
+SP  - 98
+EP  - 103
+N2  - Bar chart is a very common and simple graph that is mainly used to visualize simple x, y plots of data for numerical comparisons by partitioning the categorical data values into bars and typically limited to operate on highly aggregated dataset. In today's growing complexity of business data with multi dimensional attributes using bar chart itself is not sufficient to deal with the representation of such business dataset and it also not utilizes the screen space efficiently.Nevertheless, bar chart is still useful because of its shape create strong visual attention to users at first glance than other visualization techniques. In this article, we present a treemap bar chart + tablelens interaction technique that combines the treemap and bar chart visualizations with a tablelens based zooming technique that allows users to view the detail of a particular bar when the density of bars increases. In our approach, the capability of the original bar chart and treemaps for representing complex business data is enhanced and the utilization of display space is also optimized.
+SN  - 9780769537337
+UR  - http://dx.doi.org/10.1109/IV.2009.22
+ER  -

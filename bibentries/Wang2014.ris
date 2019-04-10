@@ -1,0 +1,21 @@
+TY  - CONF
+AU  - Wang, Peng
+AU  - Zhang, Kang
+AU  - Song, Xiaonan
+AU  - Zhou, Tianyi
+AU  - Gong, Dongwei
+A2  - Han, Yan
+A2  - Song, Wenai
+A2  - Xu, Simon
+A2  - Chen, Lichao
+A2  - Lee, Roger
+T1  - Geometry based visualization of hierarchical structures
+T2  - ICIS'14: Proceedings of the IEEE/ACIS International Conference on Computer and Information Science
+PB  - IEEE Computer Society
+Y1  - 2014
+SP  - 465
+EP  - 470
+N2  - Hierarchical structures are a common organization of data in the real world. In this paper, we propose a new type of tree structures called diamond tree to present the organization and relationship of hierarchical data. We design a spatial layout using the geometric theory, starting with a simple design and continually improving until the design that makes the best use of the screen estate. Finally, we use the diamond tree method to analyze the structure of Tianjin University website.
+SN  - 9781479948611
+UR  - http://dx.doi.org/10.1109/ICIS.2014.6912178
+ER  -

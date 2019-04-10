@@ -1,0 +1,14 @@
+TY  - JOUR
+AU  - Eades, Peter
+AU  - Lin, Tao
+AU  - Lin, Xuemin
+T1  - Two Tree Drawing Conventions
+JO  - International Journal of Computational Geometry and Applications
+Y1  - 1993
+VL  - 3
+IS  - 2
+SP  - 133
+EP  - 153
+N2  - Rooted trees abound in computing and it is often necessary to draw them for visualization and documentation purposes. In the classical convention for tree drawing, the tree is drawn in a "level" fashion, with nodes (represented by boxes) at depth k lying on a horizontal line at a distance of k units below the root. The parent-child relationships are represented by lines between the boxes. Several algorithms have been developed for constructing a compact layout of a tree in the classical convention. In this paper we investigate algorithms for drawing trees according to two new conventions. In the inclusion convention, nodes are represented by boxes, and the parent-child relationship is represented by inclusion of one box in another. The tip-over convention again represents nodes as boxes, and, like the classical convention, represents the parent-child relationship by lines between the boxes; however, we allow siblings to be arranged vertically rather than horizontally. For many of the cases which arise in visualization of trees (for example, binary trees with textual information at the leaves) we present polynomial time algorithms. However, the general problem of finding minimum size layouts for either of the new conventions is shown to be NP-hard.
+UR  - http://dx.doi.org/10.1142/S0218195993000099
+ER  -

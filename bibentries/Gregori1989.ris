@@ -1,0 +1,12 @@
+TY  - JOUR
+AU  - Gregori, Angelo
+T1  - Unit-length embedding of binary trees on a square grid
+JO  - Information Processing Letters
+Y1  - 1989
+VL  - 31
+IS  - 4
+SP  - 167
+EP  - 173
+N2  - We give a proof of the fact that determining whether or not a given binary tree has a grid embedding with edges of unit length is an NP-complete problem. The proof follows an idea indicated by Bhatt and Cosmadakis in [1], which has been implemented using a new building block called U-tree.
+UR  - http://dx.doi.org/10.1016/0020-0190(89)90118-X
+ER  -

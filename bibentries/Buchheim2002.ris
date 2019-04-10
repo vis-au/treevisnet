@@ -1,0 +1,16 @@
+TY  - CONF
+AU  - Buchheim, Christoph
+AU  - Jünger, Michael
+AU  - Leipert, Sebastian
+A2  - Goodrich, Michael T.
+A2  - Kobourov, Stephen G.
+T1  - Improving Walker's Algorithm to Run in Linear Time
+T2  - GD'02: Proceedings of the International Symposium on Graph Drawing
+PB  - Springer
+Y1  - 2002
+SP  - 347
+EP  - 364
+N2  - The algorithm of Walker is widely used for drawing trees of unbounded degree, and it is widely assumed to run in linear time, as the author claims in his article. But the presented algorithm clearly needs quadraticrun time. We explain the reasons for that and present a revised algorithm that creates the same layouts in linear time.
+SN  - 9783540001584
+UR  - http://dx.doi.org/10.1007/3-540-36151-0_32
+ER  -

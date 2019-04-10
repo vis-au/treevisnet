@@ -1,0 +1,15 @@
+TY  - CONF
+AU  - Telea, Alexandru
+A2  - Santos, Beatriz Sousa
+A2  - Ertl, Thomas
+A2  - Joy, Kenneth I.
+T1  - Combining extended Table Lens and Treemap techniques for visualizing tabular data
+T2  - EuroVis'06: Proceedings of the Joint Eurographics - IEEE VGTC Symposium on Visualization
+PB  - Eurographics Association
+Y1  - 2006
+SP  - 51
+EP  - 58
+N2  - We present a framework for visualizing large tabular data that combines two views: the table view and the treemap view. The table view extends the known table lens as follows: We cluster related elements to reduce subsampling artifacts and achieve table size independent rendering time; we use multiple-column sorting to create scenariospecific data hierarchies on the fly; and we use shaded cushions to show data structure and variation. Hierarchies built in the table view are shown in a customizable treemap view. One can choose both layout and rendering by a few clicks, effectively creating visual scenarios on-the-fly. We illustrate our framework on real-life stock data.
+SN  - 3905673312
+UR  - http://dx.doi.org/10.2312/VisSym/EuroVis06/051-058
+ER  -

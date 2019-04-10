@@ -1,0 +1,16 @@
+TY  - CONF
+AU  - Dang, Tommy
+AU  - Forbes, Angus
+A2  - Weiskopf, Daniel
+A2  - Wu, Yingcai
+A2  - Dwyer, Tim
+T1  - CactusTree: A tree drawing approach for hierarchical edge bundling
+T2  - PacificVis'17: Proceedings of the IEEE Pacific Visualization Symposium
+PB  - IEEE Computer Society
+Y1  - 2017
+SP  - 210
+EP  - 214
+N2  - This paper introduces CactusTree, a novel visualization technique for representing hierarchical datasets. We introduce details about the construction of CactusTrees and describe how they can be used to represent nested data and relationships between elements in the data. We explain how our design decisions were informed by tasks common to a range of scientific domains. A key contribution of this article is the introduction of descriptive features that can be used to characterize trees in terms of their structural and connective qualities.
+SN  - 9781509057382
+UR  - http://dx.doi.org/10.1109/PACIFICVIS.2017.8031596
+ER  -

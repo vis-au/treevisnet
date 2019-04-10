@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Andrews, Keith
+AU  - Kienreich, Wolfgang
+AU  - Sabol, Vedran
+AU  - Becker, Jutta
+AU  - Droschl, Georg
+AU  - Kappe, Frank
+AU  - Granitzer, Michael
+AU  - Auer, Peter
+AU  - Tochtermann, Klaus
+T1  - The InfoSky visual explorer: Exploiting hierarchical structure and document similarities
+JO  - Information Visualization
+Y1  - 2002
+VL  - 1
+IS  - 3/4
+SP  - 166
+EP  - 181
+N2  - InfoSky is a system enabling users to explore large, hierarchically structured document collections. Similar to a real-world telescope, InfoSky employs a planar graphical representation with variable magnification. Documents of similar content are placed close to each other and are visualised as stars, forming clusters with distinct shapes. For greater performance, the hierarchical structure is exploited and force-directed placement is applied recursively at each level on much fewer objects, rather than on the whole corpus. Collections of documents at a particular level in the hierarchy are visualised with bounding polygons using a modified weighted Voronoi diagram. Their area is related to the number of documents contained. Textual labels are displayed dynamically during navigation, adjusting to the visualisation content. Navigation is animated and provides a seamless zooming transition between summary and detail view. Users can map metadata such as document size or age to attributes of the visualisation such as colour and luminance. Queries can be made and matching documents or collections are highlighted. Formative usability testing is ongoing; a small baseline experiment comparing the telescope browser to a tree browser is discussed.
+UR  - http://dx.doi.org/10.1057/palgrave.ivs.9500023
+ER  -

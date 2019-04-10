@@ -1,0 +1,13 @@
+TY  - JOUR
+AU  - Wattenberg, Martin
+AU  - Viegas, Fernanda B.
+T1  - The Word Tree, an Interactive Visual Concordance
+JO  - IEEE Transactions on Visualization and Computer Graphics
+Y1  - 2008
+VL  - 14
+IS  - 6
+SP  - 1221
+EP  - 1228
+N2  - We introduce the Word Tree, a new visualization and information-retrieval technique aimed at text documents. A Word Tree is a graphical version of the traditional "keyword-in-context" method, and enables rapid querying and exploration of bodies of text. In this paper we describe the design of the technique, along with some of the technical issues that arise in its implementation. In addition, we discuss the results of several months of public deployment of word trees on Many Eyes, which provides a window onto the ways in which users obtain value from the visualization.
+UR  - http://dx.doi.org/10.1109/TVCG.2008.172
+ER  -

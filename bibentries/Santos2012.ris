@@ -1,0 +1,27 @@
+TY  - CONF
+AU  - Santos, João Miguel
+AU  - Dias, Paulo
+AU  - Santos, Beatriz Sousa
+A2  - Banissi, Ebad
+A2  - Bertschi, Stefan
+A2  - Forsell, Camilla
+A2  - Johansson, Jimmy
+A2  - Kenderdine, Sarah
+A2  - Marchese, Francis T.
+A2  - Sarfraz, Muhammad
+A2  - Stuart, Liz
+A2  - Ursyn, Anna
+A2  - Wyeld, Theodor G.
+A2  - Azzag, Hanane
+A2  - Lebba, Mustapha
+A2  - Venturini, Gilles
+T1  - Implementation and Evaluation of an Enhanced H-tree Layout Pedigree Visualization
+T2  - IV'12: Proceedings of the International Conference on Information Visualisation
+PB  - IEEE Computer Society
+Y1  - 2012
+SP  - 24
+EP  - 29
+N2  - The constant growth of available genealogical information has encouraged the research of visualization techniques capable of representing the corresponding large amount of data. An H-Tree Layout has been recently proposed to represent pedigree data as a way to overcome some of the limitations of traditional representations. However, this new method has its own limitations which may hinder its adoption. In this paper, we propose some enhancements to the H-Tree Layout pedigree visualization method in order to overcome some of the identified limitations. An implementation of the proposed enhancements and results of a preliminary evaluation are also provided.
+SN  - 9780769547718
+UR  - http://dx.doi.org/10.1109/IV.2012.15
+ER  -

@@ -1,0 +1,16 @@
+TY  - CONF
+AU  - Shneiderman, Ben
+AU  - Wattenberg, Martin
+A2  - Andrews, Keith
+A2  - Roth, Steven
+A2  - Wong, Pak Chung
+T1  - Ordered Treemap Layouts
+T2  - InfoVis'01: Proceedings of the IEEE Symposium on Information Visualization
+PB  - IEEE Computer Society
+Y1  - 2001
+SP  - 73
+EP  - 78
+N2  - Treemaps, a space-filling method of visualizing large hierarchical data sets, are receiving increasing attention. Several algorithms have been proposed to create more useful displays by controlling the aspect ratios of the rectangles that make up a treemap. While these algorithms do improve visibility of small items in a single layout, they introduce instability over time in the display of dynamically changing data, and fail to preserve an ordering of the underlying data. This paper introduces the ordered treemap, which addresses these two shortcomings. The ordered treemap algorithm ensures that items near each other in the given order will be near each other in the treemap layout. Using experimental evidence from Monte Carlo trials, we show that compared to other layout algorithms ordered treemaps are more stable while maintaining relatively favorable aspect ratios of the constituent rectangles. A second test set uses stock market data.
+SN  - 0769513425
+UR  - http://dx.doi.org/10.1109/INFVIS.2001.963283
+ER  -

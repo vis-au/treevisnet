@@ -1,0 +1,13 @@
+TY  - JOUR
+AU  - Kleiner, Beat
+AU  - Hartigan, John A.
+T1  - Representing Points in Many Dimensions by Trees and Castles
+JO  - Journal of the American Statistical Association
+Y1  - 1981
+VL  - 76
+IS  - 374
+SP  - 260
+EP  - 269
+N2  - A number of points in k dimensions are displayed by associating with each point a symbol: a drawing of a tree or a castle. All symbols have the same structure derived from a hierarchical clustering algorithm applied to the k variables (dimensions) over all points, but their parts are coded according to the coordinates of each individual point. Trees and castles show general size effects, the change of whole clusters of variables from point to point, trends, and outliers. They are especially appropriate for evaluating the clustering of variables and for observing clusters of points. Their major advantage over earlier attempts to represent multivariate observations (such as profiles, stars, faces, boxes, and Andrews's curves) lies in their matching of relationships between variables to relationships between features of the representing symbol. Several examples are given, including one with 48 variables.
+UR  - http://dx.doi.org/10.2307/2287820
+ER  -

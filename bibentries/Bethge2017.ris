@@ -1,0 +1,18 @@
+TY  - CONF
+AU  - Bethge, Joseph
+AU  - Hahn, Sebastian
+AU  - Döllner, Jürgen
+A2  - Hullin, Matthias
+A2  - Klein, Reinhard
+A2  - Schultz, Thomas
+A2  - Yao, Angela
+T1  - Improving Layout Quality by Mixing Treemap-Layouts Based on Data-Change Characteristics
+T2  - VMV'17: Proceedings of the International Symposium on Vision, Modeling and Visualization
+PB  - Eurographics Association
+Y1  - 2017
+SP  - 69
+EP  - 76
+N2  - This paper presents a hybrid treemap layout approach that optimizes layout-quality metrics by combining state-of-the-art treemap layout algorithms. It utilizes machine learning to predict those metrics based on data metrics describing the characteristics and changes of the dataset. For this, the proposed approach uses a neural network which is trained on artificially generated dataset,s containing a total of 15.8 million samples. The resulting model is integrated into an approach called Smart- Layouting. This approach is evaluated on real-world data from 100 publicly available software repositories. Compared to other state-of-the-art treemap algorithms it reaches an overall better result. Additionally, this approach can be customized by an end user's needs. The customization allows for specifying weights for the importance of each layout-quality metric. The results indicate, that the algorithm is able to adapt successfully towards a given set of weights.
+SN  - 9783038680499
+UR  - http://dx.doi.org/10.2312/vmv.20171261
+ER  -

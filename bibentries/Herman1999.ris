@@ -1,0 +1,19 @@
+TY  - CONF
+AU  - Herman, Ivan
+AU  - Marshall, Scott
+AU  - Melançon, Guy
+AU  - Duke, David J.
+AU  - Delest, Maylis
+AU  - Domenger, Jean-Philippe
+A2  - Gröller, Eduard
+A2  - Löffelmann, Helwig
+A2  - Ribarsky, William
+T1  - Skeletal images as visual cues in graph visualization
+T2  - Data Visualization'99: Proceedings of the Joint Eurographics - IEEE TCVG Symposium on Visualization
+PB  - Eurographics Association
+Y1  - 1999
+SP  - 13
+EP  - 22
+N2  - The problem of graph layout and drawing is fundamental to many aproaches to the visualization of relational information structures. As the data set grows, the visualization problem is compounded by the need to reconcile the user's need for orientation cues with the danger of information overload. Put simply: How can we limit the number of visual elements on the screen so as not to overwhelm the user yet retain enough information that the user is able to navigate and explore the data set confidently? How can we provide orientational cues so that a user can understand the location of the current viewpoint in a large data set? These are problems inherent not only to graph drawing but information visualization in general. We propose a method which extracts the significant features of a directed acyclic graph as the basis for navigation
+UR  - http://dx.doi.org/10.1007/978-3-7091-6803-5_2
+ER  -

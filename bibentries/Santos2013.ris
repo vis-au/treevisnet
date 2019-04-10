@@ -1,0 +1,32 @@
+TY  - CONF
+AU  - Santos, João Miguel
+AU  - Santos, Beatriz Sousa
+AU  - Dias, Paulo
+AU  - Silva, Samuel
+AU  - Ferreira, Carlos
+A2  - Banissi, Ebad
+A2  - Azzag, Hanane
+A2  - Bannatyne, Mark W. McK.
+A2  - Bertschi, Stefan
+A2  - Bouali, Fatma
+A2  - Burkhard, Remo
+A2  - Counsell, John
+A2  - Cuzzocrea, Alfredo
+A2  - Eppler, Martin J.
+A2  - Hammer, Barbara
+A2  - Lebbah, Mustapha
+A2  - Marchese, Francis T.
+A2  - Sarfraz, Muhammad
+A2  - Ursyn, Anna
+A2  - Venturini, Gilles
+A2  - Wyeld, Theodor G.
+T1  - Extending the H-Tree Layout Pedigree: An Evaluation
+T2  - IV'13: Proceedings of the International Conference on Information Visualisation
+PB  - IEEE Computer Society
+Y1  - 2013
+SP  - 422
+EP  - 427
+N2  - Visualizing large family structures is becoming increasingly important, as more genealogical data becomes available. A space-filling h-tree layout pedigree has been recently proposed to make better use of the available space than traditional representations. In a previous paper we applauded the technique's usage of available space but remarked that it makes generation identification difficult and does not allow navigating to descendants of represented individuals. A set of extensions was proposed to help overcome these limitations and a preliminary evaluation suggested that those extensions enhance the original technique. This paper presents a more thorough evaluation carried out to assess if and how the proposed extensions improve the original h-tree layout pedigree technique. Results suggest that these extensions improve user performance on some tasks, effectively provide new functionality, and generally enhance user experience.
+SN  - 9780769550497
+UR  - http://dx.doi.org/10.1109/IV.2013.56
+ER  -

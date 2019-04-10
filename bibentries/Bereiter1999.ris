@@ -1,0 +1,9 @@
+TY  - PAT
+AU  - Bereiter, Thomas William
+AU  - Gan, Doron
+T1  - Method and apparatus for the viewing and exploration of the content of hierarchical information
+Y1  - 1999
+IS  - US 5917492
+N2  - A method and system are disclosed for displaying a graphical representation on a display screen of a data processing system in a manner that optimizes screen "real estate" and ease of information viewing. The graphical representation may be a tree hierarchy including a plurality of expandable and collapsible nodes. The method begins as the hierarchy is displayed within a primary display window on the display screen when the user selects a node to be expanded . In response, a first display region is output within the primary display window and includes a set of one or more subnodes associated with the selected node. If a first subnode in the first display region is then selected for expansion, a second display region is then output within the first display region, and the second display region in turn includes a set of one or more subnodes of the first subnode. This generation of new "nested" display regions then continues as the user continues to explore deeper into the tree hierarchy. A given subnode display region may have one or more controls, such as a sizing button or one or more scroll bars, to facilitate display of node information within the region, and preferably each expanded node remains associated with its subnode display region using a guideline. If generation and display of a subnode display region requires additional screen space, one or more of the subnodes in the "parent" display region are re-positioned.
+UR  - http://www.freepatentsonline.com/5917492.html
+ER  -

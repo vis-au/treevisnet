@@ -1,0 +1,15 @@
+TY  - CONF
+AU  - Brunner, Wolfgang
+AU  - Matzeder, Marco
+A2  - Brandes, Ulrik
+A2  - Cornelsen, Sabine
+T1  - Drawing ordered $(k-1)$-ary trees on $k$-grids
+T2  - GD'10: Proceedings of the International Symposium on Graph Drawing
+PB  - Springer
+Y1  - 2010
+SP  - 105
+EP  - 116
+N2  - We explore the complexity of drawing ordered $(k-1)$-ary trees on grids with k directions for $kin4,6,8$ and within a given area. This includes, e.g., ternary trees drawn on the orthogonal grid. For aesthetically pleasing tree drawings on these grids, we additionally present various restrictions similar to the common hierarchical case. First, we generalize the NP-hardness of minimal width in hierarchical drawings of ordered trees to $(k-1)$-ary trees on k-grids and then we generalize the Reingold and Tilford algorithm to k-grids.
+SN  - 9783642184680
+UR  - http://dx.doi.org/10.1007/978-3-642-18469-7_10
+ER  -

@@ -1,0 +1,11 @@
+TY  - JOUR
+AU  - Manning, Joseph
+AU  - Atallah, Mikhail J.
+T1  - Fast detection and display of symmetry in trees
+JO  - Congressus Numerantium
+Y1  - 1988
+VL  - 64
+SP  - 159
+EP  - 169
+N2  - The automatic construction of good drawings of abstract graphs is a problem of practical importance. Displaying symmetry appears as one of the main criteria for achieving goodness. An expression is obtained for the maximum number of axial symmetries of a tree which can be simultaneously displayed in a single drawing, and an algorithm is presented for constructing such a maximally-symmetric drawing. Similar results are also obtained for rotational symmetries in trees. The algorithms run in time which is linear in the size of the tree, and hence are optimal.
+ER  -

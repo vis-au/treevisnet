@@ -1,0 +1,10 @@
+TY  - PAT
+AU  - Lee, Bongshin
+AU  - Nachmanson, Lev
+AU  - Robertson, George G.
+T1  - Visualizing tree structure with different edge lengths
+Y1  - 2009
+IS  - US 2009/0198725 A1
+N2  - A system described herein includes a receiver component that receives multiple data elements, wherein each of the data elements has a common attribute, and wherein the several data elements are hierarchically related. The system may further include an assignor component that independently assigns each of the multiple data elements to one of a plurality of layers, wherein a data element is assigned to a layer based at least in part upon a value of the common attribute that corresponds to the data element. The system may also include a renderer component that receives assignments made by the assignor component and graphically renders a tree structure based at least in part upon the assignments. Furthermore, a color bar can be generated that includes one or more rows based at least in part upon content of the tree structure.
+UR  - http://www.freepatentsonline.com/y2009/0198725.html
+ER  -

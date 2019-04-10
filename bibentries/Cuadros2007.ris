@@ -1,0 +1,17 @@
+TY  - CONF
+AU  - Cuadros, Ana M.
+AU  - Paulovich, Fernando V.
+AU  - Minghim, Rosane
+AU  - Telles, Guilherme P.
+A2  - Ribarsky, William
+A2  - Dill, John
+T1  - Point Placement by Phylogenetic Trees and its Application to Visual Analysis of Document Collections
+T2  - VAST'07: Proceedings of the IEEE Symposium on Visual Analytics Science and Technology
+PB  - IEEE Computer Society
+Y1  - 2007
+SP  - 99
+EP  - 106
+N2  - The task of building effective representations to visualize and explore collections with moderate to large number of documents is hard. It depends on the evaluation of some distance measure among texts and also on the representation of such relationships in bi- dimensional spaces. In this paper we introduce an alternative approach for building visual maps of documents based on their content similarity, through reconstruction of phylogenetic trees. The tree is capable of representing relationships that allows the user to quickly recover information detected by the similarity metric. For a variety of text collections of different natures we show that we can achieve improved exploration capability and more clear visualization of relationships amongst documents.
+SN  - 9781424416592
+UR  - http://dx.doi.org/10.1109/VAST.2007.4389002
+ER  -

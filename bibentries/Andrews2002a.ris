@@ -1,0 +1,12 @@
+TY  - CONF
+AU  - Andrews, Keith
+T1  - Visual Exploration of Large Hierarchies with Information Pyramids
+T2  - IV'02: Proceedings of the International Conference on Information Visualisation
+PB  - IEEE Computer Society
+Y1  - 2002
+SP  - 793
+EP  - 798
+N2  - Information pyramids compactly visualise large hierarchical structures in three dimensions using pyramid-like structures, which grow upwards as the hierarchy deepens. A plateau represents the root of the tree; other, smaller plateaus arranged on top of it represent its subtrees. Separate glyphs are used to represent leaf nodes such as files or documents and navigational facilities are provided for interactive exploration. Two generations of information pyramids prototype are described and discussed.
+SN  - 0769516564
+UR  - http://dx.doi.org/10.1109/IV.2002.1028871
+ER  -

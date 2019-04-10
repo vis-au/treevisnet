@@ -1,0 +1,16 @@
+TY  - CONF
+AU  - Ong, TeongJoo
+AU  - Leggett, John J.
+AU  - Yun, Unil
+A2  - Estivill-Castro, Vladimir
+A2  - Sanchez, J. Alfredo
+T1  - Visualizing Hierarchies and Collection Structures with Fractal Trees
+T2  - ENV'05: Proceedings of the Mexican International Conference on Computer Science
+PB  - IEEE Computer Society
+Y1  - 2005
+SP  - 31
+EP  - 40
+N2  - This paper addresses the need for better information access to digital library collections. Without proper visualization tools, organizational and structural information is often lost or suppressed by digital library interfaces. We discuss a 2D fractal tree visualization tool that can be used to more accurately present the structure, organization and interrelation of collection metadata.
+SN  - 0769524540
+UR  - http://dx.doi.org/10.1109/ENC.2005.53
+ER  -

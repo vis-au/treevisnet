@@ -1,0 +1,14 @@
+TY  - CONF
+AU  - Crescenzi, Pilu
+AU  - Penna, Paolo
+A2  - DiBattista, Giuseppe
+T1  - Minimum-area h-v drawings of complete binary trees
+T2  - GD'97: Proceedings of the International Symposium on Graph Drawing
+PB  - Springer
+Y1  - 1997
+SP  - 371
+EP  - 382
+N2  - We study the area requirement of h-v drawings of complete binary trees. An h-v drawing of a binary tree t is a drawing of t such that (a) nodes are points with integer coordinates, (b) each edge is either a rightward-horizontal or a downward-vertical straight-line segment from a node to one of its children, (c) edges do not intersect, and (d) if t 1 and t 2 are immediate subtrees of a node u, the enclosing rectangles of the drawings of t 1 and t 2 are disjoint. We prove that, for any complete binary tree t of height h SQRT((n+1)/2)+3.5 if h is odd, (b) 2.5n–3.25SQRT(n+1)+3.5 otherwise. As far as we know, this is one of the few examples in which a closed formula for the minimum-area drawing of a graph has been explicitly found. Furthermore this minimum-area h-v drawing can be constructed in linear time. As a consequence of this result and the result of Trevisan (1996), we have that h-v drawings are provably less area-efficient than strictly upward drawings when we restrict ourselves to complete binary trees. We also give analogous results for the minimum-perimeter and the minimum-enclosing square area h-v drawings.
+SN  - 3540639381
+UR  - http://dx.doi.org/10.1007/3-540-63938-1_82
+ER  -

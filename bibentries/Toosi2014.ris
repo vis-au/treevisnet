@@ -1,0 +1,15 @@
+TY  - CONF
+AU  - Toosi, Farshad Ghassemi
+AU  - Nikolov, Nikola S.
+A2  - Duncan, Christian
+A2  - Symvonis, Antonios
+T1  - Circular Tree Drawing by simulating network synchronisation dynamics and scaling
+T2  - GD'14: Proceedings of the International Symposium on Graph Drawing
+PB  - Springer
+Y1  - 2014
+SP  - 511
+EP  - 512
+N2  - We present an algorithm which produces circular-shape layouts of trees by simulating synchronisation dynamics on the tree. Our approach consists of evolving scalar dynamical values assigned to the nodes. Then the dissimilarities between the values of each pair of nodes are utilised to calculate the coordinates of the nodes by using a lower bound on dissimilarities and scaling up the lower bound per iteration.
+SN  - 9783662458020
+UR  - http://link.springer.com/content/pdf/bbm%3A978-3-662-45803-7%2F1.pdf
+ER  -

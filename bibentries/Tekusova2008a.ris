@@ -1,0 +1,11 @@
+TY  - CONF
+AU  - Tekusova, Tatiana
+AU  - Knuth, Martin
+AU  - Schreck, Tobias
+AU  - Kohlhammer, Jörn
+T1  - Data Quality Visualization for Multivariate Hierarchic Data
+T2  - InfoVis'08: Poster at the IEEE Conference on Information Visualization
+Y1  - 2008
+N2  - In many business applications, decision makers often have to base their decisions on large amounts of data from various sources. Often, the quality of this data varies substantially, affecting the degree of certainty the analyst can put into the analyzed data values. The data quality measures may be of qualitative or quantitative nature, and consist of one or many dimensions. In this poster paper, we first present a brief survey of currently available uncertainty visualization techniques. We then present experimental results we obtained with several techniques for visualization of multidimensional data quality information, applied on multivariate hierarchic data used in an economic data analysis scenario.
+UR  - http://bib.dbvis.de/uploadedFiles/infovis08-paper.pdf
+ER  -

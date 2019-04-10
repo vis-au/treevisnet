@@ -1,0 +1,14 @@
+TY  - JOUR
+AU  - Heard, Jeff
+AU  - Kaufmann, William
+AU  - Guan, Xiaojun
+T1  - A novel method for large tree visualization
+JO  - Bioinformatics
+Y1  - 2009
+VL  - 25
+IS  - 4
+SP  - 557
+EP  - 558
+N2  - Many genomic and proteomic analyses generate as a result a tree of genes or proteins. These trees are often large (containing tens of thousands of nodes and edges), and need a visualization tool to fully display all the information contained in the tree. Clustering analysis can be performed on these trees to obtain clusters of proteins, and we need an efficient way to visualize the clustering results. We present a novel tree visualization tool to help with such analyses.
+UR  - http://dx.doi.org/10.1093/bioinformatics/btn656
+ER  -

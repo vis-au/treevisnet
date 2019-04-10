@@ -1,0 +1,22 @@
+TY  - CONF
+AU  - Bladh, Thomas
+AU  - Carr, David A.
+AU  - Kljun, Matjaž
+A2  - Banissi, Ebad
+A2  - Sarfraz, Muhammad
+A2  - Roberts, Jonathan C.
+A2  - Loften, Bowen
+A2  - Ursyn, Anna
+A2  - Burkhard, Remo Aslak
+A2  - Lee, Angela
+A2  - Andrienko, Gennady
+T1  - The effect of animated transitions on user navigation in 3D Tree-maps
+T2  - IV'05: Proceedings of the International Conference on Information Visualisation
+PB  - IEEE Computer Society
+Y1  - 2005
+SP  - 297
+EP  - 305
+N2  - This paper describes a user study conducted to evaluate the use of smooth animated transitions between directories in a three-dimensional, tree-map visualization. We looked specifically at the task of returning to a previously visited directory after either an animated or instantaneous return to the root location. The results of the study show that animation is a double-edged sword. Even though users take more shortcuts, they also make more severe navigational errors. It seems as though the promise of a more direct route to the target directory, which animation provides, somehow precludes users who navigate incorrectly from applying a successful recovery strategy.
+SN  - 0769523978
+UR  - http://dx.doi.org/10.1109/IV.2005.122
+ER  -

@@ -1,0 +1,11 @@
+TY  - CONF
+AU  - Rekimoto, Jun
+AU  - Green, Mark
+T1  - The information cube: Using transparency in 3D information visualization
+T2  - WITS'93: Proceedings of the Workshop on Information Technology and Systems
+Y1  - 1993
+SP  - 125
+EP  - 132
+N2  - In this paper, we propose a new 3D visualization technique for hierarchical information. This technique is based on the nested box metaphor, a familiar concept for any users. By using semi-transparent rendering, the system controls the complexity of the information presented to the user. With several 3D interaction techniques provided by the system, the user can recognize and inspect the information structure intuitively. Normally, the user puts on the VR equipment to use the system, but the system is also accessible through a conventional CRT display.
+UR  - http://www.sonycsl.co.jp/person/rekimoto/papers/cube.pdf
+ER  -

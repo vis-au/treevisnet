@@ -1,0 +1,9 @@
+TY  - CONF
+AU  - Vernier, Frédéric
+AU  - Nigay, Laurence
+T1  - Modifiable Treemaps Containing Variable-Shaped Units
+T2  - Extended Abstracts of the IEEE Information Visualization 2000
+Y1  - 2000
+N2  - This paper presents a novel method, for the visualization of hierarchical information such as directory structures or family trees. Our technique is based on nested Treemaps and inherits the main property of the Treemaps: space-filling display of hierarchical information. For each node, our technique allocates a bounding box according to a ratio (height/width) that can be modified by the user according to her/his task. To do so, our algorithm does not apply the slice and dice (top-down) approach of standard Treemaps. Our technique is effective, easy to implement and has a wide applicability. To illustrate its application, we developed a system called PARENT which displays a directory tree. PARENT is tightly coupled with Microsoft Windows Explorer.
+UR  - http://iihm.imag.fr/publs/2000/Visu2K_Vernier.pdf
+ER  -

@@ -1,0 +1,17 @@
+TY  - CONF
+AU  - Fischer, Michael J.
+AU  - Paterson, Michael S.
+A2  - Miller, Raymond E.
+A2  - Ginsburg, Seymour
+A2  - Burkhard, Walter A.
+A2  - Lipton, Richard J.
+T1  - Optimal Tree Layout (Preliminary Version)
+T2  - STOC'80: Proceedings of the Annual ACM Symposium on Theory of Computing
+PB  - ACM
+Y1  - 1980
+SP  - 177
+EP  - 189
+N2  - We consider the problem of finding a minimal cost layout of a tree in Euclidian d-space. A tree is an acyclic undirected edge-weighted graph, and a layout is an assignment of a point in d-dimensional Euclidian space to each of the nodes of the tree. The "length" of an edge in the layout is the “distance” between its endpoints as measured by some norm. The cost of an edge is its length times its weight, and the cost of the whole layout is the sum of the costs of all the edges. We assume the positions of certain nodes are fixed in advance, and we wish to place the remaining nodes so as to minimize the cost of the layout.
+SN  - 0897910176
+UR  - http://dx.doi.org/10.1145/800141.804665
+ER  -

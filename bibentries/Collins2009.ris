@@ -1,0 +1,14 @@
+TY  - JOUR
+AU  - Collins, Christopher
+AU  - Carpendale, Sheelagh
+AU  - Penn, Gerald
+T1  - DocuBurst: Visualizing Document Content using Language Structure
+JO  - Computer Graphics Forum
+Y1  - 2009
+VL  - 28
+IS  - 3
+SP  - 1039
+EP  - 1046
+N2  - Textual data is at the forefront of information management problems today. One response has been the development of visualizations of text data. These visualizations, commonly based on simple attributes such as relative word frequency, have become increasingly popular tools. We extend this direction, presenting the first visualization of document content which combines word frequency with the human-created structure in lexical databases to create a visualization that also reflects semantic content. DocuBurst is a radial, space-filling layout of hyponymy (the IS-A relation), overlaid with occurrence counts of words in a document of interest to provide visual summaries at varying levels of granularity. Interactive document analysis is supported with geometric and semantic zoom, selectable focus on individual words, and linked access to source text.
+UR  - http://dx.doi.org/10.1111/j.1467-8659.2009.01439.x
+ER  -

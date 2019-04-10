@@ -1,0 +1,13 @@
+TY  - JOUR
+AU  - Harel, David
+AU  - Yashchin, Gregory
+T1  - An algorithm for blob hierarchy layout
+JO  - The Visual Computer
+Y1  - 2002
+VL  - 18
+IS  - 3
+SP  - 164
+EP  - 185
+N2  - We present an algorithm for the aesthetic drawing of basic hierarchical blob structures, of the kind found in higraphs and statecharts and in other diagrams in which hierarchy is depicted as topological inclusion. Our work could also be useful in Web page design, window system dynamics, and possibly also newspaper layout, etc. Several criteria for aesthetics are formulated, and we discuss their motivation, our methods of implementation and the algorithm's performance.
+UR  - http://dx.doi.org/10.1007/s003710100133
+ER  -

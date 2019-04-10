@@ -1,0 +1,17 @@
+TY  - CONF
+AU  - Kratt, Julian
+AU  - Strobelt, Hendrik
+AU  - Deussen, Oliver
+A2  - Eisert, Peter
+A2  - Hornegger, Joachim
+A2  - Polthier, Konrad
+T1  - Improving Stability and Compactness in Street Layout Visualizations
+T2  - VMV'11: Proceedings of the International Workshop on Vision, Modeling and Visualization
+PB  - Eurographics Association
+Y1  - 2011
+SP  - 285
+EP  - 292
+N2  - We present and evaluate improvements for Street Layout, a technique that can be used for visualizing evolving hierarchical data such as file structures or software systems. Street Layouts represent data as street networks, where each street represents a branch of the hierarchy and buildings around streets represent leaves. We extended the initial idea in various ways to increase compactness and visual stability. Our approaches are compared against the current methods in a conducted technical evaluation. A prototypic application shows the applicability of our improvements for visualizing a real world data set.
+SN  - 9783905673852
+UR  - http://dx.doi.org/10.2312/PE/VMV/VMV11/285-292
+ER  -

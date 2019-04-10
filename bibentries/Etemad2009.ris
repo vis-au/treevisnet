@@ -1,0 +1,9 @@
+TY  - CONF
+AU  - Etemad, Katayoon
+AU  - Carpendale, Sheelagh
+T1  - ShamsehTrees: Providing Hierarchical Context for Nodes of Interest
+SP  - 293
+EP  - 300
+N2  - Visualizations of hierarchical data usually focus on conveying structure. However, with really large hierarchies, layouts tend to become overcrowded, making it difficult to see details about specific nodes. In contrast, ShamsehTrees focus on layouts centered on a node of interest, provide interactive nested layouts that were inspired by artistic and natural floral patterns, and make use of the natural symmetries in phyllotactic patterns. Instead of emphasizing overall tree structure, these layouts are created to make the most space available for the node of interest. The basic layout is comprised of nested circles that are centered on the node of interest. After selecting a new node of interest, the resizing and repositioning of nodes is animated as they transition to the new layout.
+SN  - 9780966520194
+ER  -

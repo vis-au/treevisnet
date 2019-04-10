@@ -1,0 +1,13 @@
+TY  - JOUR
+AU  - Bagheri, Alireza
+AU  - Razzazi, Mohammadreza
+T1  - How to draw free trees inside bounded simple polygons
+JO  - Journal of Universal Computer Science
+Y1  - 2005
+VL  - 11
+IS  - 6
+SP  - 804
+EP  - 829
+N2  - In this paper we investigate polyline grid drawing of free trees on 2D grids which are bounded by simple polygons. We focus on achieving uniform node distribution while we also try to achieve minimum edge crossings. We do not consider achieving symmetry as a mandatory task, but our algorithm can exploit some symmetries present in both the given trees and the given polygons. To our knowledge, our work is the first attempt for developing algorithms that draw graphs on regions which are bounded by simple polygons.
+UR  - http://dx.doi.org/10.3217/jucs-011-06-0804
+ER  -

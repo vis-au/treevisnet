@@ -1,0 +1,16 @@
+TY  - CONF
+AU  - Bruls, Mark
+AU  - Huizing, Kees
+AU  - van Wijk, Jarke
+A2  - de Leeuw, Wim
+A2  - van Liere, Robert
+T1  - Squarified Treemaps
+T2  - Data Visualization'00: Proceedings of the Joint Eurographics - IEEE TCVG Symposium on Visualization
+PB  - Eurographics Association
+Y1  - 2000
+SP  - 33
+EP  - 42
+N2  - An extension to the treemap method for the visualization of hierarchical information, such as directory structures and organization structures, is presented. The standard treemap method often gives thin, elongated rectangles. As a result, rectangles are difficult to compare and to select. A new method is presented to generate lay-outs in which the rectangles approximate squares. To strenghten the visualization of the structure, shaded frames are used around groups of related nodes.
+SN  - 3211835156
+UR  - http://dx.doi.org/10.2312/VisSym/VisSym00/033-042
+ER  -

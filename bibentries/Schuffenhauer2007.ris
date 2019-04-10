@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Schuffenhauer, Ansgar
+AU  - Ertl, Peter
+AU  - Roggo, Silvio
+AU  - Wetzel, Stefan
+AU  - Koch, Marcus A.
+AU  - Waldmann, Herbert
+T1  - The Scaffold Tree -- Visualization of the Scaffold Universe by Hierarchical Scaffold Classification
+JO  - Journal of Chemical Information and Modeling
+Y1  - 2007
+VL  - 47
+IS  - 1
+SP  - 47
+EP  - 58
+N2  - A hierarchical classification of chemical scaffolds (molecular framework, which is obtained by pruning all terminal side chains) has been introduced. The molecular frameworks form the leaf nodes in the hierarchy trees. By an iterative removal of rings, scaffolds forming the higher levels in the hierarchy tree are obtained. Prioritization rules ensure that less characteristic, peripheral rings are removed first. All scaffolds in the hierarchy tree are well-defined chemical entities making the classification chemically intuitive. The classification is deterministic, data-set-independent, and scales linearly with the number of compounds included in the data set. The application of the classification is demonstrated on two data sets extracted from the PubChem database, namely, pyruvate kinase binders and a collection of pesticides. The examples shown demonstrate that the classification procedure handles robustly synthetic structures and natural products.
+UR  - http://dx.doi.org/10.1021/ci600338x
+ER  -

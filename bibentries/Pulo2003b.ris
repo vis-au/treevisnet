@@ -1,0 +1,9 @@
+TY  - GEN
+AU  - Pulo, Kevin
+AU  - Eades, Peter
+AU  - Takatsuko, Masahiro
+T1  - Smooth Structural Zooming as a Tool for Navigating Large Inclusion Hierarchies
+Y1  - 2003
+N2  - We present a new method for achieving Focus+Context visualizations called smooth structural zooming, which varies the level of detail of the data being visualized, rather than geometrically distorting the visualization. We apply a preliminary smooth structural zooming technique to the horizontal-vertical (h-v) inclusion tree layout convention, in particular Design Behaviour Trees (DBTs). We illustrate several advantages of this system, including the ability to navigate and explore inclusion tree layout data too large to be displayed at once, keeping good layouts at all times and preserving the user's mental map with animation.
+UR  - http://www.kev.pulo.com.au/publications/softvis03-poster/softvis03-kpulo-poster.pdf
+ER  -

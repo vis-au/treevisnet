@@ -1,0 +1,22 @@
+TY  - CONF
+AU  - Otjacques, Benot
+AU  - Cornil, Maël
+AU  - Noirhomme, Monique
+AU  - Feltz, Fernand
+A2  - Gross, Tom
+A2  - Gulliksen, Jan
+A2  - Kotzé, Paula
+A2  - Oestreicher, Lars
+A2  - Palanque, Philippe
+A2  - Prates, Raquel Oliveira
+A2  - Winckler, Marco
+T1  - CGD -- A New Algorithm to Optimize Space Occupation in Ellimaps
+T2  - INTERACT'09: Proceedings of the IFIP TC13 Conference on Human-Computer Interaction, Part II
+PB  - Springer
+Y1  - 2009
+SP  - 805
+EP  - 818
+N2  - How to visualize datasets hierarchically structured is a basic issue in information visualization. Compared to the common diagrams based on the nodes-links paradigm (e.g. trees), the enclosure-based methods have shown high potential to represent simultaneously the structure of the hierarchy and the weight of nodes. In addition, these methods often support scalability up to sizes where trees become very complicated to understand. Several approaches belong to this class of visualization methods such as treemaps, ellimaps, circular treemaps or Voronoi treemaps. This paper focuses on the specific case of ellimaps in which the nodes are represented by ellipses nested one into each other. A controlled experiment has previously shown that the initial version of the ellimaps was efficient to support the perception of the dataset structure and was reasonably acceptable for the perception of the node weights. However it suffers from a major drawback in terms of display space occupation. We have tackled this issue and the paper proposes a new algorithm to draw ellimaps. It is based on successive distortions and relocations of the ellipses in order to occupy a larger proportion of the display space than the initial algorithm. A Monte-Carlo simulation has been used to evaluate the filling ratio of the display space in this new approach. The results show a significant improvement of this factor.
+SN  - 3642036570
+UR  - http://dx.doi.org/10.1007/978-3-642-03658-3_84
+ER  -

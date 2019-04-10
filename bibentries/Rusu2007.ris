@@ -1,0 +1,26 @@
+TY  - CONF
+AU  - Rusu, Adrian
+AU  - Santiago, Confesor
+AU  - Jianu, Radu
+A2  - Banissi, Ebad
+A2  - Burkhard, Remo Aslak
+A2  - Grinstein, Georges
+A2  - Cvek, Urska
+A2  - Trutschl, Marjan
+A2  - Stuart, Liz
+A2  - Wyeld, Theodor G.
+A2  - Andrienko, Gennady
+A2  - Dykes, Jason
+A2  - Jern, Mikael
+A2  - Groth, Dennis
+A2  - Ursyn, Anna
+T1  - Real-time interactive visualization of information hierarchies
+T2  - IV'07: Proceedings of the International Conference on Information Visualisation
+PB  - IEEE Computer Society
+Y1  - 2007
+SP  - 117
+EP  - 123
+N2  - An information hierarchy is a collection of relational information that is arranged in a ranking organization where each entity is subject to a single other entity, except for the top (root) element. The usefulness of a visualization of an information hierarchy depends on its capability of conveying the information quickly and clearly. The interaction with the information hierarchy allows a user to further analyze its underlying structures and relationships, which is essential for the effectiveness of the visualization. In this paper we present a novel method to interactively visualize information hierarchies in real-time. We use the World Wide Web as an application example of our techniques. The result is a novel Web browsing and visualization method with an innovative combination of features: (i) Web data is retrieved and displayed in real-time (i.e. Web data is not pre-recorded), (ii) browsing and visualization are synchronized together in the same interface, (iii) tree-based visualization engine, and (iv) space-efficient display of visualization. Our study shows that users are able to orient themselves better in cyberspace and locate Web pages of interest faster.
+SN  - 0769529003
+UR  - http://dx.doi.org/10.1109/IV.2007.92
+ER  -

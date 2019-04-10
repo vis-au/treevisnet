@@ -1,0 +1,13 @@
+TY  - JOUR
+AU  - Baker, Marla J.
+AU  - Eick, Stephen G.
+T1  - Space-filling Software Visualization
+JO  - Journal of Visual Languages and Computing
+Y1  - 1995
+VL  - 6
+IS  - 2
+SP  - 119
+EP  - 133
+N2  - SeeSys is a system embodying a technique for visualizing statistics associated with code that is divided hierarchically into subsystems, directories and files. This technique can display the relative sizes of the components in the system, the relative stability of the components, the location of new functionality and the location of error-prone code with many bug fixes. Using animation, it can display the historical evolution of the code. Applying this technique, the source code from a multi-million line production software product is visualized.
+UR  - http://dx.doi.org/10.1006/jvlc.1995.1007
+ER  -

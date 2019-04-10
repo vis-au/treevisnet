@@ -1,0 +1,15 @@
+TY  - CONF
+AU  - Liang, Jie
+AU  - Simoff, Simeon
+AU  - Nguyen, Quang Vinh
+AU  - Huang, Mao Lin
+T1  - Visualizing large trees with divide & conquer partition
+T2  - VINCI'13: Proceedings of the International Symposium on Visual Information Communication and Interaction
+PB  - ACM Press
+Y1  - 2013
+SP  - 79
+EP  - 87
+N2  - While prior works on enclosure approach, guarantees the space utilization of a single geometrical area, mostly rectangle, this paper proposes a flexible enclosure tree layout method for partitioning various polygonal shapes that break through the limitation of rectangular constraint. Similar to Treemap techniques, it uses enclosure to divide display space into smaller areas for its sub-hierarchies. The algorithm can partition a polygonal shape or even an arbitrary shape into smaller polygons, rotated rectangles or vertical-horizontal rectangles. The proposed method and implementation algorithms provide an effective interactive visualization tool for partitioning large hierarchical structures within a confined display area with different shapes for real-time applications. We demonstrated the effective of the new method with a case study, an automated evaluation and a usability study.
+SN  - 9781450319881
+UR  - http://dx.doi.org/10.1145/2493102.2493112
+ER  -

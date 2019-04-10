@@ -1,0 +1,13 @@
+TY  - CONF
+AU  - Yamaguchi, Yumi
+AU  - Itoh, Takayuki
+T1  - Visualization of Distributed Processes Using Data Jewelry Box Algorithm
+T2  - #PROC#Computer Graphics International 2003
+PB  - IEEE Computer Society
+Y1  - 2003
+SP  - 162
+EP  - 169
+N2  - Visualization of distributed processes is useful for the management of large-scale distributed computing systems. Reactivity and scalability are especially important requirements for such visualization of distributed processes. We have proposed the visualization technique "Data Jewelry Box" algorithm, which satisfies both of the above requirements. The technique can be applied for the visualization of distributed processes, however, the algorithm has a problem that may yield much different data layouts even among very similar datasets. This is a serious issue for the seamless visualization of time-varying data. To solve the problem, we propose the extension of "Data Jewelry Box" algorithm. The extension places data elements referring positions of the previous data layout, so that the extension can yield similar layouts among similar datasets. We introduce the extended algorithm, and propose the visualization system for distributed computing systems using the extended algorithm.
+SN  - 0769519466
+UR  - http://dx.doi.org/10.1109/CGI.2003.1214461
+ER  -

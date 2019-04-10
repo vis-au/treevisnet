@@ -1,0 +1,15 @@
+TY  - CONF
+AU  - Blanch, Renaud
+AU  - Lecolinet, Éric
+A2  - Agon, Carlos
+A2  - Delerue, Olivier
+T1  - Treemaps zoomables: techniques d'interaction multi-échelles pour les treemaps
+T2  - IHM'07: Proceedings of the International Conference on Association Francophone d'Interaction Homme-Machine
+PB  - ACM Press
+Y1  - 2007
+SP  - 131
+EP  - 138
+N2  - Some efficient visualizations (such as treemaps) have been proposed for trees, but the interaction they provide to explore and acces data is often poor, especially for very large trees. We have designed a consistent set of navigation techniques that makes it possible to use treemaps as zoomable interfaces. We introduce structure-aware navigation, the property of using the structure of the displayed information to guide navigation, property that our interaction techniques share.
+SN  - 9781595937919
+UR  - http://dx.doi.org/10.1145/1541436.1541462
+ER  -

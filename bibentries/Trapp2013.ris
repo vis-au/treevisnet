@@ -1,0 +1,19 @@
+TY  - CONF
+AU  - Trapp, Matthias
+AU  - Schmechel, Sebastian
+AU  - Döllner, Jürgen
+A2  - Coquillart, Sabine
+A2  - Andujar, Carlos
+A2  - Laramee, Robert S.
+A2  - Kerren, Andreas
+A2  - Braz, José
+T1  - Interactive Rendering of Complex 3D-Treemaps
+T2  - GRAPP'13: Proceedings of the International Conference on Computer Graphics Theory and Applications
+PB  - SciTePress
+Y1  - 2013
+SP  - 165
+EP  - 175
+N2  - 3D-Treemaps are an important visualization technique for hierarchical views. In contrast to 2D-Treemaps, height can be used to map one additional attribute of the data items. Using the Treemap technique in combination with large datasets (more than 500k) a fast rendering and interaction techniques that are beyond collapsing/uncollapsing nodes is still one of the main challenges. This paper presents a novel rendering technique that enables the image synthesis of geometrical complex 3D-Treemaps in real-time. The fully hardware accelerated approach is based on shape generation using geometry shaders. This approach offers increased rendering performance and low update latency compared to existing techniques and through it enables new real-time interaction techniques to large datasets.
+SN  - 9789898565464
+UR  - http://www.hpi.uni-potsdam.de/doellner/publications/year/2013/2193/TSD2013.html
+ER  -

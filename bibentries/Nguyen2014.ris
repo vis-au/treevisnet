@@ -1,0 +1,26 @@
+TY  - CONF
+AU  - Nguyen, Quang Vinh
+AU  - Simoff, Simeon
+AU  - Huang, Mao Lin
+A2  - Banissi, Ebad
+A2  - Bannatyne, Mark W. McK.
+A2  - Marchese, Francis T.
+A2  - Sarfraz, Muhammad
+A2  - Ursyn, Anna
+A2  - Venturini, Gilles
+A2  - Wyeld, Theodor G.
+A2  - Cvek, Urska
+A2  - Trutschl, Marjan
+A2  - Grinstein, Georges
+A2  - Geroimenko, Vladimir
+A2  - Kenderdine, Sarah
+A2  - Bouali, Fatma
+T1  - Using visual cues on DOITree for visualizing large hierarchical data
+T2  - IV'14: Proceedings of the International Conference on Information Visualisation
+PB  - IEEE Computer Society
+Y1  - 2014
+SP  - 1
+EP  - 6
+N2  - This paper extends a previous work on node link tree visualization and interaction by providing visual clues on hidden structures. We adopt the effectiveness of DOI Tree, a multi-focal tree layout algorithm, for exploring large hierarchical structures. The advantages of visualization are its most familiar mapping for users, its capability on providing multiple focused nodes, and its dynamic rescaling of substructures to fit the available space. By providing various methods of topological previews of substructure including simple icon view, tree view and tree map view, we provide better understanding the topology of hidden branches.
+UR  - http://dx.doi.org/10.1109/IV.2014.21
+ER  -

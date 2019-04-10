@@ -1,0 +1,16 @@
+TY  - CONF
+AU  - Herman, Ivan
+AU  - Melançon, Guy
+AU  - de Ruiter, Maurice M.
+AU  - Delest, Maylis
+A2  - Kratochvyl, Jan
+T1  - Latour -- A Tree Visualisation System
+T2  - GD'99: Proceedings of the International Symposium on Graph Drawing
+PB  - Springer
+Y1  - 1999
+SP  - 392
+EP  - 399
+N2  - This paper presents some of the most important features of a tree visualisation system called Latour, developed for the purposes of information visualisation. This system includes a number of interesting and unique characteristics, for example the provision for visual cues based on complexity metrics on graphs, which represent general principles that, in our view, graph based information visualisation systems should generally offer.
+SN  - 3540669043
+UR  - http://dx.doi.org/10.1007/3-540-46648-7_40
+ER  -

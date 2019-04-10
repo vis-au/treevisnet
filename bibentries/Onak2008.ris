@@ -1,0 +1,13 @@
+TY  - CONF
+AU  - Onak, Krzysztof
+AU  - Sidiropoulos, Anastasios
+T1  - Circular Partitions with Applications to Visualization and Embeddings
+T2  - SCG'08: Proceedings of the Symposium on Computational Geometry
+PB  - ACM Press
+Y1  - 2008
+SP  - 28
+EP  - 37
+N2  - We introduce a hierarchical partitioning scheme of the Euclidean plane, called circular partitions. Such a partition consists of a hierarchy of convex polygons, each having small aspect ratio, and satisfying specified volume constraints. We apply these partitions to obtain a natural extension of the popular Treemap visualization method. Our proposed algorithm is not constrained in using only rectangles, and can achieve provably better guarantees on the aspect ratio of the constructed polygons. Under relaxed conditions, we can also construct circular partitions in higher-dimensional spaces. We use these relaxed partitions to obtain improved approximation algorithms for embedding ultrametrics into d-dimensional Euclidean space. In particular, we give a polylog(Delta)-approximation algorithm for embedding n-point ultrametrics into R^d with minimum distortion (Delta denotes the spread of the metric). The previously best-known approximation ratio for this problem was polynomial in n. This is the first algorithm for embedding a non-trivial family of weighted graph metrics into a space of constant dimension that achieves polylogarithmic approximation ratio.
+SN  - 9781605580715
+UR  - http://dx.doi.org/10.1145/1377676.1377683
+ER  -

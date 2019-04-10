@@ -1,0 +1,11 @@
+TY  - PAT
+AU  - Lu, Hao
+AU  - Liu, Shi Xia
+AU  - Wattenberg, Martin
+AU  - Ma, Xi Jun
+T1  - Constructing a Labeled Treemap with Balanced Layout
+Y1  - 2013
+IS  - US 8443281 B2
+N2  - The present invention provides a method and system for constructing a labeled treemap with balanced layout. A range of possible densities of leaf nodes based on designated weights of the leaf nodes and a designated treemap region is determined. A range of possible densities is then searched for a density that could be fitted on and a labeled treemap that could fit on the density. The labeled treemap is presented on a specified display region. By introducing the concept of density into labeled treemap, the present invention ensures the area of region occupied by each leaf node in the constructed labeled treemap is approximately corresponding to the weight of the node, and avoids the case of invisible leaf node in a treemap.
+UR  - http://www.freepatentsonline.com/8443281.html
+ER  -

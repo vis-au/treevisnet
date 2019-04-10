@@ -1,0 +1,15 @@
+TY  - CONF
+AU  - Liu, Shixia
+AU  - Cao, Nan
+AU  - Lv, Hao
+AU  - Su, Hui
+T1  - The visual funding navigator: Analysis of the NSF funding information
+T2  - CIKM'06: Proceedings of the ACM International Conference on Information and Knowledge Management
+PB  - ACM Press
+Y1  - 2006
+SP  - 882
+EP  - 883
+N2  - This paper presents an interactive visualization toolkit for navigating and analyzing the National Science Foundation (NSF) funding information. Our design builds upon an improved 2.5D treemap layout and the stacked graph to contribute customized techniques for visually navigating and interacting with the hierarchical data of NSF programs and proposals. Furthermore, an incremental layout method is adopted to handle information on a large scale. The improved treemap visualization will help to visually analyze the static funding related data and the stacked graph is utilized to analyze the time-series data. Through these visual analysis techniques, research trends of NSF, popular NSF programs are quickly identified.
+SN  - 1595934332
+UR  - http://dx.doi.org/10.1145/1183614.1183778
+ER  -

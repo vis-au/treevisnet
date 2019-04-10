@@ -1,0 +1,13 @@
+TY  - JOUR
+AU  - Kruskal, Joseph B.
+AU  - Landwehr, James M.
+T1  - Icicle Plot: Better Displays for Hierarchical Clustering
+JO  - The American Statistician
+Y1  - 1983
+VL  - 37
+IS  - 2
+SP  - 162
+EP  - 168
+N2  - An icicle plot is a method for presenting a hierarchical clustering. Compared with other methods of presentation, it is far easier in an icicle plot to read off which objects belong to which clusters, and which objects join or drop out from a cluster as we move up and down the levels of the hierarchy, though these benefits only appear when enough objects are being clustered. Icicle plots are described, and their benefits are illustrated using a clustering of 48 objects.
+UR  - http://dx.doi.org/10.2307/2685881
+ER  -

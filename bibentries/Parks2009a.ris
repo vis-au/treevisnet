@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Parks, Donovan H.
+AU  - Porter, Michael
+AU  - Churcher, Sylvia
+AU  - Wang, Suwen
+AU  - Blouin, Christian
+AU  - Whalley, Jacqueline
+AU  - Brooks, Stephen
+AU  - Beiko, Robert G.
+T1  - GenGIS: A geospatial information system for genomic data
+JO  - Genome Research
+Y1  - 2009
+VL  - 19
+SP  - 1896
+EP  - 1904
+N2  - The increasing availability of genetic sequence data associated with explicit geographic and ecological information is offering new opportunities to study the processes that shape biodiversity. The generation and testing of hypotheses using these data sets requires effective tools for mathematical and visual analysis that can integrate digital maps, ecological data, and large genetic, genomic, or metagenomic data sets. GenGIS is a free and open-source software package that supports the integration of digital map data with genetic sequences and environmental information from multiple sample sites. Essential bioinformatic and statistical tools are integrated into the software, allowing the user a wide range of analysis options for their sequence data. Data visualizations are combined with the cartographic display to yield a clear view of the relationship between geography and genomic diversity, with a particular focus on the hierarchical clustering of sites based on their similarity or phylogenetic proximity. Here we outline the features of GenGIS and demonstrate its application to georeferenced microbial metagenomic, HIV-1, and human mitochondrial DNA data sets.
+UR  - http://dx.doi.org/10.1101/gr.095612.109
+ER  -

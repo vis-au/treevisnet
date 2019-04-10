@@ -1,0 +1,17 @@
+TY  - CONF
+AU  - Liu, Shixia
+AU  - Cao, Nan
+AU  - Lv, Hao
+A2  - Fujishiro, Issei
+A2  - Li, Hua
+A2  - Ma, Kwan-Liu
+T1  - Interactive Visual Analysis of the NSF Funding Information
+T2  - PacificVis'08: Proceedings of the IEEE Pacific Visualization Symposium
+PB  - IEEE Computer Society
+Y1  - 2008
+SP  - 183
+EP  - 190
+N2  - This paper presents an interactive visualization toolkit for navigating and analyzing the National Science Foundation (NSF) funding information. Our design builds upon the treemap layout and the stacked graph to contribute customized techniques for visually navigating and interacting with the hierarchical data of NSF programs and proposals, supporting visual search and analysis, and allowing the user to make informed decision. In this visualization toolkit, we propose two visualization techniques to simplify the navigation of the hierarchical data: 2.5 Dimensional treemaps to make the hierarchical structure more easily to be recognized, and labeled treemap to help the user to get a clear overview of the content of the structure and make the internal area of rectangles correspond to the weights of the data set. Furthermore, an incremental layout method is adopted to handle information on a large scale. The improved treemap visualization will help to visually analyze the static funding data and the stacked graph is utilized to analyze the time-series data. Through these visual analysis techniques, research trends of NSF, popular NSF programs are quickly identified. The primary contribution is a demonstration of novel ways to effectively present and analyze NSF funding data.
+SN  - 9781424419661
+UR  - http://dx.doi.org/10.1109/PACIFICVIS.2008.4475475
+ER  -

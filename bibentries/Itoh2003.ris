@@ -1,0 +1,11 @@
+TY  - CONF
+AU  - Itoh, Takayuki
+AU  - Koyamada, Koji
+T1  - HeiankyoView: Orthogonal Representation of Large-scale Hierarchical Data
+T2  - PBit'03: Proceedings of the International Symposium Towards Peta-Bit Ultra Networks
+Y1  - 2003
+SP  - 125
+EP  - 130
+N2  - Visualization is very useful for various large-scale computing fields. One of the authors has reported a hierarchical data visualization technique, and applied it to various large-scale computing data including large-scale Web sites, but also for data mining results, Web search queries, network intrusion detection results, and distributed processes. This paper presents the new hierarchical data visualization technique, HeiankyoView, which can be also applied to various large-scale computing fields. It places data items of input data while it packs the items as many as possible in small display areas, and aligns the items along X-axis and Y-axis of the display area. The technique represents nodes of hierarchical data as a set of rectangles, which are parallel to X-axis and Y-axis. Here the technique orthogonally divides the display area by extension lines of edges of previously placed rectangles. By referring the grid-like subspaces of the display area, the technique quickly finds the adequate positions to place remaining rectangles.
+UR  - http://itolab.is.ocha.ac.jp/~itot/paper/ItotRICPE18.pdf
+ER  -

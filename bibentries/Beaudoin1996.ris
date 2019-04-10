@@ -1,0 +1,16 @@
+TY  - CONF
+AU  - Beaudoin, Luc
+AU  - Parent, Marc-Antoine
+AU  - Vroomen, Louis C.
+A2  - Yagel, Roni
+A2  - Nielson, Gregory M.
+T1  - Cheops: A Compact Explorer For Complex Hierarchies
+T2  - Visualization'96: Proceedings of the IEEE Conference on Visualization
+PB  - ACM Press
+Y1  - 1996
+SP  - 87
+EP  - 92
+N2  - As the amount of electronic information explodes, hierarchies to handle this information become huge and complex. Visualizing and interacting with these hierarchies become daunting tasks. The problem is exacerbated if the visualization is to be done on massmarket personal computers, with limited processing power and visual resolution. Many of the current visualization techniques work effectively for hierarchies of 1000 nodes. But as the number of nodes increases toward 5000 nodes, these techniques tend to break down. Hierarchies above 5000 nodes usually require special modifications such as clustering, which can affect visual stability. This paper introduces Cheops, a novel approach to the representation, browsing and exploration of huge, complex information hierarchies such as the Dewey Decimal system, which can contain between 1 million and 1 billion nodes. The Cheops approach maintains context within a huge hierarchy, while simultaneously providing easy access to details. This paper will also present some preliminary results from usability tests performed on an 8 wide by 9 deep classification hierarchy, which if fully populated would contain over 19 million nodes.
+SN  - 0897918649
+UR  - http://dx.doi.org/10.1109/VISUAL.1996.567745
+ER  -

@@ -1,0 +1,16 @@
+TY  - CONF
+AU  - Bernhardt, Jörg
+AU  - Funke, Stefan
+AU  - Hecker, Michael
+AU  - Siebourg, Juliane
+A2  - Anton, François
+T1  - Visualizing Gene Expression Data via Voronoi Treemaps
+T2  - ISVD'09: Proceedings of the International Symposium on Voronoi Diagrams
+PB  - IEEE Computer Society
+Y1  - 2009
+SP  - 233
+EP  - 241
+N2  - We investigate the use of Voronoi Treemaps to visualize complex biological data from gene expression analysis in conjunction with hierarchical classifications like Gene Ontology or KEGG Orthology.
+SN  - 9780769537818
+UR  - http://dx.doi.org/10.1109/ISVD.2009.33
+ER  -

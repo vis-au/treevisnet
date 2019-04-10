@@ -1,0 +1,19 @@
+TY  - CONF
+AU  - Sadeghi, Javad
+AU  - Perin, Charles
+AU  - Flemisch, Tamara
+AU  - Hancock, Mark
+AU  - Carpendale, Sheelagh
+A2  - Buono, Paolo
+A2  - Lanzilotti, Rosa
+A2  - Matera, Maristella
+T1  - Flexible Trees: Sketching tree layouts
+T2  - AVI'16: Proceedings of the International Working Conference on Advanced Visual Interfaces
+PB  - ACM
+Y1  - 2016
+SP  - 84
+EP  - 87
+N2  - We introduce Flexible Trees, a sketch-based layout adjustment technique. Although numerous tree layout algorithms exist, these algorithms are usually bound to fit within standard shapes such as rectangles, circles and triangles. In order to provide the possibility of interactively customizing a tree layout, we offer a free-form sketch-based interaction through which one can re-define the boundary constraints for the tree layouts by combining ray-line intersection and line segment intersection. Flexible Trees offer topology preserving adjustments; can be used with a variety of tree layouts; and offer a simple way of authoring tree layouts for infographic purposes.
+SN  - 9781450341318
+UR  - http://dx.doi.org/10.1145/2909132.2909274
+ER  -

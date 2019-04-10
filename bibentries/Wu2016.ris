@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Wu, Wenchao
+AU  - Xu, Jiayi
+AU  - Zeng, Haipeng
+AU  - Zheng, Yixian
+AU  - Qu, Huamin
+AU  - Ni, Bing
+AU  - Yuan, Mingxuan
+AU  - Ni, Lionel M.
+T1  - TelCoVis: Visual exploration of co-occurrence in urban human mobility based on telco data
+JO  - IEEE Transactions on Visualization and Computer Graphics
+Y1  - 2016
+VL  - 22
+IS  - 1
+SP  - 935
+EP  - 944
+N2  - Understanding co-occurrence in urban human mobility (i.e. people from two regions visit an urban place during the same time span) is of great value in a variety of applications, such as urban planning, business intelligence, social behavior analysis, as well as containing contagious diseases. In recent years, the widespread use of mobile phones brings an unprecedented opportunity to capture large-scale and fine-grained data to study co-occurrence in human mobility. However, due to the lack of systematic and efficient methods, it is challenging for analysts to carry out in-depth analyses and extract valuable information. In this paper, we present TelCoVis, an interactive visual analytics system, which helps analysts leverage their domain knowledge to gain insight into the co-occurrence in urban human mobility based on telco data. Our system integrates visualization techniques with new designs and combines them in a novel way to enhance analysts' perception for a comprehensive exploration. In addition, we propose to study the correlations in co-occurrence (i.e. people from multiple regions visit different places during the same time span) by means of biclustering techniques that allow analysts to better explore coordinated relationships among different regions and identify interesting patterns. The case studies based on a real-world dataset and interviews with domain experts have demonstrated the effectiveness of our system in gaining insights into co-occurrence and facilitating various analytical tasks.
+UR  - http://dx.doi.org/10.1109/TVCG.2015.2467194
+ER  -

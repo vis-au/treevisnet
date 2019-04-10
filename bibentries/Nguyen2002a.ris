@@ -1,0 +1,17 @@
+TY  - CONF
+AU  - Nguyen, Quang Vinh
+AU  - Huang, Mao Lin
+A2  - Jin, Jesse S.
+A2  - Eades, Peter
+A2  - Feng, David Dagan
+A2  - Yan, Hong
+T1  - Improvements of Space-Optimized Tree for Visualizing and Manipulating Very Large Hierarchies
+T2  - VIP'02: Proceedings of the Pan-Sydney Area Workshop on Visual Information Processing
+PB  - Australian Computer Society/CRPIT
+Y1  - 2002
+SP  - 75
+EP  - 81
+N2  - This paper describes some improvements over the original Space-Optimized Tree technique for the visualization and manipulation of very large hierarchies. The new system uses an improved algorithm to calculate geometrical layouts and it also provides better navigation capability. We introduce our new layout algorithm that can make more consistence of the display than the original layout technique made. We also combine DualView (a new focus+context technique) with the current modified semantic zooming in order to interactively navigate through the large and very large hierarchies.
+SN  - 1920682015
+UR  - https://dl.acm.org/citation.cfm?id=1164106
+ER  -

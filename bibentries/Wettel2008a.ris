@@ -1,0 +1,8 @@
+TY  - CONF
+AU  - Wettel, Richard
+T1  - Scripting 3D Visualizations with CodeCity
+T2  - FAMOOSr'08: Proceedings of the Workshop on FAMIX and Moose in Reengineering
+Y1  - 2008
+N2  - Software visualization is a useful means to present and explore large amounts of information. However, constructing useful visualizations targeted at specific tasks is often a trial-and-error process. As a consequence, a visualization prototyping tools needs to be flexible to allow for the creation of new visualizations and also to provide an environment that grants access to its powerful mechanisms. In this paper, we report on our experience with complementing the rich graphical user interface of CodeCity, a 3D visualization tool, with a scripting environment. The scripting language gives the programmers full access to the configurability of our system, without the need for them to be exposed to the real complexity of the application. Thanks to the scripting engine, adapting CodeCity to new types of data has become easy, as we illustrate with examples.
+UR  - http://www.inf.usi.ch/phd/wettel/download.php?f=Wettel08e-famoosr.pdf
+ER  -

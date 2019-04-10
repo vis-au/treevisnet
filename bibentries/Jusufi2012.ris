@@ -1,0 +1,21 @@
+TY  - CONF
+AU  - Jusufi, Ilir
+AU  - Kerren, Andreas
+AU  - Aleksakhin, Vladyslav
+AU  - Schreiber, Falk
+A2  - Wong, Pak Chung
+A2  - Kao, David L.
+A2  - Hao, Ming C.
+A2  - Chen, Chaomei
+A2  - Kosara, Robert
+A2  - Livingston, Mark A.
+A2  - Park, Jinah
+A2  - Roberts, Ian
+T1  - Visualization of mappings between the gene ontology and cluster trees
+T2  - VDA'12: Proceedings of the Conference on Visualization and Data Analysis
+PB  - SPIE
+Y1  - 2012
+N2  - Ontologies and hierarchical clustering are both important tools in biology and medicine to study high-throughput data such as transcriptomics and metabolomics data. Enrichment of ontology terms in the data is used to identify statistically overrepresented ontology terms, giving insight into relevant biological processes or functional modules. Hierarchical clustering is a standard method to analyze and visualize data to find relatively homogeneous clusters of experimental data points. Both methods support the analysis of the same data set, but are usually considered independently. However, often a combined view is desired: visualizing a large data set in the context of an ontology under consideration of a clustering of the data. This paper proposes a new visualization method for this task.
+SN  - 9780819489418
+UR  - http://dx.doi.org/10.1117/12.906700
+ER  -

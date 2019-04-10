@@ -1,0 +1,17 @@
+TY  - CONF
+AU  - Ishihara, Masaki
+AU  - Misue, Kazuo
+AU  - Tanaka, Jiro
+A2  - Misue, Kazuo
+A2  - Sugiyama, Kozo
+A2  - Tanaka, Jiro
+T1  - Ripple Presentation for Tree Structures with Historical Information
+T2  - APVIS'06: Proceedings of the Asia Pacific Symposium on Information Visualization
+PB  - Australian Computer Society
+Y1  - 2006
+SP  - 153
+EP  - 160
+N2  - We propose a new method for representing tree structures with historical information. We call this method Ripple Presentation. Categories of nodes are represented by the angles of edges and elapsed time is represented by the length of the edges. In this way, the method can express both the time series and categories, which has been diffic lt to achieve with either tree structures or lists. As a result, users can nderstand the overall information from their viewpoint view and discover target information effectively. We applied the method to trackback links of Weblog articles and the latest articles of News sites using RSS on Web as a resource.
+SN  - 1920682414
+UR  - http://portal.acm.org/citation.cfm?id=1151903.1151927
+ER  -

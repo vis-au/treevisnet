@@ -1,0 +1,13 @@
+TY  - CONF
+AU  - Blanch, Renaud
+AU  - Lecolinet, Éric
+T1  - Navigation Techniques for Zoomable Treemaps
+T2  - UIST'06: Adjunct Proceedings of the Annual ACM Symposium on User Interface Software and Technology
+PB  - ACM Press
+Y1  - 2006
+SP  - 49
+EP  - 50
+N2  - This paper presents a new technique called zoomable treemaps that makes it possible to navigate in very large trees. It integrates several efficient interaction techniques that enable multi-scale and structure-aware navigation.
+SN  - 1595933131
+UR  - http://www.acm.org/uist/archive/adjunct/2006/pdf/demos/p49-blanch.pdf
+ER  -

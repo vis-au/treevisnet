@@ -1,0 +1,14 @@
+TY  - CONF
+AU  - Lamping, John
+AU  - Rao, Ramana
+A2  - Tauber, Michael J.
+T1  - Visualizing large trees using the hyperbolic browser
+T2  - CHI'96: Conference companion of the SIGCHI conference on Human Factors in Computing Systems
+PB  - ACM Press
+Y1  - 1996
+SP  - 388
+EP  - 389
+N2  - We demonstrate a focus+context (fisheye) scheme for visualizing and manipulating large hierarchies. Our approach is to lay out the hierarchy uniformly on the hyperbolic plane and map this plane onto a circular display region. The projection onto the disk provides a natural mechanism for assigning more space to a portion of the hierarchy while still embedding it in a much larger context. Change of focus is accomplished by translating the structure on the hyperbolic plane, which allows a smooth transition without compromising the presentation of the context.
+SN  - 0897918320
+UR  - http://dx.doi.org/10.1145/257089.257389
+ER  -

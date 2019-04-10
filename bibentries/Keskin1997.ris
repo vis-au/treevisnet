@@ -1,0 +1,15 @@
+TY  - CONF
+AU  - Keskin, Can
+AU  - Vogelmann, Volker
+A2  - Ebert, David S.
+A2  - Nicholas, Charles K.
+T1  - Effective Visualization of Hierarchical Graphs With the Cityscape Metaphor
+T2  - NPIVM'97: Proceedings of the Workshop on New Paradigms in Information Visualization and Manipulation
+PB  - ACM Press
+Y1  - 1997
+SP  - 52
+EP  - 57
+N2  - In this paper, we describe an implementation of the cityscape metaphor to visualize trees. The cityscape metaphor is a generalization of barcharts in 3D. Our approach serves for better exploitation of human perception capabilities. To achieve this we employ effective visual cues like node position and size. We determine node positions in terms of perceptual organization. Further we determine node sizes for providing redundant hierarchical information. Redundancy aides in better understanding the tree structure. Finally, we point out some of the advantages of this approach to other spatial metaphors such as cone trees.
+SN  - 1581130511
+UR  - http://dx.doi.org/10.1145/275519.275531
+ER  -

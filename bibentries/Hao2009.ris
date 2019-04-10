@@ -1,0 +1,21 @@
+TY  - CONF
+AU  - Hao, Jie
+AU  - Zhang, Kang
+AU  - Gabrysch, Chad Allen
+AU  - Zhu, Qiaoming
+A2  - Li, Qing
+A2  - Feng, Ling
+A2  - Pei, Jian
+A2  - X.Wang, Sean
+A2  - Zhou, Xiaofang
+A2  - Zhu, Qiao-Ming
+T1  - Managing Hierarchical Information on Small Screens
+T2  - Advances in Data and Web Management: Proceedings of the Joint International Conferences APWeb/WAIM 2009
+PB  - Springer
+Y1  - 2009
+SP  - 429
+EP  - 441
+N2  - This paper presents a visualization methodology called Radial Edgeless Tree (RELT) for visualizing and navigating hierarchical information on mobile interfaces. RELT is characterized by recursive division of a polygonal display area, space-filling, maximum screen space usage, and clarity of the hierarchical structure. It is also general and flexible enough to allow users to customize the root location and stylize the layout. The paper presents the general RELT drawing algorithm that is adaptable and customizable for different applications. We demonstrate the algorithm's application for stock market visualization, and also present an empirical study on an emulated implementation with a currently used cell phone interface in terms of their performances in finding desired information.
+SN  - 9783642006715
+UR  - http://dx.doi.org/10.1007/978-3-642-00672-2_38
+ER  -

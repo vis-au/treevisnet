@@ -1,0 +1,21 @@
+TY  - CONF
+AU  - Grivet, Sébastien
+AU  - Auber, David
+AU  - Domenger, Jean-Philippe
+AU  - Melançon, Guy
+A2  - Wojciechowski, Konrad
+A2  - Smolka, Bogdan
+A2  - Palus, Henryk
+A2  - Kozera, Ryszard
+A2  - Skarbek, Wladyslaw
+A2  - Noakes, Lyle
+T1  - Bubble Tree Drawing Algorithm
+T2  - ICCVG'04: Proceedings of the International Conference on Computer Vision and Graphics
+PB  - Springer
+Y1  - 2004
+SP  - 633
+EP  - 641
+N2  - In this paper, we present an algorithm, called Bubble Tree, for the drawing of general rooted trees. A large variety of algorithms already exists in this field. However, the goal of this algorithm is to obtain a better drawing which makes a trade off between the angular resolution and the length of the edges. We show that the Bubble Tree drawing algorithm provides a planar drawing with at most one bend per edge in linear running time.
+SN  - 9781402041785
+UR  - http://dx.doi.org/10.1007/1-4020-4179-9_91
+ER  -

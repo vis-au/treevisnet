@@ -1,0 +1,14 @@
+TY  - JOUR
+AU  - Urribarri, Dana K.
+AU  - Castro, Silvia M.
+AU  - Martig, Sergio R.
+T1  - Gyrolayout: A Hyperbolic Level-of-Detail Tree Layout
+JO  - Journal of Universal Computer Science
+Y1  - 2013
+VL  - 19
+IS  - 1
+SP  - 132
+EP  - 156
+N2  - Many large datasets can be represented as hierarchical structures,introducing not only the necessity of specialized tree visualization techniques, but also the requirements of handling large amounts of data and offering the user a useful insightinto them. Many two-dimensional techniques have been developed, but 3-dimensional ones, together with navigational interactions, present a promising appropriate tool todeal with large trees. In this paper we present a hyperbolic tree layout extended to support different level-of-detail techniques and suitable for large tree representation and visualization. This layout permits the visualization of large trees with different level of detail in anenclosed 3-dimensional volume. As a significant part of the layout, we also present a Weighted Spherical Centroidal Voronoi Tessellation, an extension of planar Weighted Centroidal Voronoi Tessellations, in order to find an appropriate distribution of nodes on a spherical surface.
+UR  - http://www.jucs.org/jucs_19_1/gyrolayout_a_hyperbolic_level
+ER  -

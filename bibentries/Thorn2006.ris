@@ -1,0 +1,9 @@
+TY  - PAT
+AU  - Thorn, Matthew
+AU  - Hoffman, Donald
+T1  - Treemap display with minimum cell size
+Y1  - 2006
+IS  - US 7027052 B2
+N2  - A treemap with cells that have a minimum size so that large data sets can be clearly represented. A treemap that represents a plurality of data elements is generated, the treemap including a plurality of two-dimensional cells. Each cell represents a corresponding data element in the data set. The treemap includes a portion of a display screen assigned to a first cell so that the first cell has a size. A portion of the display screen is then assigned to a subsequent cell. The size of the first cell is adjusted in order to compensate for a size of the subsequent cell and to maintain the minimum cell size.
+UR  - http://www.freepatentsonline.com/7027052.html
+ER  -

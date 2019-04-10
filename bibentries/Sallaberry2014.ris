@@ -1,0 +1,12 @@
+TY  - JOUR
+AU  - Sallaberry, Arnaud
+AU  - Fu, Yang-Chih
+AU  - Ho, Hwai-Chung
+AU  - Ma, Kwan-Liu
+T1  - ContactTrees: A Technique for Studying Personal Network Data
+JO  - arXiv.org e-print service
+Y1  - 2014
+VL  - arXiv:1411.0052
+N2  - Network visualization allows a quick glance at how nodes (or actors) are connected by edges (or ties). A conventional network diagram of "contact tree" maps out a root and branches that represent the structure of nodes and edges, often without further specifying leaves or fruits that would have grown from small branches. By furnishing such a network structure with leaves and fruits, we reveal details about "contacts" in our ContactTrees that underline ties and relationships. Our elegant design employs a bottom-up approach that resembles a recent attempt to understand subjective well-being by means of a series of emotions. Such a bottom-up approach to social-network studies decomposes each tie into a series of interactions or contacts, which help deepen our understanding of the complexity embedded in a network structure. Unlike previous network visualizations, ContactTrees can highlight how relationships form and change based upon interactions among actors, and how relationships and networks vary by contact attributes. Based on a botanical tree metaphor, the design is easy to construct and the resulting tree-like visualization can display many properties at both tie and contact levels, a key ingredient missing from conventional techniques of network visualization. We first demonstrate ContactTrees using a dataset consisting of three waves of 3-month contact diaries over the 2004-2012 period, then compare ContactTrees with alternative tools and discuss how this tool can be applied to other types of datasets.
+UR  - http://arxiv.org/abs/1411.0052
+ER  -

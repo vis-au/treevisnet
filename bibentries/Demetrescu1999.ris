@@ -1,0 +1,18 @@
+TY  - CONF
+AU  - Demetrescu, Camil
+AU  - Battista, Giuseppe Di
+AU  - Finocchi, Irene
+AU  - Liotta, Giuseppe
+AU  - Patrignani, Maurizio
+AU  - Pizzonia, Maurizio
+A2  - Kratochvyl, Jan
+T1  - Infinite trees and the future
+T2  - GD'99: Proceedings of the International Symposium on Graph Drawing
+PB  - Springer
+Y1  - 1999
+SP  - 379
+EP  - 391
+N2  - We study the problem of designing layout facilities for the navigation of an "infinite" graph, i.e. a graph that is so large that its visualization is unfeasible, even by gluing together all the screen snapshots that a user can take during the navigation. We propose a framework for designing layout facilities that support the navigation of an infinite tree. The framework allows to exploit the knowledge of future moves of the user in order to reduce the changes in her mental map during the navigation. Variants of the classical Reingold-Tilford algorithm are presented and their performance is studied both experimentally and analytically.
+SN  - 3540669043
+UR  - http://dx.doi.org/10.1007/3-540-46648-7_39
+ER  -

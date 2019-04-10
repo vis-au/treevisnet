@@ -1,0 +1,12 @@
+TY  - JOUR
+AU  - Webber, Richard
+AU  - Herbert, Ric D.
+AU  - Jiang, Wei
+T1  - Space-filling Techniques in Visualizing Output from Computer Based Economic Models
+JO  - Computing in Economics and Finance
+Y1  - 2006
+VL  - 2006
+IS  - 67
+N2  - One important factor concerning economic models is that frequently large amounts of data are produced. There is the research issue of how end-users (who may not be researchers or model developers) can be presented with this data so that maximum benefits can be attained from the data production. The usual approach with economic models is a series of tables or data series plots. In this paper we use space-filling information visualization techniques as an aid to user’s understanding of data from an economic model. Based upon evaluation of the effectiveness of existing treemap and sunburst techniques through user experimentation, we introduce two new space-filling visualization techniques. We also describe fisheye-lens techniques applicable to these new visualizations.
+UR  - http://ideas.repec.org/p/sce/scecfa/67.html
+ER  -

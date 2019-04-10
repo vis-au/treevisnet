@@ -1,0 +1,18 @@
+TY  - CONF
+AU  - Moret, Philippe
+AU  - Binder, Walter
+AU  - Ansaloni, Danilo
+AU  - Villazón, Alex
+A2  - Lanza, Michele
+A2  - Müller, Hausi A.
+A2  - Storey, Margaret-Anne
+T1  - Visualizing Calling Context profiles with Ring Charts
+T2  - VisSoft'09: Proceedings of the IEEE International Workshop on Visualizing Software for Understanding and Analysis
+PB  - IEEE Computer Society
+Y1  - 2009
+SP  - 33
+EP  - 36
+N2  - Calling context profiling is an important technique for analysing the performance of object-oriented software with complex inter-procedural control flow. A common data structure is the Calling Context Tree (CCT), which stores dynamic metrics, such as CPU time, separately for each calling context. As CCTs may comprise millions of nodes, there is need for a condensed visualization that eases the location of performance bottlenecks. In this paper, we introduce Calling Context Ring Charts, a new compact visualization for CCTs, where callee methods are represented in ring segments surrounding the caller's ring segment. In order to reveal hot methods, their callers, and callees, the ring segments can be sized according to a chosen dynamic metric.
+SN  - 9781424450251
+UR  - http://dx.doi.org/10.1109/VISSOF.2009.5336425
+ER  -

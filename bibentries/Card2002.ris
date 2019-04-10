@@ -1,0 +1,13 @@
+TY  - CONF
+AU  - Card, Stuart K.
+AU  - Nation, David
+T1  - Degree-of-interest trees: a component of an attention-reactive user interface
+T2  - AVI'02: Proceedings of the Working Conference on Advanced Visual Interfaces
+PB  - ACM Press
+Y1  - 2002
+SP  - 231
+EP  - 245
+N2  - This paper proposes Degree-of-Interest trees. These trees use degree-of-interest calculations and focus+context visualization methods, together with bounding constraints, to fit within pre-established bounds. The method is an instance of an emerging "attention-reactive" user interface whose components are designed to snap together in bounded spaces.
+SN  - 1581135378
+UR  - http://dx.doi.org/10.1145/1556262.1556300
+ER  -

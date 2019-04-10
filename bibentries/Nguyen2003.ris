@@ -1,0 +1,13 @@
+TY  - JOUR
+AU  - Nguyen, Quang Vinh
+AU  - Huang, Mao Lin
+T1  - Space-optimized tree: A connection+enclosure approach for the visualization of large hierarchies
+JO  - Information Visualization
+Y1  - 2003
+VL  - 2
+IS  - 1
+SP  - 3
+EP  - 15
+N2  - This paper describes a new approach, space-optimized tree, for the visualization and navigation of tree-structured relational data. This technique can be used especially for the display of very large hierarchies in a two-dimensional space. We discuss the advantages and limitations of current techniques of tree visualization. Our strategy is to optimize the drawing of trees in a geometrical plane and maximize the utilization of display space by allowing more nodes and links to be displayed at a limited screen resolution. Space-optimized tree is a connection+enclosure visualization approach that recursively positions children of a subtree into polygon areas and still uses a node-link diagram to present the entire hierarchical structure. To be able to handle the navigation of large hierarchies, we use a new hybrid viewing technique that combines two viewing methods, the modified semantic zooming and a focus+context technique. While the semantic zooming technique can enlarge a particular viewing area by filtering out the rest of tree structure from the visualization, the focus+context technique allows the user to interactively focus, view and browse the entire visual structure with a reasonable high-density display.
+UR  - http://dx.doi.org/10.1057/palgrave.ivs.9500031
+ER  -

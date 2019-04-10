@@ -1,0 +1,28 @@
+TY  - CONF
+AU  - Liang, Jie
+AU  - Nguyen, Quang Vinh
+AU  - Simoff, Simeon
+AU  - Huang, Mao Lin
+A2  - Banissi, Ebad
+A2  - Bertschi, Stefan
+A2  - Forsell, Camilla
+A2  - Johansson, Jimmy
+A2  - Kenderdine, Sarah
+A2  - Marchese, Francis T.
+A2  - Sarfraz, Muhammad
+A2  - Stuart, Liz
+A2  - Ursyn, Anna
+A2  - Wyeld, Theodor G.
+A2  - Azzag, Hanane
+A2  - Lebba, Mustapha
+A2  - Venturini, Gilles
+T1  - Angular Treemaps -- A New Technique for Visualizing and Emphasizing Hierarchical Structures
+T2  - IV'12: Proceedings of the International Conference on Information Visualisation
+PB  - IEEE Computer Society
+Y1  - 2012
+SP  - 74
+EP  - 80
+N2  - Space-filling visualization techniques have proved their capability in visualizing large hierarchical structured data. However, most existing techniques restrict their partitioning process in vertical and horizontal direction only, which cause problem with identifying hierarchical structures. This paper presents a new space-filling method named Angular Treemaps that relax the constraint of the rectangular subdivision. The approach of Angular Treemaps utilizes divide and conquer paradigm to visualize and emphasize large hierarchical structures within a compact and limited display area with better interpretability. Angular Treemaps generate various layouts to highlight hierarchical sub-structure based on user's preferences or system recommendations. It offers flexibility to be adopted into a wider range of applications, regarding different enclosing shapes. Preliminary usability results suggest user's performance by using this technique is improved in locating and identifying categorized analysis tasks.
+SN  - 9780769547718
+UR  - http://dx.doi.org/10.1109/IV.2012.23
+ER  -

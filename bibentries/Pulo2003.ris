@@ -1,0 +1,15 @@
+TY  - CONF
+AU  - Pulo, Kevin
+AU  - Takatsuko, Masahiro
+A2  - Pattison, Tim
+A2  - Thomas, Bruce
+T1  - Inclusion Tree Layout Convention: An Empirical Investigation
+T2  - APVIS'03: Proceedings of the Asia Pacific Symposium on Information Visualization
+PB  - Australian Computer Society
+Y1  - 2003
+SP  - 27
+EP  - 37
+N2  - The inclusion tree layout convention involves drawing trees as nested rectangles rather than the more common node-link diagrams. Finding good inclusion layouts presents some unique challenges, for example, the quantification of what is meant by the "size" of a rectangle. This paper empirically evaluates and investigates several rectangle size measures for their usefulness in the inclusion tree layout convention. We find that the area size measure, commonly used in graph drawing, is very poorly suited to the inclusion layout convention, whilst size measures based on the aspect ratio of the layout are more appropriate and give better results.
+SN  - 1920682031
+UR  - http://portal.acm.org/citation.cfm?id=857084
+ER  -

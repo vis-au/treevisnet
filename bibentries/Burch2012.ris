@@ -1,0 +1,18 @@
+TY  - CONF
+AU  - Burch, Michael
+AU  - Raschke, Michael
+AU  - Greis, Miriam
+AU  - Weiskopf, Daniel
+A2  - Cox, Philip
+A2  - Plimmer, Beryl
+A2  - Rodgers, Peter
+T1  - Enriching Indented Pixel Tree Plots with Node-Oriented Quantitative, Categorical, Relational, and Time-Series Data
+T2  - Diagrammatic Representation and Inference: Proceedings of the International Conference Diagrams 2012
+PB  - Springer
+Y1  - 2012
+SP  - 102
+EP  - 116
+N2  - Indented Pixel Tree Plots are useful for an overview of large and deep hierarchical data. As a major benefit, these plots scale to pixel or even subpixel resolution, still clearly visualizing the hierarchical structures and substructures in a redundant-free representation. Consequently, there is display space available that may be used to show additional information such as enlarged or filtered subregions, details-on-demand, or control panels. In this paper, we demonstrate how this compact indented diagram can be enriched with additional data associated with both leaf and inner nodes of the hierarchy. To this end, we support quantitative, categorical, relational, and time-series data. By such a combination, exploration and analysis of visual patterns and anomalies on different levels of hierarchical granularity are possible in a static diagram. Furthermore, interactive features such as expanding/collapsing of subhierarchies, horizontal/vertical distortions, zooming in/out, or details-on-demand are integrated to allow the user to inspect the data from different viewpoints. The usefulness of the enriched diagrams is illustrated by applying them to file system data where single software constructs are hierarchically organized. Here, we focus on quantitative, categorical, and relational data attached to the nodes of the hierarchy. In a second case study, we demonstrate how evolving water level data of rivers in Germany can be represented by our plots.
+SN  - 9783642312229
+UR  - http://dx.doi.org/10.1007/978-3-642-31223-6_14
+ER  -

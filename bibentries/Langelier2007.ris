@@ -1,0 +1,16 @@
+TY  - CONF
+AU  - Langelier, Guillaume
+AU  - Dhambri, Karim
+A2  - Maletic, Jonathan I.
+A2  - Telea, Alexandru
+A2  - Marcus, Andrian
+T1  - Visual analysis of Azureus using VERSO
+T2  - VisSoft'07: Proceedings of the IEEE International Workshop on Visualizing Software for Understanding and Analysis
+PB  - IEEE Computer Society
+Y1  - 2007
+SP  - 163
+EP  - 164
+N2  - In this challenge report, we will see how to use VERSO in order to analyse Azureus. We answer the challenge through two separate main goals which represent two possible tasks available in VERSO. The first task is design anomaly detection and the second task is evolution analysis.
+SN  - 1424406005
+UR  - http://dx.doi.org/10.1109/VISSOF.2007.4290720
+ER  -

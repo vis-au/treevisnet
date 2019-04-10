@@ -1,0 +1,13 @@
+TY  - CONF
+AU  - Appert, Caroline
+AU  - Fekete, Jean-Daniel
+T1  - ControlTree: Navigating and Selecting in a Large Tree
+T2  - UIST'06: Adjunct Proceedings of the Annual ACM Symposium on User Interface Software and Technology
+PB  - ACM Press
+Y1  - 2006
+SP  - 47
+EP  - 48
+N2  - We introduce ControlTree, a novel interface using crossing interaction to navigate and select nodes in a large tree. ControlTree combines an optimized dynamic layout with interaction features to quickly reach a node in a node-link tree representation.
+SN  - 1595933131
+UR  - http://www.acm.org/uist/archive/adjunct/2006/pdf/demos/p47-appert.pdf
+ER  -

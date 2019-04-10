@@ -1,0 +1,14 @@
+TY  - JOUR
+AU  - Gordon, Dan
+AU  - Koren, Israel
+AU  - Silberman, Gabriel M.
+T1  - Embedding Tree Structures in VLSI Hexagonal Arrays
+JO  - IEEE Transactions on Computers
+Y1  - 1984
+VL  - C-33
+IS  - 1
+SP  - 104
+EP  - 107
+N2  - Tree structures have been proposed for special-purpose and general-purpose multiprocessors due to their desirable property of logarithmic path from the root to any leaf element. Since only local communication among processors is needed in tree structures, they are well suited for the VLSI technology. Such an implementation requires an area-economical mapping of a tree on a plane. Novel mapping schemes for trees onto hexagonal arrays (or grids) and appropriate algorithms are proposed here and shown to be superior over known mappings on square arrays (or grids).
+UR  - http://dx.doi.org/10.1109/TC.1984.5009319
+ER  -

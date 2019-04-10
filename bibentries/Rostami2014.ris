@@ -1,0 +1,16 @@
+TY  - CONF
+AU  - Rostami, M. Ali
+AU  - Azadi, Azin
+AU  - Bücker, H. Martin
+A2  - Duncan, Christian
+A2  - Symvonis, Antonios
+T1  - A new approach to visualizing general trees using thickness-adjustable quadratic curves
+T2  - GD'14: Proceedings of the International Symposium on Graph Drawing
+PB  - Springer
+Y1  - 2014
+SP  - 525
+EP  - 526
+N2  - We present a new algorithm for visualization of trees. This algorithm illustrates the hierarchical data by using curve segments for each edge and how edges evolve on a path from the root to the leaves. More clearly, we visualize a tree based on the shape of a botanical tree. The software tool GraphTea implements this algorithm where the adjustable thicknesses of the curve segments reflect the expansion of botanical trees. Here, we consider a simple expansion definition for each vertex as the sum over the number of children and the children of its children up to the some specific level.
+SN  - 9783662458020
+UR  - http://link.springer.com/content/pdf/bbm%3A978-3-662-45803-7%2F1.pdf
+ER  -

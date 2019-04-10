@@ -1,0 +1,10 @@
+TY  - CONF
+AU  - hyun Kwon, Oh
+AU  - Choi, Junghong
+AU  - Lee, Kyunwon
+T1  - Interaction Techniques for a Strata Treemap
+T2  - Poster session at LDAV'12: IEEE Symposium on Large-Scale Data Analysis and Visualization
+Y1  - 2012
+N2  - The Strata treemap is a new approach to hierarchy visualization that improves hierarchical structure visibility without distorting node sizes or missing nodes. In this paper, we present useful interaction techniques and visual cues that fit the Strata treemap.
+UR  - http://idlab.ajou.ac.kr/stratatreemap/publications/Interaction_Techniques_for_a_Strata_treemap_LDAV2012_Abstract.pdf
+ER  -

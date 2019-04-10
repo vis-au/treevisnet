@@ -1,0 +1,19 @@
+TY  - CONF
+AU  - Bachmaier, Christian
+AU  - Brandenburg, Franz J.
+AU  - Brunner, Wolfgang
+AU  - Hofmeier, Andreas
+AU  - Matzeder, Marco
+AU  - Unfried, Thomas
+A2  - Tollis, Ioannis G.
+A2  - Patrignani, Maurizio
+T1  - Tree Drawings on the Hexagonal Grid
+T2  - GD'08: Proceedings of the International Symposium on Graph Drawing
+PB  - Springer
+Y1  - 2008
+SP  - 372
+EP  - 383
+N2  - We consider straight-line drawings of trees on a hexagonal grid. The hexagonal grid is an extension of the common grid with inner nodes of degree six. We restrict the number of directions used for the edges from each node to its children from one to five, and to five patterns: straight, Y, psi, X, and full. The psi-drawings generalize hv- or strictly upward drawings to ternary trees. We show that complete ternary trees have a psi-drawing on a square of size and general ternary trees can be drawn within area. Both bounds are optimal. Sub-quadratic bounds are also obtained for X-pattern drawings of complete tetra trees, and for full-pattern drawings of complete penta trees, which are 4-ary and 5-ary trees. These results parallel and complement the ones of Frati for straight-line orthogonal drawings of ternary trees. Moreover, we provide an algorithm for compacted straight-line drawings of penta trees on the hexagonal grid, such that the direction of the edges from a node to its children is given by our patterns and these edges have the same length. However, drawing trees on a hexagonal grid within a prescribed area or with unit length edges is NP-hard.
+SN  - 9783642002182
+UR  - http://dx.doi.org/10.1007/978-3-642-00219-9_36
+ER  -

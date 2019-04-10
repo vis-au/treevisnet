@@ -1,0 +1,26 @@
+TY  - CONF
+AU  - Chintalapani, Gouthami
+AU  - Plaisant, Catherine
+AU  - Shneiderman, Ben
+A2  - Banissi, Ebad
+A2  - Börner, Katy
+A2  - Chen, Chaomei
+A2  - Dastbaz, Muhammad
+A2  - Clapworthy, Gordon
+A2  - Faiola, Anthony
+A2  - Izquierdo, Ebroul
+A2  - Maple, Carsten
+A2  - Roberts, Jonathan
+A2  - Moore, Chris
+A2  - Ursyn, Anna
+A2  - Zhang, Jian J.
+T1  - Extending the utility of treemaps with flexible hierarchy
+T2  - IV'04: Proceedings of the International Conference on Information Visualisation
+PB  - IEEE Computer Society
+Y1  - 2004
+SP  - 335
+EP  - 344
+N2  - Treemaps are a visualization technique for presenting hierarchical information on two-dimensional displays. Prior implementations limit the visualization to pre-defined static hierarchies. Flexible hierarchy, a new capability of Treemap 4.0, enables users to define various hierarchies through dynamically selecting a series of data attributes so that they can discover patterns, clusters and outliers. This work describes the design and implementation issues of flexible hierarchy. It then reports on a usability study, which led to enhancements to the interface.
+SN  - 0769521770
+UR  - http://dx.doi.org/10.1109/IV.2004.1320166
+ER  -

@@ -1,0 +1,11 @@
+TY  - JOUR
+AU  - de Berg, Mark
+AU  - Speckmann, Bettina
+AU  - van der Weele, Vincent
+T1  - Treemaps with Bounded Aspect Ratio
+JO  - arXiv.org e-print service
+Y1  - 2011
+VL  - 1012.1749v2
+N2  - Treemaps are a popular technique to visualize hierarchical data. The input is a weighted tree $ where the weight of each node is the sum of the weights of its children. A treemap for $ is a hierarchical partition of a rectangle into simply connected regions, usually rectangles. Each region represents a node of $ and the area of each region is proportional to the weight of the corresponding node. An important quality criterium for treemaps is the aspect ratio of its regions. Unfortunately, one cannot bound the aspect ratio if the regions are restricted to be rectangles. Hence Onak and Sidiropoulos in SoCG 2008 introduced polygonal partitions, which use convex polygons. We are the first to obtain convex partitions with optimal aspect ratio $O()$. Furthermore, we consider rectilinear partitions, which retain more of the schematized flavor of standard rectangular treemaps. Our rectilinear treemaps have constant aspect ratio, independent of $$ or the number and weight of the nodes. The leaves of $ are represented by rectangles, L-, and S-shapes and internal nodes by orthoconvex polygons. We also consider the important special case that $=1$, that is, single-level treemaps. We prove that it is strongly NP-hard to minimize the aspect ratio of a rectangular single-level treemap. On the positive side we show how to construct rectilinear and convex single-level treemaps with constant aspect ratio. Our rectilinear single-level treemaps use only rectangles and L-shapes and have aspect ratio at most $2 + 2 3/3$. The convex version uses four different octilinear shapes and has aspect ratio at most 9/2.
+UR  - http://arxiv.org/abs/1012.1749v2
+ER  -

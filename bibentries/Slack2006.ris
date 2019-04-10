@@ -1,0 +1,14 @@
+TY  - JOUR
+AU  - Slack, James
+AU  - Hildebrand, Kristian
+AU  - Munzner, Tamara
+T1  - PRISAD: A Partitioned Rendering Infrastructure for Scalable Accordion Drawing (Extended Version)
+JO  - Information Visualization
+Y1  - 2006
+VL  - 5
+IS  - 2
+SP  - 137
+EP  - 151
+N2  - We present PRISAD, the first generic rendering infrastructure for information visualization applications that use the accordion drawing technique: rubber-sheet navigation with guaranteed visibility for marked areas of interest. Our new rendering algorithms are based on the partitioning of screen-space, which allows us to handle dense data set regions correctly. The algorithms in previous work led to incorrect visual representations because of overculling, and to inefficiencies due to overdrawing multiple items in the same region. Our pixel-based drawing infrastructure guarantees correctness by eliminating over-culling, and improves rendering performance with tight bounds on overdrawing. PRITree and PRISeq are applications built on PRISAD, with the feature sets of TreeJuxtaposer and SequenceJuxtaposer, respectively. We describe our PRITree and PRISeq data set traversal algorithms, which are used for efficient rendering, culling, and layout of data sets within the PRISAD framework. We also discuss PRITree node marking techniques, which offer order-of-magnitude improvements to both memory and time performance vs previous range storage and retrieval techniques. Our PRITree implementation features a fivefold increase in rendering speed for non-trivial tree structures, and also reduces memory requirements in some real-world data sets by up to eight times, so we are able to handle trees of several million nodes. PRISeq renders 15 times faster and handles data sets 20 times larger than previous work. The software is available as open source from http://olduvai.sourceforge.net.
+UR  - http://dx.doi.org/10.1057/palgrave.ivs.9500118
+ER  -

@@ -1,0 +1,22 @@
+TY  - CONF
+AU  - Beck, Fabian
+AU  - Burch, Michael
+AU  - Munz, Tanja
+AU  - Di Silvestro, Lorenzo
+AU  - Weiskopf, Daniel
+A2  - Battiato, Sebastiano
+A2  - Coquillart, Sabine
+A2  - Pettré, Julien
+A2  - Laramee, Robert S.
+A2  - Kerren, Andreas
+A2  - Braz, José
+T1  - Generalized Pythagoras Trees: A fractal approach to hierarchy visualization
+T2  - Computer Vision, Imaging and Computer Graphics - Theory and Applications, Revised Selected Papers of the International Conference VISIGRAPP 2014
+PB  - Springer
+Y1  - 2015
+SP  - 115
+EP  - 135
+N2  - Through their recursive definition, many fractals have an inherent hierarchical structure. An example are binary branching Pythagoras Trees. By stopping the recursion in certain branches, a binary hierarchy can be encoded and visualized. But this binary encoding is an obstacle for representing general hierarchical data such as file systems or phylogenetic trees, which usually branch into more than two subhierarchies. We hence extend Pythagoras Trees to arbitrarily branching trees by adapting the geometry of the original fractal approach. Each vertex in the hierarchy is visualized as a rectangle sized according to a metric. We analyze several visual parameters such as length, width, order, and color of the nodes against the use of different metrics. Interactions help to zoom, browse, and filter the hierarchy. The usefulness of our technique is illustrated by two case studies visualizing directory structures and a large phylogenetic tree. We compare our approach with existing tree diagrams and discuss questions of geometry, perception, readability, and aesthetics.
+SN  - 9783319251165
+UR  - http://dx.doi.org/10.1007/978-3-319-25117-2_8
+ER  -

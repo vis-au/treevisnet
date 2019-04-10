@@ -1,0 +1,16 @@
+TY  - CHAP
+AU  - Huang, Mao Lin
+AU  - Nguyen, Quang Vinh
+AU  - Lai, Wei
+A2  - Lu, Jie
+A2  - Ruan, Da
+A2  - Zhang, Guangquan
+T1  - Creating Visual Browsers for Large-Scale Online Auctions
+T2  - E-Service Intelligence -- Methodologies, Technologies and Applications
+PB  - Springer
+Y1  - 2007
+SP  - 579
+EP  - 600
+N2  - This chapter discusses the requirements raised for running online auctions as well as the technical issues on the design of graphical user interfaces and how we could use these graphical interfaces to help users navigate visualization technique called EncCon as well as the design of graphic attributes that can be used to present the domain specific attributes of the auction items and the relational structures among these items, and these graphic presentations will provide users with a clear map showing the possible paths to the target items. We will demonstrate the effectiveness of our techniques by illustrating an online auction prototype that simulates the ordinary auction activities with the assistance of visualization.
+UR  - http://dx.doi.org/10.1007/978-3-540-37017-8_27
+ER  -

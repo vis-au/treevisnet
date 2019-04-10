@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Moret, Philippe
+AU  - Binder, Walter
+AU  - Villazón, Alex
+AU  - Ansaloni, Danilo
+AU  - Heydarnoori, Abbas
+T1  - Visualizing and exploring profiles with calling context ring charts
+JO  - Software -- Practice and Experience
+Y1  - 2010
+VL  - 40
+IS  - 9
+SP  - 825
+EP  - 847
+N2  - Calling context profiling is an important technique for analyzing the performance of object-oriented software with complex inter-procedural control flow. The Calling Context Tree (CCT) is a common data structure that stores dynamic metrics, such as CPU time, separately for each calling context. As CCTs may comprise millions of nodes, there is a need for a condensed visualization that eases the localization of performance bottlenecks. In this article, we discuss Calling Context Ring Charts (CCRCs), a compact visualization for CCTs, where callee methods are represented in ring segments surrounding the caller's ring segment. In order to reveal hot methods, their callers, and callees, the ring segments can be sized according to a chosen dynamic metric. We describe two case studies where CCRCs help us to detect and fix performance problems in applications. A performance evaluation also confirms that our implementation can efficiently handle large CCTs.
+UR  - http://dx.doi.org/10.1002/spe.985
+ER  -

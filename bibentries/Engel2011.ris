@@ -1,0 +1,15 @@
+TY  - JOUR
+AU  - Engel, Daniel
+AU  - Rosenbaum, Rene
+AU  - Hamann, Bernd
+AU  - Hagen, Hans
+T1  - Structural Decomposition Trees
+JO  - Computer Graphics Forum
+Y1  - 2011
+VL  - 30
+IS  - 3
+SP  - 921
+EP  - 930
+N2  - Researchers and analysts in modern industrial and academic environments are faced with a daunting amount of multi-dimensional data. While there has been significant development in the areas of data mining and knowledge discovery, there is still the need for improved visualizations and generic solutions. The state-of-the-art in visual analytics and exploratory data visualization is to incorporate more profound analysis methods while focusing on fast interactive abilities. The common trend in these scenarios is to either visualize an abstraction of the data set or to better utilize screen-space. This paper presents a novel technique that combines clustering, dimension reduction and multi-dimensional data representation to form a multivariate data visualization that incorporates both detail and overview. This amalgamation counters the individual drawbacks of common projection and multi-dimensional data visualization techniques, namely ambiguity and clutter. A specific clustering criterion is used to decompose a multi-dimensional data set into a hierarchical tree structure. This decomposition is embedded in a novel Dimensional Anchor visualization through the use of a weighted linear dimension reduction technique. The resulting Structural Decomposition Tree (SDT) provides not only an insight of the data set's inherent structure, but also conveys detailed coordinate value information. Further, fast and intuitive interaction techniques are explored in order to guide the user in highlighting, brushing, and filtering of the data.
+UR  - http://dx.doi.org/10.1111/j.1467-8659.2011.01941.x
+ER  -

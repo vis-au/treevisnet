@@ -1,0 +1,18 @@
+TY  - CONF
+AU  - Larrea, Martin
+AU  - Urribarri, Dana
+AU  - Martig, Sergio
+AU  - Castro, Silvia
+A2  - Xiao, Yingcai
+A2  - Amon, Tomaz
+A2  - Kommers, Piet
+T1  - User Experience with Spherical Layout
+T2  - CGVCVIP'09: Proceedings of the International Conference on Computer Graphics, Visualization, Computer Vision and Image Processing
+PB  - IADIS
+Y1  - 2009
+SP  - 272
+EP  - 276
+N2  - The 3D tree visualization faces multiples challenges: the selection of an appropriate layout and the use of proper interactions will help the information understanding. A good combination of these two elements (layout + interactions) will result in a visualization that effectively conveys the key features of a complex structure or system to a wide range of users and permits the analytical reasoning process. In previous work we have presented the Spherical layout; this layout allows the representation of larger information sets, at different levels of detail in a 3D environment. The goal of this work was centered in a user experience for this layout. We developed a file browser application based on the Spherical layout, called Brows.AR, and compared it with Windows File Browser. The results of this experience are shown in this paper.
+SN  - 9789728924843
+UR  - http://www.iadis.net/dl/Search_list_open.asp?code=6147
+ER  -

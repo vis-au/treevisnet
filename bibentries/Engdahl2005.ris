@@ -1,0 +1,8 @@
+TY  - THES
+AU  - Engdahl, Björn
+T1  - Ordered and Unordered Treemap. Algorithms and Their Applications on Handheld Devices
+Y1  - 2005
+PB  - Royal Institute of Technology, Stockholm, Sweden
+N2  - This thesis describes a way to visualize hierarchical structures on PDAs using Treemaps. A new ordered layout algorithm for treemaps, called Split Layout, is presented. Traditionally, treemap algorithms have exhibited a trade off between good aspect ratio and ordered layout. The new Split Layout is compared to five published treemap algorithms. Properties such as avarage aspect ratio, stability, run time and readability are measured, and it is shown that the new Split Layout performs better than any known ordered layout. The average aspect ratio is about 23% better and the stability increased between 28% and 40 A user study was performed to measure the quality of the ordering of the new algorithm. 30 users gave a total of 360 measured response times, and it was found that the median time to locate a specific rectangle in the treemap only took 0.14 seconds (5 longer for the Split Layout than for the Pivot by Split Size algorithm. The technique was implemented on a PDA and used for visualizing threaded discussion forums. User studies confirm that the concept on using treemaps on PDAs looks promising. The contents of the forum was easily grasped, even though the number of articles exceeded one hundred.
+UR  - http://w3.nada.kth.se/utbildning/grukth/exjobb/rapportlistor/2005/rapporter05/engdahl_bjorn_05033.pdf
+ER  -

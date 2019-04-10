@@ -1,0 +1,15 @@
+TY  - JOUR
+AU  - Bein, Wolfgang W.
+AU  - Lamore, Lawrence L.
+AU  - Shields, Jr., Charles O.
+AU  - Sudborough, Ivan Hal
+T1  - Embedding a complete binary tree into a three-dimensional grid
+JO  - Journal of Interconnection Networks
+Y1  - 2004
+VL  - 5
+IS  - 2
+SP  - 111
+EP  - 130
+N2  - We describe total congestion 1 embeddings of complete binary trees into three dimensional grids with low expansion ratio r. That is, we give a one-to-one embedding of any complete binary tree into a hexahedron shaped grid such that (a) the number of nodes in the grid is at most r times the number of nodes in the tree, and (b) no tree nodes or edges occupy the same grid positions. The first strategy embeds trees into cube shaped 3D grids. That is, 3D grids in which all dimensions are roughly equal in size, and which thus have no limit in the number of layers. The technique uses a recursive scheme, and we obtain an expansion ratio of r=1.09375. We then give strategies which embed trees into flat 3D grid shapes. That is, we map complete binary trees into 3D grids with a fixed, small number of layers k. Using again a recursive scheme, for k=2, we obtain r=1.25. By a rather different technique, which intricately weaves the branches of various subtrees into each other, we are able to obtain very tight embeddings: We have r=1.171875 for embeddings into five layer grids and r=1.09375 for embeddings into seven layer grids.
+UR  - http://dx.doi.org/10.1142/S0219265904001052
+ER  -

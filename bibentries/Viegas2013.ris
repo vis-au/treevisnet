@@ -1,0 +1,19 @@
+TY  - CONF
+AU  - Viégas, Fernanda B.
+AU  - Wattenberg, Martin
+AU  - Hebert, Jack
+AU  - Borggaard, Geoffrey
+AU  - Cichowlas, Alison
+AU  - Feinberg, Jonathan
+AU  - Orwant, Jon
+AU  - Wren, Christopher R.
+T1  - Google+ Ripples: A native visualization of information flow
+T2  - WWW'13: Proceedings of the International World Wide Web Conference
+PB  - ACM Press
+Y1  - 2013
+SP  - 1389
+EP  - 1398
+N2  - G+ Ripples is a visualization of information flow that shows users how public posts are shared on Google+. Unlike other social network visualizations, Ripples exists as a "native" visualization: it is directly accessible from public posts on Google+. This unique position leads to both new constraints and new possibilities for design. We describe the visualization technique, which is a new mix of node-and-link and circular treemap metaphors. We then describe user reactions as well as some of the patterns of sharing that are made evident by the Ripples visualization.
+SN  - 9781450320351
+UR  - https://dl.acm.org/citation.cfm?id=2488504
+ER  -

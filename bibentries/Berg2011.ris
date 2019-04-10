@@ -1,0 +1,18 @@
+TY  - CONF
+AU  - de Berg, Mark
+AU  - Speckmann, Bettina
+AU  - van der Weele, Vincent
+A2  - Asano, Takao
+A2  - ichi Nakano, Shin
+A2  - Okamoto, Yoshio
+A2  - Watanabe, Osamu
+T1  - Treemaps with Bounded Aspect Ratio
+T2  - ISAAC'11: Proceedings of the International Symposium on Algorithms and Computations
+PB  - Springer
+Y1  - 2011
+SP  - 260
+EP  - 270
+N2  - Treemaps are a popular technique to visualize hierarchical data. The input is a weighted tree T where the weight of each node is the sum of the weights of its children. A treemap for T is a hierarchical partition of a rectangle into simply connected regions, usually rectangles. Each region represents a node of T and its area is proportional to the weight of the corresponding node. An important quality criterion for treemaps is the aspect ratio of its regions. One cannot bound the aspect ratio if the regions are restricted to be rectangles. In contrast, polygonal partitions, that use convex polygons, can have bounded aspect ratio. We are the first to obtain convex partitions with optimal aspect ratio O(depth(T)) . However, depth(T) still depends on the input tree. Hence we introduce a new type of treemaps, namely orthoconvex treemaps, where regions representing leaves are rectangles, L-, and S-shapes, and regions representing internal nodes are orthoconvex polygons. We prove that any input tree, irrespective of the weights of the nodes and the depth of the tree, admits an orthoconvex treemap of constant aspect ratio.
+SN  - 9783642255908
+UR  - http://dx.doi.org/10.1007/978-3-642-25591-5_28
+ER  -

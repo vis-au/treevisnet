@@ -1,0 +1,17 @@
+TY  - CONF
+AU  - Beermann, Dale
+AU  - Munzner, Tamara
+AU  - Humphreys, Greg
+A2  - Brodlie, Ken
+A2  - Duke, David
+A2  - Joy, Kenneth I.
+T1  - Scalable, Robust Visualization of Very Large Trees
+T2  - EuroVis'05: Proceedings of the Joint Eurographics - IEEE VGTC Symposium on Visualization
+PB  - Eurographics Association
+Y1  - 2005
+SP  - 37
+EP  - 44
+N2  - The TreeJuxtaposer system allowed visual comparison of large trees with guaranteed visibility of landmarks and Focus+Context navigation. While that system allowed exploration and comparison of larger datasets than previous work, it was limited to a single tree of 775,000 nodes by a large memory footprint. In this paper, we describe the theoretical limitations to TreeJuxtaposer's architecture that severely restrict its scalability. We provide two scalable, robust solutions to these limitations: TJC and TJC-Q. TJC is a system that supports browsing trees up to 15 million nodes by exploiting leading-edge graphics hardware while TJC-Q allows browsing trees up to 5 million nodes on commodity platforms. Both of these systems use a fast new algorithm for drawing and culling and benefit from a complete redesign of all data structures for more efficient memory usage and reduced preprocessing time.
+SN  - 3905673193
+UR  - http://dx.doi.org/10.2312/VisSym/EuroVis05/037-044
+ER  -

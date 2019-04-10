@@ -1,0 +1,11 @@
+TY  - PAT
+AU  - Tan, Desney S.
+AU  - Smith, Gregory R.
+AU  - Lee, Bongshin
+AU  - Robertson, George G.
+T1  - Adaptive tree visualization for tournament-style brackets
+Y1  - 2009
+IS  - US 2009/0098937 A1
+N2  - An adaptive tree visualization system and method for adaptively deforming a traditional bracket tree to visualize information about competitors in a linear manner. A one-dimensional result line emanates from the name of each competitor such that the progress of each competitor can be immediately determined by examining the length of the competitor's result line. The result line typically is composed of multiple result line segments. Each line segment spans a particular time period column to indicate that the competitor is matched up with another competitor during that time period. A pending result line segment spans the adjacent time period to indicate that the results of the match-up are unknown. Once the result of the match-up is known, the pending result line is added to the result line segment of the winning competitor. This extends the winner's result line into the next time period while the loser's result line remains unchanged.
+UR  - http://www.freepatentsonline.com/y2009/0098937.html
+ER  -

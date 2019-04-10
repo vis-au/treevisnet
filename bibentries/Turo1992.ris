@@ -1,0 +1,15 @@
+TY  - CONF
+AU  - Turo, David
+AU  - Johnson, Brian
+A2  - Kaufman, Arie
+A2  - Nielson, Gregory M.
+T1  - Improving the visualization of hierarchies with treemaps: Design Issues and Experimentation
+T2  - Visualization'92: Proceedings of the IEEE Conference on Visualization
+PB  - IEEE Computer Society
+Y1  - 1992
+SP  - 124
+EP  - 131
+N2  - Controlled experiments with novice treemap users and real data highlight the strengths of treemaps and provide direction for improvement. Issues discussed include experimental results, layout algorithms, nesting offsets, labeling, animation, and small multiple displays. Treemaps prove to be a potent tool for hierarchy display. The principles discussed are applicable to many information visualization situations.
+SN  - 0818628979
+UR  - http://dx.doi.org/10.1109/VISUAL.1992.235217
+ER  -

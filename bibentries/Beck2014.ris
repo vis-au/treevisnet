@@ -1,0 +1,19 @@
+TY  - CONF
+AU  - Beck, Fabian
+AU  - Burch, Michael
+AU  - Munz, Tanja
+AU  - Di Silvestro, Lorenzo
+AU  - Weiskopf, Daniel
+A2  - Laramee, Robert S.
+A2  - Kerren, Andreas
+A2  - Braz, José
+T1  - Generalized Pythagoras Trees for Visualizing Hierarchies
+T2  - IVAPP'14: Proceedings of the International Conference on Information Visualization Theory and Applications
+PB  - SCITEPRESS
+Y1  - 2014
+SP  - 17
+EP  - 28
+N2  - Pythagoras Trees are fractals that can be used to depict binary hierarchies. But this binary encoding is an obstacle for visualizing hierarchical data such as file systems or phylogenetic trees, which branch into n subhierarchies. Although any hierarchy can be modeled as a binary one by subsequently dividing n-ary branches into a sequence of n-1 binary branches, we follow a different strategy. In our approach extending Pythagoras Trees to arbitrarily branching trees, we only need a single visual element for an n-ary branch instead of spreading the binary branches along a strand. Each vertex in the hierarchy is visualized as a rectangle sized according to a metric. We analyze several visual parameters such as length, width, order, and color of the nodes against the use of different metrics. The usefulness of our technique is illustrated by two case studies visualizing directory structures and a large phylogenetic tree. We compare our approach with existing tree diagrams and discuss questions of geometry, perception, readability, and aesthetics.
+SN  - 9789897580055
+UR  - http://dx.doi.org/10.5220/0004654500170028
+ER  -

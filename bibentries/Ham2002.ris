@@ -1,0 +1,15 @@
+TY  - CONF
+AU  - van Ham, Frank
+AU  - van Wijk, Jarke J.
+A2  - Wong, Pak Chung
+A2  - Andrews, Keith
+T1  - Beamtrees: Compact Visualization of Large Hierarchies
+T2  - InfoVis'02: Proceedings of the IEEE Symposium on Information Visualization
+PB  - IEEE Computer Society
+Y1  - 2002
+SP  - 93
+EP  - 100
+N2  - Beamtrees are a new method for the visualization of large hierarchical data sets. Nodes are shown as stacked circular beams, such that both the hierarchical structure as well as the size of nodes are depicted. The dimensions of beams are calculated using a variation of the treemap algorithm. A small user study indicated that beamtrees are significantly more effective than nested treemaps and cushion treemaps for the extraction of global hierarchical information.
+SN  - 076951751X
+UR  - http://dx.doi.org/10.1109/INFVIS.2002.1173153
+ER  -

@@ -1,0 +1,19 @@
+TY  - CONF
+AU  - Holten, Danny
+AU  - Vliegen, Roel
+AU  - van Wijk, Jarke J.
+A2  - Marcus, Andrian
+A2  - Maletic, Jonathan I.
+A2  - Storey, Margaret-Anne
+A2  - Lanza, Michele
+A2  - Ducasse, Stéphane
+T1  - Visual Realism for the Visualization of Software Metrics
+T2  - VisSoft'05: Proceedings of the IEEE International Workshop on Visualizing Software for Understanding and Analysis
+PB  - IEEE Computer Society
+Y1  - 2005
+SP  - 27
+EP  - 32
+N2  - The visualization techniques used in current software visualization frameworks make use of a limited set of graphical elements to highlight relevant aspects of a software system. Typical examples of such elements are text, simple geometric shapes and uniform color fills. Although human visual perception enables rapid processing of additional visual cues like shading and texture, they are not used. We contend that such 2D and 3D computer graphics techniques for achieving visual realism can be used to increase the information throughput of software visualization techniques. Visualization results are presented to show how treemaps, cushions, color, texture, and bump mapping can be used to visualize software metrics of hierarchically organized elements of a software system
+SN  - 0780395409
+UR  - http://dx.doi.org/10.1109/VISSOF.2005.1684299
+ER  -

@@ -1,0 +1,18 @@
+TY  - CONF
+AU  - Kubota, Hidekazu
+AU  - Nishida, Toyoaki
+AU  - Sumi, Yasuyuki
+A2  - Washio, Takashi
+A2  - Satoh, Ken
+A2  - Takeda, Hideaki
+A2  - Inokuchi, Akihiro
+T1  - Visualization of Contents Archive by Contour Map Representation
+T2  - New Frontiers in Artificial Intelligence: Proceedings of the Japanese Society for Artificial Intelligence Conference and Workshops
+PB  - Springer
+Y1  - 2006
+SP  - 19
+EP  - 32
+N2  - This article describes a model for sustainable contents management, its visualization algorithms, and the implemented system, called sustainable knowledge globe (SKG). The focal point of our study is visualization using contour maps. The graphical representation of tree-structured contents increases in complexity with the number of contents. The contour map representations can briefly depict the arrangement and structure of contents in an archive. Three contour map representations are proposed assuming the importance of the arrangement design. Nesting, dendroidal, and island-like contours are amplified from the viewpoint of preservation of the structures and arrangements, in addition to supporting shape and texture design. The comparison and applications of the three algorithms are discussed.
+SN  - 9783540699019
+UR  - http://dx.doi.org/10.1007/978-3-540-69902-6_3
+ER  -

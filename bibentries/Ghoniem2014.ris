@@ -1,0 +1,11 @@
+TY  - CONF
+AU  - Ghoniem, Mohammad
+AU  - Cornil, Maël
+AU  - Stefas, Mickaël
+AU  - Otjacques, Benoît
+T1  - Weighted Maps: Location-aware Treemaps
+T2  - Poster session of IEEE InfoVis'14
+Y1  - 2014
+N2  - The wide availability of quantitative geolocated structured data, e.g. census data, makes it desirable for classic tree visualizations to be location-aware. In this paper, we introduce a new treemap algorithm that produces rectangular cartograms consistently with the known location of data points on a geographic map.
+UR  - http://www.researchgate.net/publication/265065341_Weighted_Maps_Location-Aware_Treemaps
+ER  -

@@ -1,0 +1,10 @@
+TY  - CONF
+AU  - Schulz, Hans-Jörg
+AU  - Hadlak, Steffen
+AU  - Schumann, Heidrun
+T1  - A Point-Based Layout for Large Hierarchies
+T2  - InfoVis'08: Poster at the IEEE Conference on Information Visualization
+Y1  - 2008
+N2  - Space-filling layout techniques for tree representations are frequently used when the available screen space is small or the data set is large. In this paper, we propose a new approach to space-filling tree representations, which uses mechanisms from the point-based rendering paradigm. We also numerically evaluate our new technique together with two established space-filling techniques using the measures of the Ink-Paper-Ratio and overplotted
+UR  - http://www.informatik.uni-rostock.de/~hs162/pdf/schulz2.pdf
+ER  -

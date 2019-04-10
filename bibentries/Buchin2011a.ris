@@ -1,0 +1,13 @@
+TY  - JOUR
+AU  - Buchin, Kevin
+AU  - Eppstein, David
+AU  - Löffler, Maarten
+AU  - Nöllenburg, Martin
+AU  - Silveira, Rodrigo I.
+T1  - Adjacency-Preserving Spatial Treemaps
+JO  - arXiv.org e-print service
+Y1  - 2011
+VL  - arXiv:1105.0398
+N2  - Rectangular layouts, subdivisions of an outer rectangle into smaller rectangles, have many applications in visualizing spatial information, for instance in rectangular cartograms in which the rectangles represent geographic or political regions. A spatial treemap is a rectangular layout with a hierarchical structure: the outer rectangle is subdivided into rectangles that are in turn subdivided into smaller rectangles. We describe algorithms for transforming a rectangular layout that does not have this hierarchical structure, together with a clustering of the rectangles of the layout, into a spatial treemap that respects the clustering and also respects to the extent possible the adjacencies of the input layout.
+UR  - http://arxiv.org/abs/1105.0398
+ER  -

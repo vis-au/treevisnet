@@ -1,0 +1,14 @@
+TY  - JOUR
+AU  - Hasan, Masud
+AU  - Rahman, Md. Saidur
+AU  - Nishizeki, Takao
+T1  - A linear algorithm for compact box-drawings of trees
+JO  - Networks
+Y1  - 2003
+VL  - 4
+IS  - 3
+SP  - 160
+EP  - 164
+N2  - In a box-drawing of a rooted tree, each node is drawn by a rectangular box of prescribed size, no two boxes overlap each other, all boxes corresponding to siblings of the tree have the same x-coordinate at their left sides, and a parent node is drawn at a given distance apart from its first child. A box drawing of a tree is compact if it attains the minimum possible rectangular area enclosing the drawing. We give a linear-time algorithm for finding a compact box-drawing of a tree. A known algorithm does not always find a compact box-drawing and takes time $O(n^2)$ if a tree has n nodes.
+UR  - http://dx.doi.org/10.1002/net.10092
+ER  -

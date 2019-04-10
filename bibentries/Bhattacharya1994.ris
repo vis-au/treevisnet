@@ -1,0 +1,13 @@
+TY  - JOUR
+AU  - Bhattacharya, Sourav
+AU  - Tsai, Wei-Tek
+T1  - Recursive binary tree layout mixing
+JO  - Information Sciences
+Y1  - 1994
+VL  - 77
+IS  - 1-2
+SP  - 39
+EP  - 49
+N2  - Binary tree layout with adequate boundary-I/O has been approached by mixing the H-layout and standard layout patterns. This paper proposes a recursive method of mixing these two tree layout patterns. Unlike the existing technique (of using a single continuous stretch of H-layout and then standard layout for the remaining tree levels), we propose to mix these two layout styles in a finer grain. The finer grain mixed pattern is then repeated to obtain an overall tree layout. This approach offers an order of area improvement over the existing single stretch layout mixing approaches, while retaining identical boundary-I/O. This makes the proposed approach an order of magnitude superior to the existing techniques.
+UR  - http://dx.doi.org/10.1016/0020-0255(94)90047-7
+ER  -

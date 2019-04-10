@@ -1,0 +1,12 @@
+TY  - CONF
+AU  - Benson, Jordan Riley
+AU  - Sullvan, Lee
+AU  - Ramarajan, Rajiv
+AU  - Wimmer, Frank
+AU  - Hankey, Paul
+T1  - Using Orthographic Projection and Animation to Convey Treemap Structure
+T2  - InfoVis'10: Poster at the IEEE Conference on Information Visualization
+Y1  - 2010
+N2  - We present an alternative treemap visualization method that maintains the space-filling and area comparison benefits of the standard treemap while improving the range of possible comparisons and the clarity of the hierarchy. Our visualization uses an orthographic stack representation and relies on interaction and animation to reveal the structure of the treemap to the user, but is still effective in a static environment once the user reaches a view that interests them.
+UR  - http://blogs.sas.com/peerrevue/uploads/OrthographicTreeMap-summary.pdf
+ER  -

@@ -1,0 +1,13 @@
+TY  - JOUR
+AU  - Meier, John
+AU  - Reiter, Clifford A.
+T1  - Fractal representations of Cayley graphs
+JO  - Computers and Graphics
+Y1  - 1996
+VL  - 20
+IS  - 1
+SP  - 163
+EP  - 170
+N2  - The visualization of Cayley graphs for many groups is possible using 3-D models. Most of our examples are Cayley graphs of infinite groups where we exploit automatic structures to efficiently produce computer images of the Cayley graphs. The infinite groups are visualized using fractal rescaling so that the infinite graph projects into a bounded domain. Varying the color choice for these fractal representations of the Cayley graphs allows the visual recognition of features such as positivity of the total exponent of the words.
+UR  - http://dx.doi.org/10.1016/0097-8493(95)00101-8
+ER  -

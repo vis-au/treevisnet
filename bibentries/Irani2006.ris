@@ -1,0 +1,14 @@
+TY  - JOUR
+AU  - Irani, Pourang
+AU  - Slonowsky, Dean
+AU  - Shajahan, Peer
+T1  - Human perception of structure in shaded space-filling visualizations
+JO  - Information Visualization
+Y1  - 2006
+VL  - 5
+IS  - 1
+SP  - 47
+EP  - 61
+N2  - Very early in the object recognition process the human visual system extracts shading information. While shading can enhance the visibility of structures, it can have a negative impact on the judgment of sizes of elements in a structure. In certain visualization systems the underlying hierarchical structure is not noticeably explicit, such as in space-filling techniques. We hypothesize that in such cases, shading can make the structure more explicit. In this paper, we report the results of two experiments designed to investigate the effects of shading information on extracting the structure in space-filling visualizations. In the first experiment subjects performed better with the visualization tool with shading on structure-based tasks. Our results do not show that shading impairs users' judgment on size-based tasks. A subjective evaluation shows that users preferred interacting with the system when shading was available. The second experiment was designed to investigate further users' capacity to identify structural elements within the space-filling visualization. A substructure recognition task was employed in this experiment and results show that users are capable of identifying sub-structures quicker and with fewer errors when the visualization tool was equipped with shading information than without. The results of both experiments provide evidence that shading information can be used to effectively obtain structural information from space-filling visualizations.
+UR  - http://dx.doi.org/10.1057/palgrave.ivs.9500113
+ER  -

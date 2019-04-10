@@ -1,0 +1,17 @@
+TY  - CONF
+AU  - Wittenburg, Kent
+AU  - Lee, Teng-Yok
+A2  - Catarci, Tiziana
+A2  - Leotta, Francesco
+A2  - Marrella, Andrea
+A2  - Mecella, Massimo
+T1  - Equal-Height Treemaps for multivariate data
+T2  - AVI'18: Proceedings of the International Conference on Advanced Visual Interfaces
+PB  - ACM
+Y1  - 2018
+SP  - 88:1
+EP  - 88:3
+N2  - A well-known limitation of classic continuous treemaps is that they generally provide two (or at most a few) visual mappings for data variables apart from the hierarchical relationships. Typically, one variable maps to cell area; another maps to color. However, many data-centric tasks require human users to consider multiple variables simultaneously. The current work introduces the concept of equal-height, variable-width cells in treemaps, which affords the packing of multiple variables into the cell areas of the terminals of the hierarchy. We demonstrate how color and some largely width-invariant graphs can be utilized in the cell areas to add additional visual information in a multi-variate treemap. Examples come from machine learning and from finance applications.
+SN  - 9781450356169
+UR  - http://dx.doi.org/10.1145/3206505.3206591
+ER  -

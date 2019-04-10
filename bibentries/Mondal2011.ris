@@ -1,0 +1,16 @@
+TY  - CONF
+AU  - Mondal, Debajyoti
+AU  - Alam, Muhammad Jawaherul
+AU  - Rahman, Md. Saidur
+A2  - Katoh, Naoki
+A2  - Kumar, Amit
+T1  - Minimum-Layer Drawings of Trees
+T2  - WALCOM'11: Proceedings of the International Workshop on Algorithms and Computation
+PB  - Springer
+Y1  - 2011
+SP  - 221
+EP  - 232
+N2  - A layered drawing of a tree T is a planar straight-line drawing of T, where the vertices of T are placed on some horizontal lines called layers. A minimum-layer drawing of T is a layered drawing of T on k layers, where k is the minimum number of layers required for any layered drawing of T. In this paper we give a linear-time algorithm for obtaining minimum-layer drawings of trees.
+SN  - 9783642190933
+UR  - http://dx.doi.org/10.1007/978-3-642-19094-0_23
+ER  -

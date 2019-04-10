@@ -1,0 +1,18 @@
+TY  - CONF
+AU  - Bein, Wolfgang W.
+AU  - Lamore, Lawrence L.
+AU  - Shields, Jr., Charles O.
+AU  - Sudborough, Ivan Hal
+A2  - Sudborough, Hal
+A2  - Monien, Burkhard
+A2  - Hsu, D. Frank
+T1  - Three-dimensional embedding of binary trees
+T2  - I-SPAN'00: Proceedings of the International Symposium on Parallel Architectures, Algorithms and Networks
+PB  - IEEE Computer Society
+Y1  - 2000
+SP  - 140
+EP  - 147
+N2  - We describe total congestion 1 embeddings of complete binary trees into three dimensional grids with expansion ratios 1.172 and 1.25. That is, we give a one-to-one embedding of any complete binary tree into a hexahedron shaped grid such that: the number of nodes in the grid is at most 1.172 (1.25) times the number of nodes in the tree; and no tree nodes or edges occupy the same grid positions. The first strategy embeds trees into cube shaped 3D grids. That is, 3D grids in which all dimensions are roughly equal in size. The second strategy embeds trees into flat 3D grid shapes. That is, it maps complete binary trees into 3D grids with a fixed, small number of layers. An application suggests which embedding to use. For simulations in parallel computer environments, or possibly graph drawing, a cube shaped 3D grid is appropriate. For the sake of VLSI, or other graph drawing applications, embeddings with a small number of layers are better.
+SN  - 0769509363
+UR  - http://dx.doi.org/10.1109/ISPAN.2000.900278
+ER  -

@@ -1,0 +1,13 @@
+TY  - CONF
+AU  - Chhetri, Abhishek P.
+AU  - Zhang, Kang
+T1  - Modified RELT for Display and Navigation of Large Hierarchy on Handheld Touch-Screen Devices
+T2  - ICIS'12: Proceedings of the IEEE/ACIS International Conference on Computer and Information Science
+PB  - IEEE Computer Society
+Y1  - 2012
+SP  - 147
+EP  - 152
+N2  - Visualizing and exploring a hierarchical structure on a smartphone screen is challenging. On larger screens of PCs and laptops these types of structures are often shown in a tabular view. Due to the width restriction, tabular view is not feasible on smaller screens. This paper presents a visualization technique that displays multiple levels of a hierarchical structure on a single view for small screens and allows users to explore the structure rapidly through touch input. The visualization technique makes full use of the available space and distributes the space fairly among nodes. The system allows selection and display of relevant information based on user query or user habit, while hiding less important items from the view.
+SN  - 9780769546940
+UR  - http://dx.doi.org/10.1109/ICIS.2012.73
+ER  -

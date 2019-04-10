@@ -1,0 +1,17 @@
+TY  - CONF
+AU  - Schulz, Hans-Jörg
+AU  - Hadlak, Steffen
+AU  - Schumann, Heidrun
+A2  - Eades, Peter
+A2  - Ertl, Thomas
+A2  - Shen, Han-Wei
+T1  - Point-based tree representation: A new approach for large hierarchies
+T2  - PacificVis'09: Proceedings of the IEEE Pacific Visualization Symposium
+PB  - IEEE Computer Society
+Y1  - 2009
+SP  - 81
+EP  - 88
+N2  - Space-filling layout techniques for tree representations are frequently used when the available screen space is small or the data set is large. In this paper, we propose a new approach to space-filling tree representations, which uses mechanisms from the point-based rendering paradigm. Additionally, helpful interaction techniques that tie in with our layout are presented. We will relate our new technique to established space-filling techniques along the lines of a newly developed classification and also evaluate it numerically using the measures of the Ink-Paper-Ratio and overplotted
+SN  - 9781424444055
+UR  - http://dx.doi.org/10.1109/PACIFICVIS.2009.4906841
+ER  -

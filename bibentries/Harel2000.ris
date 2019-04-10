@@ -1,0 +1,16 @@
+TY  - CONF
+AU  - Harel, David
+AU  - Yashchin, Gregory
+A2  - Gesú, Vito Di
+A2  - Levialdi, Stefano
+A2  - Tarantino, Laura
+T1  - An algorithm for blob hierarchy layout
+T2  - AVI'00: Proceedings of the Working Conference on Advanced Visual Interfaces
+PB  - ACM Press
+Y1  - 2000
+SP  - 29
+EP  - 40
+N2  - We present an algorithm for the aesthetic drawing of basic hierarchical blob structures, of the kind found in higraphs and statecharts and in other diagrams in which hierarchy is depicted as topological inclusion. Our work could also be useful in window system dynamics, and possibly also in things like newspaper layout, etc. Several criteria for aesthetics are formulated, and we discuss their motivation, our methods of implementation and the algorithm's performance.
+SN  - 1581132522
+UR  - http://dx.doi.org/10.1145/345513.345240
+ER  -

@@ -1,0 +1,12 @@
+TY  - JOUR
+AU  - Munzner, Tamara
+T1  - Exploring large graphs in 3D hyperbolic space
+JO  - IEEE Computer Graphics and Applications
+Y1  - 1998
+VL  - 18
+IS  - 4
+SP  - 18
+EP  - 23
+N2  - Drawing graphs as nodes connected by links is visually compelling but computationally difficult. Hyperbolic space and spanning trees can reduce visual clutter, speed up layout, and provide fluid interaction. This article briefly describes a software system that explicitly attempts to handle much larger graphs than previous systems and support dynamic exploration rather than final presentation. It then discusses the applicability of this system to goals beyond simple exploration. A software system that supports graph exploration should include both a layout and an interactive drawing component. I have developed new algorithms for both layout and drawing (H3 and H3Viewer). The H3Viewer drawing algorithm remains under development, so this article presents preliminary results. I have implemented a software library that uses these algorithms. It can handle graphs of more than 100,000 edges by using a spanning tree as the backbone for the layout and drawing algorithms.
+UR  - http://dx.doi.org/10.1109/38.689657
+ER  -

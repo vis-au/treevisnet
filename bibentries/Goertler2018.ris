@@ -1,0 +1,15 @@
+TY  - JOUR
+AU  - Görtler, Jochen
+AU  - Schulz, Christoph
+AU  - Weiskopf, Daniel
+AU  - Deussen, Oliver
+T1  - Bubble Treemaps for Uncertainty Visualization
+JO  - IEEE Transactions on Visualization and Computer Graphics
+Y1  - 2018
+VL  - 24
+IS  - 1
+SP  - 719
+EP  - 728
+N2  - We present a novel type of circular treemap, where we intentionally allocate extra space for additional visual variables. With this extended visual design space, we encode hierarchically structured data along with their uncertainties in a combined diagram. We introduce a hierarchical and force-based circle-packing algorithm to compute Bubble Treemaps, where each node is visualized using nested contour arcs. Bubble Treemaps do not require any color or shading, which offers additional design choices. We explore uncertainty visualization as an application of our treemaps using standard error and Monte Carlo-based statistical models. To this end, we discuss how uncertainty propagates within hierarchies. Furthermore, we show the effectiveness of our visualization using three different examples: the package structure of Flare, the S&P 500 index, and the US consumer expenditure survey.
+UR  - http://dx.doi.org/10.1109/TVCG.2017.2743959
+ER  -

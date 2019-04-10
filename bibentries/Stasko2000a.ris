@@ -1,0 +1,15 @@
+TY  - JOUR
+AU  - Stasko, John
+AU  - Catrambone, Richard
+AU  - Guzdial, Marc
+AU  - McDonald, Kevin
+T1  - An evaluation of space-filling information visualizations for depicting hierarchical structures
+JO  - International Journal of Human-Computer Studies
+Y1  - 2000
+VL  - 53
+IS  - 5
+SP  - 663
+EP  - 694
+N2  - A variety of information visualization tools have been developed recently, but relatively little effort has been made to evaluate the effectiveness and utility of the tools. This article describes results from two empirical studies of two visualization tools for depicting hierarchies, in particular, computer file and directory structures. The two tools examined implement space-filling methodologies, one rectangular, the Treemap method, and one circular, the Sunburst method. Participants performed typical file/directory search and analysis tasks using the two tools. In general, performance trends favored the Sunburst tool with respect to correct task performance, particularly on initial use. Performance with Treemap tended to improve over time and use, suggesting a greater learning cost that was partially recouped over time. Each tool afforded somewhat different search strategies, which also appeared to influence performance. Finally, participants strongly preferred the Sunburst tool, citing better ability to convey structure and hierarchy.
+UR  - http://dx.doi.org/10.1006/ijhc.2000.0420
+ER  -

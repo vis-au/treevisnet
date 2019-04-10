@@ -1,0 +1,16 @@
+TY  - CONF
+AU  - Yang, Jing
+AU  - Ward, Matthew O.
+AU  - Rundensteiner, Elke A.
+A2  - Wong, Pak Chung
+A2  - Andrews, Keith
+T1  - InterRing: An Interactive Tool for Visually Navigating and Manipulating Hierarchical Structures
+T2  - InfoVis'02: Proceedings of the IEEE Symposium on Information Visualization
+PB  - IEEE Computer Society
+Y1  - 2002
+SP  - 77
+EP  - 84
+N2  - Radial, space-filling (RSF) techniques for hierarchy visualization have several advantages over traditional node-link diagrams, including the ability to efficiently use the display space while effectively conveying the hierarchy structure. Several RSF systems and tools have been developed to date, each with varying degrees of support for interactive operations such as selection and navigation. We describe what we believe to be a complete set of desirable operations on hierarchical structures. We then present InterRing, an RSF hierarchy visualization system that supports a significantly more extensive set of these operations than prior systems. In particular, InterRing supports multi-focus distortions, interactive hierarchy reconfiguration, and both semi-automated and manual selection. We show the power and utility of these and other operations, and describe our on-going efforts to evaluate their effectiveness and usability.
+SN  - 076951751X
+UR  - http://dx.doi.org/10.1109/INFVIS.2002.1173151
+ER  -

@@ -1,0 +1,10 @@
+TY  - PAT
+AU  - Cao, Nan
+AU  - Liu, Shi Xia
+AU  - Su, Hui
+T1  - Method and apparatus for generating 3D Carousel Tree data visualization and related device
+Y1  - 2013
+IS  - US 8621359 B2
+N2  - A method for generating 3D carousel visualization of large-scale tree data, which comprises the steps of: receiving a user's selection of a node in the carousel; according to the radius of a sub-carousel corresponding to the user-selected node and the radius of a carousel at which the selected node is located, judging whether or not the sub-carousel can be expanded at the carousel at which the selected node is located; expanding the sub-carousel at the carousel at which the selected node is located, if it is determined that the sub-carousel can be expanded at the carousel at which the selected node is located. A device capable of implementing the method is provided. The number of carousel levels visualized on a visualization device can be adjusted dynamically, and the visualization of a focus becomes more prominent, and relationships between nodes at each level of the tree data visualization get more apparent.
+UR  - http://www.freepatentsonline.com/8621359.html
+ER  -

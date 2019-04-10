@@ -1,0 +1,14 @@
+TY  - CONF
+AU  - Wattenberg, Martin
+A2  - Stasko, John
+A2  - Ward, Matthew O.
+T1  - A Note on Space-Filling Visualizations and Space-Filling Curves
+T2  - InfoVis'05: Proceedings of the IEEE Symposium on Information Visualization
+PB  - IEEE Computer Society
+Y1  - 2005
+SP  - 181
+EP  - 185
+N2  - A recent line of treemap research has focused on layout algorithms that optimize properties such as stability, preservation of ordering information, and aspect ratio of rectangles. No ideal treemap layout algorithm has been found, and so it is natural to explore layouts that produce non-rectangular regions. This note describes a connection between space-filling visualizations and the mathematics of space-filling curves, and uses that connection to characterize a family of layout algorithms which produce nonrectangular regions but enjoy geometric continuity under changes to the data and legibility even for highly unbalanced trees.
+SN  - 078039464X
+UR  - http://dx.doi.org/10.1109/INFVIS.2005.1532145
+ER  -

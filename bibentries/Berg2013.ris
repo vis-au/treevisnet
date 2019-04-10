@@ -1,0 +1,14 @@
+TY  - JOUR
+AU  - de Berg, Mark
+AU  - Onak, Krzysztof
+AU  - Sidiropoulos, Anastasios
+T1  - Fat Polygonal Partitions with Applications to Visualization and Embeddings
+JO  - Journal of Computational Geometry
+Y1  - 2013
+VL  - 4
+IS  - 1
+SP  - 212
+EP  - 239
+N2  - Let T be a rooted and weighted tree, where the weight of any node is equal to the sum of the weights of its children. The popular Treemap algorithm visualizes such a tree as a hierarchical partition of a square into rectangles, where the area of the rectangle corresponding to any node in T is equal to the weight of that node. The aspect ratio of the rectangles in such a rectangular partition necessarily depends on the weights and can become arbitrarily high. We introduce a new hierarchical partition scheme, called a polygonal partition, which uses convex polygons rather than just rectangles. We present two methods for constructing polygonal partitions, both having guarantees on the worst-case aspect ratio of the constructed polygons; in particular, both methods guarantee a bound on the aspect ratio that is independent of the weights of the nodes. We also consider rectangular partitions with slack, where the areas of the rectangles may differ slightly from the weights of the corresponding nodes. We show that this makes it possible to obtain partitions with constant aspect ratio. This result generalizes to hyper-rectangular partitions in R^d. We use these partitions with slack for embedding ultrametrics into d-dimensional Euclidean space:  we give a polylog(delta)-approximation algorithm for embedding n-point ultrametrics into R^d with minimum distortion, where delta denotes the spread of the metric. The previously best-known approximation ratio for this problem was polynomial in n. This is the first algorithm for embedding a non-trivial family of weighted-graph metrics into a space of constant dimension that achieves polylogarithmic approximation ratio.
+UR  - http://jocg.org/index.php/jocg/article/view/74
+ER  -

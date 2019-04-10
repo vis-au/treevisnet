@@ -1,0 +1,12 @@
+TY  - JOUR
+AU  - Vaucher, Jean G.
+T1  - Pretty-printing of trees
+JO  - Software: Practice and Experience
+Y1  - 1980
+VL  - 10
+IS  - 7
+SP  - 553
+EP  - 561
+N2  - A pleasing layout of printed tree structures is difficult to achieve automatically. The paper points out three main problems. First, the horizontal position of a node on the printed page depends on global consideration of the position of other nodes; secondly, the physical characteristics of printers require scanning the tree in left-to-right top-to-bottom sequence; finally, page overflow for wide trees must be handled. These problems are illustrated by analysing the shortcomings of a simple printing algorithm. A suitable general binary tree printing algorithm is presented and its adaptation to other types of trees is shown.
+UR  - http://dx.doi.org/10.1002/spe.4380100706
+ER  -

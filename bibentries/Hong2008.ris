@@ -1,0 +1,13 @@
+TY  - JOUR
+AU  - Hong, Seok-Hee
+AU  - Eades, Peter
+T1  - Drawing Trees Symmetrically in Three Dimensions
+JO  - Algorithmica
+Y1  - 2008
+VL  - 36
+IS  - 2
+SP  - 153
+EP  - 178
+N2  - Symmetric graph drawing enables a clear understanding of the structure of the graph. Previous work on symmetric graph drawing has focused on two dimensions. Symmetry in three dimensions is much richer than that of two dimensions. This is the first paper to extend symmetric graph drawing into three dimensions. More specifically, the paper investigates the problem of drawing trees symmetrically in three dimensions. First, we suggest a model for drawing trees symmetrically in three dimensions. Based on this model, we present a linear time algorithm for finding the maximum number of three-dimensional symmetries in trees. We also present a three-dimensional symmetric drawing algorithm for trees.
+UR  - http://dx.doi.org/10.1007/s00453-002-1011-4
+ER  -

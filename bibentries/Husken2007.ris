@@ -1,0 +1,17 @@
+TY  - CONF
+AU  - Hüsken, Peter
+AU  - Ziegler, Jürgen
+A2  - Baranauskas, Cécilia
+A2  - Palanque, Philippe
+A2  - Abascal, Julio
+A2  - Barbosa, Simone Diniz Junqueira
+T1  - Degree-of-Interest Visualization for Ontology Exploration
+T2  - INTERACT'07: Proceedings of the IFIP TC13 Conference on Human-Computer Interaction, Part II
+PB  - Springer
+Y1  - 2007
+SP  - 116
+EP  - 119
+N2  - In recent years, improvements in semantic web technologies have given us new expressive description languages for modeling knowledge domains — the so called ontologies. Nevertheless, ontology editors lack of easy and intuitive user interfaces, so that the exploration and creation of ontologies is often too difficult to be efficient. In this short paper, we introduce a new tree widget which utilizes sophisticated visualization and interaction features for ontology exploration and editing as a work in progress study. Due to space limitations we co+ncentrate here on the aspect of ontology browsing.
+SN  - 9783540747994
+UR  - http://dx.doi.org/10.1007/978-3-540-74796-3_12
+ER  -

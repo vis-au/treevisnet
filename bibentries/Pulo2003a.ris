@@ -1,0 +1,15 @@
+TY  - CONF
+AU  - Pulo, Kevin
+AU  - Eades, Peter
+AU  - Takatsuka, Masahiro
+A2  - Roberts, Jonathan
+T1  - Smooth Structural Zooming of h-v Inclusion Tree Layouts
+T2  - CMV'03: Proceedings of the International Conference on Coordinated and Multiple Views in Exploratory Visualization
+PB  - IEEE Computer Society
+Y1  - 2003
+SP  - 14
+EP  - 25
+N2  - We present a new paradigm for achieving focus+context visualizations called smooth structural zooming, which varies the level of detail of the data in different areas of the visualization, as opposed to geometrically distorting the visualization or employing rapid zooming techniques. A smooth structural zooming technique for horizontal-vertical (h-v) inclusion tree layouts is described and applied to the domain of the software design process, specifically, design behaviour trees (DBTs). This system has the ability to navigate and explore data too large to be fully displayed, whilst maintaining an approximately constant level of visual complexity, good visualization aesthetics and preservation of the user's mental map through animation. The technique may be readily extended to arbitrary layout styles and algorithms, and to other hierarchical data structures and relational information, such as clustered graphs.
+SN  - 0769520014
+UR  - http://dx.doi.org/10.1109/CMV.2003.1214999
+ER  -

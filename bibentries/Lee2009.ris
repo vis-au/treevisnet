@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Lee, Bongshin
+AU  - Nachmanson, Lev
+AU  - Robertson, George
+AU  - Carlson, Jonathan M.
+AU  - Heckerman, David
+T1  - PhyloDet: A scalable visualization tool for mapping multiple traits to large evolutionary trees
+JO  - Bioinformatics
+Y1  - 2009
+VL  - 25
+IS  - 19
+SP  - 2611
+EP  - 2612
+N2  - Evolutionary biologists are often interested in finding correlations among biological traits across a number of species, as such correlations may lead to testable hypotheses about the underlying function. Because some species are more closely related than others, computing and visualizing these correlations must be done in the context of the evolutionary tree that relates species. In this note, we introduce PhyloDet (short for PhyloDetective), an evolutionary tree visualization tool that enables biologists to visualize multiple traits mapped to the tree.
+UR  - http://dx.doi.org/10.1093/bioinformatics/btp454
+ER  -

@@ -1,0 +1,17 @@
+TY  - CONF
+AU  - Larrea, Martin L.
+AU  - Martig, Sergio R.
+AU  - Castro, Silvia M.
+A2  - dos Reis, Antonio Palma
+A2  - Blashki, Katherine
+A2  - Xiao, Yingcai
+T1  - Spherical Layout for 3D Tree Visualization
+T2  - IHCI'07: Proceedings of the IADIS International Conference on Interfaces and Human Computer Interaction
+PB  - IADIS Press
+Y1  - 2007
+SP  - 91
+EP  - 98
+N2  - The 3D tree visualization faces multiples challenges: the election of an appropriate layout, the use of the interactions that make it easier the data exploration and a metaphor that helps the information understanding. A good combination of these three elements (layout, interactions and metaphor) will result in a visualization that effectively convey the key features of a complex structure or system to a wide range of users and permits the analytical reasoning process. The goal of this work was centered in the 3D tree visualization. In spite of their apparent simplicity, the displaying of a tree in 3D can also introduce new problems that can be overcome with the appropriate interactions. So, we have developed a new visualization technique for 3D tree visualization; this includes the design of a new tree layout that we called Spherical layout and the set of interactions that can be applied on this representation. This technique allows representing hierarchical structures to different levels of detail and also can be used as a visualization technique that allows a tree with attribute to be visualized. The Spherical layout has shown good result for large trees without compromising the performance; this is a key issue in tree visualization.
+SN  - 9789728924393
+UR  - http://www.iadis.net/dl/Search_list_open.asp?code=3649
+ER  -

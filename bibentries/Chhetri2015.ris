@@ -1,0 +1,14 @@
+TY  - JOUR
+AU  - Chhetri, Abhishek P.
+AU  - Zhang, Kang
+AU  - Jain, Eakta
+T1  - A mobile interface for navigating hierarchical information space
+JO  - Journal of Visual Languages and Computing
+Y1  - 2015
+VL  - 31
+IS  - Part A
+SP  - 48
+EP  - 69
+N2  - This paper presents ERELT (Enhanced Radial Edgeless Tree), a tree visualization approach on modern mobile devices. ERELT is designed to offer a clear visualization of any tree structure with intuitive interaction. Such visualization can assist users in interacting with a hierarchical structure such as a media collection, file system, etc. In the ERELT visualization, a subset of the tree is displayed at a time. The displayed tree size depends on the maximum number of tree elements that can be put on the screen while maintaining clarity. Users can quickly navigate to the hidden parts of the tree through touch-based gestures. We have conducted a user study to evaluate this visualization for a music collection. The study results show that this approach reduces the time and effort in navigating tree structures for exploration and search tasks.
+UR  - http://dx.doi.org/10.1016/j.jvlc.2015.10.002
+ER  -

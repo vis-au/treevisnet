@@ -1,0 +1,10 @@
+TY  - CONF
+AU  - Ganascia, Jean-Gabriel
+T1  - RECIT: REprésentation Cartographique et Insulaire de Textes
+T2  - CIFT'03: Proceedings of the Colloque International sur la Fouille de Texte
+Y1  - 2004
+SP  - 59
+EP  - 70
+N2  - Experiences show that most readers are lost in electronic text, because they lack of global information. As a consequence, many people print electronic texts before reading them. This strange phenomenon was not predicted in the past and it could preclude the expansion of electronic reading. We propose here a way to provide some visualization of the structure of the document. That corresponds to the cartography of its overall organization. Our hope is that it could help to orient in electronic texts and consequently to facilitate electronic reading. This paper describes the origins of difficulties and then it presents all the technical details of the proposed solution.
+UR  - http://hal.archives-ouvertes.fr/docs/00/06/25/35/PDF/sic_00001258.pdf
+ER  -

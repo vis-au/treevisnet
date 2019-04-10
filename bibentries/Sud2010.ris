@@ -1,0 +1,14 @@
+TY  - CONF
+AU  - Sud, Avneesh
+AU  - Fisher, Danyel
+AU  - Lee, Huai-Ping
+A2  - Mostafavi, Mir Abolfazl
+T1  - Fast Dynamic Voronoi Treemaps
+T2  - ISVD'10: Proceedings of the International Symposium on Voronoi Diagrams in Science and Engineering
+Y1  - 2010
+SP  - 85
+EP  - 94
+N2  - The Voronoi Treemap is a space-filling treemap technique that relaxes the constraints of rectangular nodes. Its organic shapes maintain a one-to-one aspect ratio, are flexible with their placement, allowing stable zooming and dynamic data values. In this paper, we present algorithms for efficient computation and dynamic update of Voronoi Treemaps. Our GPGPU-based technique allows for rapid computation of centroidal Voronoi Diagrams, providing almost two orders of magnitude speedup over previous work. In addition, we present a hierarchical algorithm for stable updates. Finally, we demonstrate the application of Voronoi treemaps to real-world dynamic datasets, including interactive navigation.
+SN  - 9780769541129
+UR  - http://dx.doi.org/10.1109/ISVD.2010.16
+ER  -

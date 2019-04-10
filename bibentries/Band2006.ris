@@ -1,0 +1,13 @@
+TY  - CONF
+AU  - Band, Zvi
+AU  - White, Ryen W.
+T1  - PygmyBrowse: A small screen tree browser
+T2  - CHI'06: Extended abstracts of the SIGCHI conference on Human Factors in Computing Systems
+PB  - ACM Press
+Y1  - 2006
+SP  - 514
+EP  - 519
+N2  - We present PygmyBrowse, a browser that allows users to navigate a tree data structure in a limited amount of display space. A pilot evaluation of PygmyBrowse was conducted, and results suggest that it reduces task completion times and increases user satisfaction over two alternative node-link tree browsers.
+SN  - 1595932984
+UR  - http://dx.doi.org/10.1145/1125451.1125562
+ER  -

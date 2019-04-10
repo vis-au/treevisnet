@@ -1,0 +1,12 @@
+TY  - JOUR
+AU  - Stockmeyer, Larry
+T1  - Optimal orientations of cells in slicing floorplan designs
+JO  - Information and Control
+Y1  - 1983
+VL  - 57
+IS  - 2-3
+SP  - 91
+EP  - 101
+N2  - A methodology of VLSI layout described by several authors first determines the relative positions of indivisible pieces, called cells, on the chip. Various optimizations are then performed on this initial layout to minimize some cost measure such as chip area or perimeter. If each cell is a rectangle with given dimensions, one optimization problem is to choose orientations of all the cells to minimize the cost measure. A polynomial time algorithm is given for this optimization problem for layouts of a special type called slicings. However, orientation optimization for more general layouts is shown to be NP-complete (in the strong sense).
+UR  - http://dx.doi.org/10.1016/S0019-9958(83)80038-2
+ER  -

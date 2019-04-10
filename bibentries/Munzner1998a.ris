@@ -1,0 +1,13 @@
+TY  - CONF
+AU  - Munzner, Tamara
+A2  - Whitesides, Sue H.
+T1  - Drawing Large Graphs with H3Viewer and Site Manager
+T2  - GD'98: Proceedings of the International Symposium on Graph Drawing
+PB  - Springer
+Y1  - 1998
+SP  - 384
+EP  - 393
+N2  - We demonstrate the H3Viewer graph drawing library, which can be run from a standalone program or in conjunction with other programs such as SGI's Site Manager application. Our layout and drawing algorithms support interactive navigation of large graphs up to 100,000 edges. We present an adaptive drawing algorithm with a guaranteed frame rate. Both layout and navigation occur in 3D hyperbolic space, which provides a view of a large neighborhood around an easily changeable point of interest. We find an appropriate spanning tree to use as the backbone for fast layout and uncluttered drawing, and non-tree links can be displayed on demand. Our methods are appropriate when node or link annotations can guide the choice of a good parent from among all of the incoming links. Such annotations can be constructed using only a small amount of domain-specific knowledge, thus rendering tractable many graphs which may seem rather densely connected at first glance.
+SN  - 9783540654735
+UR  - http://dx.doi.org/10.1007/3-540-37623-2_30
+ER  -

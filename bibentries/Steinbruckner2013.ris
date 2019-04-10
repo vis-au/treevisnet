@@ -1,0 +1,13 @@
+TY  - JOUR
+AU  - Steinbrückner, Frank
+AU  - Lewerentz, Claus
+T1  - Understanding software evolution with software cities
+JO  - Information Visualization
+Y1  - 2013
+VL  - 12
+IS  - 2
+SP  - 200
+EP  - 216
+N2  - Software cities are visualizations of software systems in the form of virtual cities. They are used as platforms to integrate a large variety of product- and process-related analysis data. Their usability, however, for real-world software development often suffers from their inability to appropriately deal with software changes. Even small structural changes can disrupt the overall structure of the city, which in turn corrupts the mental maps of its users. In this article we describe a systematic approach to utilize the city metaphor for the visualization of evolving software systems as growing software cities. The main contribution is a new layout approach which explicitly takes the development history of software systems into account. The approach has two important effects: first, it creates a stable gestalt of software cities even when the underlying software systems evolve; thus, by preserving its users’ mental maps these cities are especially suitable for use during ongoing system development. Second, it makes history directly visible in the city layouts, which allows for supporting novel analysis scenarios. We illustrate such scenarios by presenting several thematic cities’ maps, each capturing specific development history aspects.
+UR  - http://dx.doi.org/10.1177/1473871612438785
+ER  -

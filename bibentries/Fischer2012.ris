@@ -1,0 +1,16 @@
+TY  - CONF
+AU  - Fischer, Fabian
+AU  - Fuchs, Johannes
+AU  - Mansmann, Florian
+A2  - Meyer, Miriah
+A2  - Weinkauf, Tino
+T1  - ClockMap: Enhancing Circular Treemaps with Temporal Glyphs for Time-Series Data
+T2  - EuroVis'12: Short Paper Proceedings of the Eurographics/IEEE Symposium on Visualization
+PB  - Eurographics Association
+Y1  - 2012
+SP  - 97
+EP  - 101
+N2  - Treemaps are a powerful method to visualize especially time-invariant hierarchical data. Most attention is drawn to rectangular treemaps, because their space-filling layouts provide good scalability with respect to the amount of data that can be displayed. Since circular treemaps sacrifice the space-filling property and since higher level circles only approximately match the aggregated size of their descendants, they are rarely used in practice. However, for drawing circular glyphs their shape preserving property can outweigh these disadvantages and facilitate comparative tasks within and across hierarchy levels. The interactive ClockMap visualization effectively supports the user in exploring and finding patterns in hierarchical time-series data through drill-down, semantic zoom and details-on-demand. In this study, the technique's applicability is demonstrated on a real-world dataset about network traffic of a large computer network and its advantages and disadvantages are discussed in the context of alternative layouts.
+SN  - 9783905673913
+UR  - http://dx.doi.org/10.2312/PE/EuroVisShort/EuroVisShort2012/097-101
+ER  -

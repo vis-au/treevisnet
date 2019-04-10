@@ -1,0 +1,14 @@
+TY  - JOUR
+AU  - Buchin, Kevin
+AU  - Speckmann, Bettina
+AU  - Verbeek, Kevin
+T1  - Flow Map Layout via Spiral Trees
+JO  - IEEE Transactions on Visualization and Computer Graphics
+Y1  - 2011
+VL  - 17
+IS  - 12
+SP  - 2536
+EP  - 2544
+N2  - Flow maps are thematic maps that visualize the movement of objects, such as people or goods, between geographic regions. One or more sources are connected to several targets by lines whose thickness corresponds to the amount of flow between a source and a target. Good flow maps reduce visual clutter by merging (bundling) lines smoothly and by avoiding self-intersections. Most flow maps are still drawn by hand and only few automated methods exist. Some of the known algorithms do not support edge-bundling and those that do, cannot guarantee crossing-free flows. We present a new algorithmic method that uses edge-bundling and computes crossing-free flows of high visual quality. Our method is based on so-called spiral trees, a novel type of Steiner tree which uses logarithmic spirals. Spiral trees naturally induce a clustering on the targets and smoothly bundle lines. Our flows can also avoid obstacles, such as map features, region outlines, or even the targets. We validate our approach with extensive experiments.
+UR  - http://dx.doi.org/10.1109/TVCG.2011.202
+ER  -

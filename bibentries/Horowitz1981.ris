@@ -1,0 +1,13 @@
+TY  - JOUR
+AU  - Horowitz, Ellis
+AU  - Zorat, Alessandro
+T1  - The Binary Tree as an Interconnection Network: Applications to Multiprocessor Systems and VLSI
+JO  - IEEE Transactions on Computers
+Y1  - 1981
+VL  - C-30
+IS  - 4
+SP  - 247
+EP  - 253
+N2  - The binary tree is a natural way to organize complex computations by a computer. For problems that can be naturally divided into a tree structure, a great deal of parallelism may be employed. In this paper we examine several aspects of the binary tree structure as it relates to both multiprocessor systems and to VISI circuit design. First, we present an algorithm for mapping an arbitrary binary tree onto the plane. An analysis shows the density of this mapping. Second, we consider the problem of routing messages within a binary tree under the assumption that certain nodes may be faulty. Finally, we analyze the binary tree's capacity to transfer information between nodes and we compare it to the capacity of the linear array and the grid.
+UR  - http://dx.doi.org/10.1109/TC.1981.1675772
+ER  -

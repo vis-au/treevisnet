@@ -1,0 +1,15 @@
+TY  - CONF
+AU  - Teoh, Soon Tee
+AU  - Ma, Kwan-Liu
+A2  - Goodrich, Michael T.
+A2  - Kobourov, Stephen G.
+T1  - RINGS: A Technique for Visualizing Large Hierarchies
+T2  - GD'02: Proceedings of the International Symposium on Graph Drawing
+PB  - Springer
+Y1  - 2002
+SP  - 51
+EP  - 73
+N2  - We present RINGS, a technique for visualizing large trees. We introduce a new ringed circular layout of nodes to make more efficient use of limited display space. RINGS provides the user with the means to specify areas of primary andsecond ary focus, andis able to show multiple foci without compromising understanding of the graph. The strength of RINGS is its ability to show more area in focus andmore contextual information than existing techniques. We demonstrate the effectiveness of RINGS by applying it to the visualization of a Unix file directory.
+SN  - 9783540001584
+UR  - http://dx.doi.org/10.1007/3-540-36151-0_25
+ER  -

@@ -1,0 +1,32 @@
+TY  - CONF
+AU  - Limberger, Daniel
+AU  - Scheibel, Willy
+AU  - Trapp, Matthias
+AU  - Döllner, Jürgen
+A2  - Banissi, Ebad
+A2  - Bannatyne, Mark W. McK.
+A2  - Bouali, Fatma
+A2  - Datia, Nuno Miguel Soares
+A2  - Grinstein, Georges
+A2  - Groth, Dennis 
+A2  - Huang, Weidong
+A2  - Ivanova, Malinka
+A2  - Kenderdine, Sarah
+A2  - Nakayama, Minoru
+A2  - Pires, Joao Moura
+A2  - Sarfraz, Muhammad
+A2  - Temperini, Marco
+A2  - Ursyn, Anna
+A2  - Venturini, Gilles
+A2  - Wyeld, Theodor G.
+A2  - Zhang, Jian J. 
+T1  - Mixed-Projection Treemaps: A novel approach mixing 2D and 2.5D Treemaps
+T2  - IV'17: Proceedings of the International Conference on Information Visualisation
+PB  - IEEE Computer Society
+Y1  - 2017
+SP  - 164
+EP  - 169
+N2  - This paper presents a novel technique for combining 2D and 2.5D treemaps using multi-perspective views to leverage the advantages of both treemap types. It enables a new form of overview+detail visualization for tree-structured data and contributes new concepts for real-time rendering of and interaction with treemaps. The technique operates by tilting the graphical elements representing inner nodes using affine transformations and animated state transitions. We explain how to mix orthogonal and perspective projections within a single treemap. Finally, we show application examples that benefit from the reduced interaction overhead.
+SN  - 9781538608326
+UR  - http://dx.doi.org/10.1109/iV.2017.67
+ER  -

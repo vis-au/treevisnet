@@ -1,0 +1,14 @@
+TY  - JOUR
+AU  - Garg, Ashim
+AU  - Goodrich, Michael T.
+AU  - Tamassia, Roberto
+T1  - Planar Upward Tree Drawings with Planar Area
+JO  - International Journal of Computational Geometry and Applications
+Y1  - 1996
+VL  - 6
+IS  - 3
+SP  - 333
+EP  - 356
+N2  - Rooted trees are usually drawn planar and upward, i.e., without crossings and with-out any parent placed below its child. In this paper we investigate the area requirement of planar upward drawings of rooted trees. We give tight upper and lower bounds on the area of various types of drawings, and provide linear-time algorithms for constructing optimal area drawings. Let T be a bounded-degree rooted tree with N nodes. Our results are summarized as follows: We show that T admits a planar polyline upward grid drawing with area O(N), and with width O(N*alpha) for any prespecified constant a such that 0<alpha<1. If T is a binary tree, we show that T admits a planar orthogonal upward grid drawing with area O (N log log N). We show that if T is ordered, it admits an O(N log N)-area planar upward grid drawing that preserves the left-to-right ordering of the children of each node. We show that all of the above area bounds are asymptotically optimal in the worst case. We present O(N)-time algorithms for constructing each of the above types of drawings of T with asymptotically optimal area. We report on the experimentation of our algorithm for constructing planar polyline upward grid drawings, performed on trees with up to 24 million nodes.
+UR  - http://dx.doi.org/10.1142/S0218195996000228
+ER  -

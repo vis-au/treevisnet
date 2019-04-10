@@ -1,0 +1,15 @@
+TY  - JOUR
+AU  - Larrea, Martin
+AU  - Urribarri, Dana
+AU  - Martig, Sergio
+AU  - Castro, Silvia
+T1  - Spherical Layout Implementation using Centroidal Voronoi Tessellations
+JO  - Journal of Computing
+Y1  - 2009
+VL  - 1
+IS  - 1
+SP  - 81
+EP  - 86
+N2  - The 3D tree visualization faces multiple challenges: the election of an appropriate layout, the use of the interactions that make the data exploration easier and a metaphor that helps in the process of information understanding. A good combination of these elements will result in a visualization that effectively conveys the key features of a complex structure or system to a wide range of users and permits the analytical reasoning process. In previous works we presented the Spherical Layout, a technique for 3D tree visualization that provides an excellent base to achieve those key features. The layout was implemented using the TriSphere algorithm, a method that discretized the spheres's surfaces with triangles to achieve a uniform distribution of the nodes. The goal of this work was centered in a new algorithm for the implementation of the Spherical layout; we called it the Weighted Spherical Centroidal Voronoi Tessellations (WSCVT). In this paper we present a detailed description of this new implementation and a comparison with the TriSphere algorithm.
+UR  - http://arxiv.org/abs/0912.3974
+ER  -

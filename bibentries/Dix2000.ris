@@ -1,0 +1,17 @@
+TY  - CONF
+AU  - Dix, Alan
+AU  - Beale, Russell
+AU  - Wood, Andy
+A2  - Gesú, Vito Di
+A2  - Levialdi, Stefano
+A2  - Tarantino, Laura
+T1  - Architectures to make simple visualisations using simple systems
+T2  - AVI'00: Proceedings of the Working Conference on Advanced Visual Interfaces
+PB  - ACM Press
+Y1  - 2000
+SP  - 51
+EP  - 60
+N2  - In previous work, the first author argued for simple lightweight visualisations. These are surprisingly complex to produce due to the need for infrastructure to read files, etc. onCue, a desktop 'agent', aids the rapid production of such visualisations and their integration with desktop and Internet applications. Two examples are used dancing histograms for 2D tables and pieTrees for hierarchical numeric data. A major focus is the importance of architecture, both that of onCue itself and the underlying component infrastructure on which it is built - separation of concerns, mixed initiative computation and plug-and-play components lead to easily produced and easily used systems.
+SN  - 1581132522
+UR  - http://dx.doi.org/10.1145/345513.345250
+ER  -

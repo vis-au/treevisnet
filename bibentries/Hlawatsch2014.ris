@@ -1,0 +1,15 @@
+TY  - CONF
+AU  - Hlawatsch, Marcel
+AU  - Burch, Michael
+AU  - Weiskopf, Daniel
+A2  - Mould, David
+T1  - Bubble Hierarchies
+T2  - CAe'14: Proceedings of the Workshop on Computational Aesthetics
+PB  - ACM
+Y1  - 2014
+SP  - 77
+EP  - 80
+N2  - We introduce bubble hierarchies as an approach to generating algorithmic art from random hierarchies. The technique is based on repeatedly drawing color-coded circles to illustrate parent--child relationships. The algorithm is simple and produces densely packed structures similar to the concept of Apollonian gaskets. We demonstrate the influence of different parameters on the visual outcome, such as the number of created circles or the color encoding. Our algorithm also supports multiple seeding points and obstacles that can be used to influence the layout of the hierarchy.
+SN  - 9781450330190
+UR  - http://dx.doi.org/10.1145/2630099.2630107
+ER  -

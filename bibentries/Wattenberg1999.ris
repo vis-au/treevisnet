@@ -1,0 +1,12 @@
+TY  - CONF
+AU  - Wattenberg, Martin
+T1  - Visualizing the stock market
+T2  - CHI'99: Extended abstracts of the SIGCHI conference on Human Factors in Computing Systems
+PB  - ACM Press
+Y1  - 1999
+SP  - 188
+EP  - 189
+N2  - We describe a new 2-dimensional visualization algorithm capable of presenting detailed information on hundreds of items while emphasizing overall patterns in the data. This display method, which builds on Shneiderman's treemap technique, makes use of both hierarchy and similarity information. We have implemented this display in the SmartMoney Map of the Market, a web page that reports current data on over 500 publicly traded companies.
+SN  - 1581131585
+UR  - http://dx.doi.org/10.1145/632716.632834
+ER  -

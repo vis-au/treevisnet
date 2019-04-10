@@ -1,0 +1,35 @@
+TY  - CONF
+AU  - Jia, Ming
+AU  - Swaminathan, Sivakumar
+AU  - Wurtele, Eve Syrkin
+AU  - Dickerson, Julie
+A2  - Chen, Jake
+A2  - Chen, Xin
+A2  - Ely, John
+A2  - Hakkani-Tr, Dilek
+A2  - He, Jing
+A2  - Hsu, Hui-Huang
+A2  - Liao, Li
+A2  - Liu, Chunmei
+A2  - Pop, Mihai
+A2  - Ranganathan, Shoba
+A2  - Reddy, Chandan K.
+A2  - Ruan, Jianhua
+A2  - Song, Yinglei
+A2  - Tseng, Vincent S.
+A2  - Ungar, Lyle
+A2  - Wu, Di
+A2  - Wu, Zhijun
+A2  - Xu, Kai
+A2  - Yu, Hong
+A2  - Zelikovsky, Alexander
+T1  - MetNetGE: Visualizing Biological Networks in Hierarchical Views and 3D Tiered Layouts
+T2  - BIBMW'09: Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine Workshops
+PB  - IEEE Computer Society
+Y1  - 2009
+SP  - 287
+EP  - 294
+N2  - Linking experimental data with large-scale biomedical networks is key for achieving new discoveries in system biology research. Visualization tools that facilitate these tasks often result in a dense Web of connections that resembles a tangled hairball and is difficult to interpret. MetNetGE is an interactive pathway navigation tool based on Google Earth that features novel visualization techniques for pathway information display. Instead of simply showing all the pathways in a network in a complex graph, MetNetGE visualizes the entire network of pathways based on the hierarchical pathway ontology using a novel radial space filling (RSF) method. Orbits show when pathways belong to multiple categories. Mapping cumulative experiment statistics on the RSF drawing aids biologists in easily identifying highly activated pathways in an experiment. After identifying key pathways, biologists can fly to the corresponding region and see the detailed pathway and experimental data in an aligned 3D tiered layout with simplified cross-layer connection patterns.
+SN  - 9781424451210
+UR  - http://dx.doi.org/10.1109/BIBMW.2009.5332109
+ER  -

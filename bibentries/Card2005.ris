@@ -1,0 +1,9 @@
+TY  - PAT
+AU  - Card, Stuart K.
+AU  - Nation, David A.
+T1  - System and method for browsing hierarchically based node-link structures based on an estimated degree of interest
+Y1  - 2005
+IS  - US 6944830 B2
+N2  - Method and system to enable a user to view large collections of hierarchically linked information on a computer based display. A tree structure visualization is created which presents a representation of the complete collection of information on the display. The visualization fits completely within a fixed area of the computer based display, negating the need to scroll information into the display area. The visualization is based on identified focus nodes and through calculation of a Degree of Interest (DOI) for each of the nodes based in the structure. Layout and presentation of the visualization structure is based on the DOI values in combination with considerations of available display space. A user may dynamically manipulate views of the structure by selecting one or more focus nodes, thus causing a recalculation of the degree of interest.
+UR  - http://www.freepatentsonline.com/6944830.html
+ER  -

@@ -1,0 +1,16 @@
+TY  - CONF
+AU  - Zhao, Haisen
+AU  - Lu, Lin
+A2  - Liu, Shixia
+A2  - Scheuermann, Gerik
+A2  - Takahashi, Shigeo
+T1  - Variational Circular Treemaps for interactive visualization of hierarchical data
+T2  - PacificVis'15: Proceedings of the IEEE Pacific Visualization Symposium
+PB  - IEEE Computer Society
+Y1  - 2015
+SP  - 81
+EP  - 85
+N2  - Visualization of hierarchical data is of great importance in information visualization. We present variational circular treemaps with a novel layout algorithm by solving disk packing as a continuous optimization problem. Our variational circular treemaps achieve higher space utilization ratio compared with the traditional circular treemaps and support natural interactions as focus+context distortions and drill-down and roll-up operations for data navigation. Experimental results show the effectiveness of our method for visualization and interaction.
+SN  - 9781467368797
+UR  - http://dx.doi.org/10.1109/PACIFICVIS.2015.7156360
+ER  -

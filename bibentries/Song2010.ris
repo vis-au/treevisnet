@@ -1,0 +1,15 @@
+TY  - CONF
+AU  - Song, Hyunjoo
+AU  - Kim, Bohyoung
+AU  - Lee, Bongshin
+AU  - Seo, Jinwook
+T1  - A comparative evaluation on tree visualization methods for hierarchical structures with large fan-outs
+T2  - CHI'10: Proceedings of the International Conference on Human Factors in Computing Systems
+PB  - ACM Press
+Y1  - 2010
+SP  - 223
+EP  - 232
+N2  - Hierarchical structures with large fan-outs are hard to browse and understand. In the conventional node-link tree visualization, the screen quickly becomes overcrowded as users open nodes that have too many child nodes to fit in one screen. To address this problem, we propose two extensions to the conventional node-link tree visualization: a list view with a scrollbar and a multi-column interface. We compared them against the conventional tree visualization interface in a user study. Results show that users are able to browse and understand the tree structure faster with the multi-column interface than the other two interfaces. Overall, they also liked the multi-column better than others.
+SN  - 9781605589299
+UR  - http://dx.doi.org/10.1145/1753326.1753359
+ER  -

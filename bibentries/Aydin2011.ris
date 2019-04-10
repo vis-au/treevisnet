@@ -1,0 +1,16 @@
+TY  - JOUR
+AU  - Aydin, Burcu
+AU  - Pataki, Gabor
+AU  - Wang, Haonan
+AU  - Ladha, Alim
+AU  - Bullitt, Elizabeth
+AU  - Marron, J.S.
+T1  - Visualizing the Structure of Large Trees
+JO  - Electronic Journal of Statistics
+Y1  - 2011
+VL  - 5
+SP  - 405
+EP  - 420
+N2  - This study introduces a new method of visualizing complex tree structured objects. The usefulness of this method is illustrated in the context of detecting unexpected features in a data set of very large trees. The major contribution is a novel two-dimensional graphical representation of each tree, with a covariate coded by color. The motivating data set contains three dimensional representations of brain artery systems of 105 subjects. Due to inaccuracies inherent in the medical imaging techniques, issues with the reconstruction algo- rithms and inconsistencies introduced by manual adjustment, various discrepancies are present in the data. The proposed representation enables quick visual detection of the most common discrepancies. For our driving example, this tool led to the modification of 10% of the artery trees and deletion of 6.7 The benefits of our cleaning method are demonstrated through a statistical hypothesis test on the effects of aging on vessel structure. The data cleaning resulted in improved significance levels.
+UR  - http://projecteuclid.org/euclid.ejs/1305034908
+ER  -

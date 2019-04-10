@@ -1,0 +1,12 @@
+TY  - JOUR
+AU  - van der Ploeg, Atze
+T1  - Drawing non-layered tidy trees in linear time
+JO  - Software: Practice and Experience
+Y1  - 2013
+VL  - 44
+IS  - 12
+SP  - 1467
+EP  - 1484
+N2  - The well-known Reingold傍ilford algorithm produces tidy-layered drawings of trees: drawings where all nodes at the same depth are vertically aligned. However, when nodes have varying heights, layered drawing may use more vertical space than necessary. A non-layered drawing of a tree places children at a fixed distance from the parent, thereby giving a more vertically compact drawing. Moreover, non-layered drawings can also be used to draw trees where the vertical position of each node is given, by adding dummy nodes. In this paper, we present the first linear-time algorithm for producing non-layered drawings. Our algorithm is a modification of the Reingold傍ilford algorithm, but the original complexity proof of the Reingold傍ilford algorithm uses an invariant that does not hold for the non-layered case. We give an alternative proof of the algorithm and its extension to non-layered drawings. To improve drawings of trees of unbounded degree, extensions to the Reingold傍ilford algorithm have been proposed. These extensions also work in the non-layered case, but we show that they then cause a O(n*n) run-time. We then propose a modification to these extensions that restores the O(n) run-time.
+UR  - http://dx.doi.org/10.1002/spe.2213
+ER  -

@@ -1,0 +1,12 @@
+TY  - CONF
+AU  - Boardman, Richard
+T1  - Bubble Trees -- The visualization of hierarchical information structures
+T2  - CHI'00: Extended abstracts of the SIGCHI conference on Human Factors in Computing Systems
+PB  - ACM Press
+Y1  - 2000
+SP  - 315
+EP  - 316
+N2  - A tree visualization mechanism is proposed, based on the natural property of trees to recursively sub-categorize themselves into sub-trees. Each sub-tree is graphically represented as a bubble, which aggregates detail by enclosing lower-level information. Navigation and information retrieval are facilitated through an elegant set of browsing interactions. The interface is useful for tasks where users are required to develop a mental model of a classification system. The interactive nature of bubble trees allows users to explore and work out relationships for themselves.
+SN  - 1581132484
+UR  - http://dx.doi.org/10.1145/633292.633484
+ER  -

@@ -1,0 +1,13 @@
+TY  - JOUR
+AU  - Reingold, Edward M.
+AU  - Tilford, John S.
+T1  - Tidier Drawings of Trees
+JO  - IEEE Transactions on Software Engineering
+Y1  - 1981
+VL  - SE-7
+IS  - 2
+SP  - 223
+EP  - 228
+N2  - Various algorithms have been proposed for producing tidy drawings of trees - drawings that are aesthetically pleasing and use minimum drawing space. We show that these algorithms contain some difficulties that lead to aesthetically unpleasing, wider than necessary drawings. We then present a new algorithm with comparable time and storage requirements that produces tidier drawings. Generalizations to forests and m-ary trees are discussed, as are some problems in discretization when alphanumeric output devices are used.
+UR  - http://dx.doi.org/10.1109/TSE.1981.234519
+ER  -

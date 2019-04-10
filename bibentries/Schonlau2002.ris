@@ -1,0 +1,12 @@
+TY  - JOUR
+AU  - Schonlau, Matthias
+T1  - The Clustergram: A graph for visualizing hierarchical and nonhierarchical cluster analyses
+JO  - The Stata Journal
+Y1  - 2002
+VL  - 2
+IS  - 4
+SP  - 391
+EP  - 402
+N2  - In hierarchical cluster analysis, dendrograms are used to visualize how clusters are formed. I propose an alternative graph called a “clustergram” to examine how cluster members are assigned to clusters as the number of clusters increases. This graph is useful in exploratory analysis for nonhierarchical clustering algorithms such as k-means and for hierarchical cluster algorithms when the number of observations is large enough to make dendrograms impractical. I present the Stata code and give two examples.
+UR  - http://www.stata-journal.com/article.html?article=st0028
+ER  -

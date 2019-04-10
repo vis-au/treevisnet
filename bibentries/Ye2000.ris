@@ -1,0 +1,13 @@
+TY  - JOUR
+AU  - Ye, Huilin
+AU  - Lo, Bruce W.
+T1  - A Visualised Software Library: Nested Self-Organising Maps for Retrieving and Browsing Reusable Software Assets
+JO  - Neural Computing & Applications
+Y1  - 2000
+VL  - 9
+IS  - 4
+SP  - 266
+EP  - 279
+N2  - This paper presents an approach to self-structuring software libraries. The authors developed a representation scheme to construct a feature space over a collection of software assets. The feature space is represented and classified by a variety of the self-organising map, called the Nested Software Self-Organising Map (NSSOM), consisting of a top map and a set of sub-maps nested in the top map. The clustering on the top map provides general improvements in retrieval recall, while the lower-level nested maps further elaborate the clusters into more specific groups enhancing retrieval precision. The results of preliminary evaluation showed that NSSOM is capable of enhancing precision without sacrificing recall. In addition, a user-friendly browsing facility has also been developed which helps users predict the desired components by providing an intelligible search space. The present approach attempts to achieve an optimal combination of efficiency, accuracy and user-friendliness, which is not offered by the existing software retrieval systems.
+UR  - http://dx.doi.org/10.1007/s005210070004
+ER  -

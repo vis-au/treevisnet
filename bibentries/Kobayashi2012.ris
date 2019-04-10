@@ -1,0 +1,27 @@
+TY  - CONF
+AU  - Kobayashi, Aimi
+AU  - Misue, Kazuo
+AU  - Tanaka, Jiro
+A2  - Banissi, Ebad
+A2  - Bertschi, Stefan
+A2  - Forsell, Camilla
+A2  - Johansson, Jimmy
+A2  - Kenderdine, Sarah
+A2  - Marchese, Francis T.
+A2  - Sarfraz, Muhammad
+A2  - Stuart, Liz
+A2  - Ursyn, Anna
+A2  - Wyeld, Theodor G.
+A2  - Azzag, Hanane
+A2  - Lebba, Mustapha
+A2  - Venturini, Gilles
+T1  - Edge Equalized Treemaps
+T2  - IV'12: Proceedings of the International Conference on Information Visualisation
+PB  - IEEE Computer Society
+Y1  - 2012
+SP  - 7
+EP  - 12
+N2  - Treemap is a visualization method for hierarchical structures in which nodes are drawn as rectangles and arranged in a nested style. Several variations of Treemap have been developed to represent different types of data. In this paper, we propose an Edge Equalized Treemap, a representation that embeds visual data such as a bar chart in leaf rectangles. This representation is characterized by leaf rectangles of equal widths. Because their widths are equal, the scale intervals of charts in a leaf rectangle can be unified, meaning that we can compare charts simply by looking at them. We compare the Edge Equalized Treemap with existing layout methods, and demonstrate the usefulness of our approach.
+SN  - 9780769547718
+UR  - http://dx.doi.org/10.1109/IV.2012.12
+ER  -

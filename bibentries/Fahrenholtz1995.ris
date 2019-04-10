@@ -1,0 +1,14 @@
+TY  - CONF
+AU  - Fahrenholtz, Dietrich
+AU  - Haarslev, Volker
+A2  - Haarslev, Volker
+T1  - Visualization of Strandtexttrademark ~processes
+T2  - VL'95: Proceedings of the IEEE Symposium on Visual Languages
+PB  - IEEE Computer Society
+Y1  - 1995
+SP  - 114
+EP  - 115
+N2  - The paper describes a visualization tool that uses polar coordinates to create a circular shaped layout of large call trees of Strand programs. Due to the enormous amount of processes which are generated during execution of parallel Strand programs, conventional techniques to display call trees are over-charged. Because of this the tool `Polaranimation' was developed and implemented. One of its prominent features is the ability to display the complete call tree without loosing any vital information. Additionally, it provides debugging facilities and supports the performance tuning of parallel programs. A number of Strand programs have been written and a performance evaluation and comparison guided by `Polaranimation' was conducted.
+SN  - 0818670452
+UR  - http://dx.doi.org/10.1109/VL.1995.520793
+ER  -

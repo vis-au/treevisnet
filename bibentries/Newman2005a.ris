@@ -1,0 +1,9 @@
+TY  - PAT
+AU  - Newman, Paula S.
+AU  - Card, Stuart K.
+T1  - Method and apparatus for the construction and use of table-like visualizations of hierarchic material
+Y1  - 2005
+IS  - US 6976212 B2
+N2  - A method for the conversion and display of tree-structured information to a "treetable", a table-like display structure, in which each path from a root to a leaf node is represented by a single column, and cells representing the immediate successors of a node are placed immediately under that node. Variation in the amount of space given to cells within particular columns is used to allow more detail to be given for selected paths and subtrees. Extraction of subparts of a treetable into another such structure is used for deeper exploration of trees. The treatable structure is also suitable for use as a selector and guide to the reading, in auxiliary displays, of the concatenated node content associated with either (a) individual columns (representing full paths), or (b) all successors to a given node.
+UR  - http://www.freepatentsonline.com/6976212.html
+ER  -

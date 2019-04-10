@@ -1,0 +1,14 @@
+TY  - JOUR
+AU  - Etemad, Katayoon
+AU  - Baur, Dominikus
+AU  - Brosz, John
+AU  - Carpendale, Sheelagh
+AU  - Samavati, Faramarz F.
+T1  - PaisleyTrees: A Size-Invariant Tree Visualization
+JO  - EAI Transactions on Creative Technologies
+Y1  - 2014
+VL  - 1
+IS  - 1
+N2  - Squeezing large tree structures into suitable visualizations has been a perennial problem. In response to this challenge, we present PaisleyTrees, a size-invariant tree visualization. PaisleyTrees integrate node-of-interest focus with tree-cut presentations to support rapid tree navigation without resorting to zooming and panning. This visualization offers the ability to work with trees of arbitrary depth and breadth, and maintains legibility for displayed elements. These advantages are achieved by using a hybrid layout, inspired by traditional Paisley patterns, that combines node-link, nested and djacency-based tree layout techniques, and offers both depth and breadth elision.
+UR  - http://eudl.eu/doi/10.4108/ct.1.1.e2
+ER  -

@@ -1,0 +1,15 @@
+TY  - CONF
+AU  - Wilson, Richard M.
+AU  - Bergeron, R. Daniel
+A2  - Keim, Daniel
+A2  - Wills, Graham
+T1  - Dynamic hierarchy specification and visualization
+T2  - InfoVis'99: Proceedings of the IEEE Symposium on Information Visualization
+PB  - IEEE Computer Society
+Y1  - 1999
+SP  - 65
+EP  - 72
+N2  - This paper describes concepts that underlie the design and implementation of an information exploration system that allows users to impose arbitrary hierarchical organizations on their data. Such hierarchies allow a user to embed important semantic information into the hierarchy definition. Our goal is to recognize the significance of this implicit information and to utilize it in the hierarchy visualization. The innovative features of our system include the dynamic modification of the hierarchy definitions and the definition and implementation of a set of layout algorithms that utilize semantic information implicit in the tree construction.
+SN  - 0769504310
+UR  - http://dx.doi.org/10.1109/INFVIS.1999.801859
+ER  -

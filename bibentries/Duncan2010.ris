@@ -1,0 +1,18 @@
+TY  - CONF
+AU  - Duncan, Christian A.
+AU  - Eppstein, David
+AU  - Goodrich, Michael T.
+AU  - Kobourov, Stephen G.
+AU  - Nöllenburg, Martin
+A2  - Brandes, Ulrik
+A2  - Cornelsen, Sabine
+T1  - Drawing Trees with Perfect Angular Resolution and Polynomial Area
+T2  - GD'10: Proceedings of the International Symposium on Graph Drawing
+PB  - Springer
+Y1  - 2010
+SP  - 183
+EP  - 194
+N2  - We study methods for drawing trees with perfect angular resolution, i.e., with angles at each vertex, v, equal to $2pi /d(v)$. We show: 1.Any unordered tree has a crossing-free straight-line drawing with perfect angular resolution and polynomial area. 2. There are ordered trees that require exponential area for any crossing-free straight-line drawing having perfect angular resolution. 3. Any ordered tree has a crossing-free Lombardi-style drawing (where each edge is represented by a circular arc) with perfect angular resolution and polynomial area. Thus, our results explore what is achievable with straight-line drawings and what more is achievable with Lombardi-style drawings, with respect to drawings of trees with perfect angular resolution.
+SN  - 9783642184680
+UR  - http://dx.doi.org/10.1007/978-3-642-18469-7_17
+ER  -

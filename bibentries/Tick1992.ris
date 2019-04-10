@@ -1,0 +1,15 @@
+TY  - CONF
+AU  - Tick, Evan
+AU  - Park, Daesun
+A2  - Shriver, Bruce D.
+T1  - Kaleidoscope visualization of fine-grain parallel programs
+T2  - HICSS'92: Proceedings of the Hawaii International Conference on System Sciences
+PB  - IEEE Computer Society
+Y1  - 1992
+VL  - 2
+SP  - 137
+EP  - 148
+N2  - A software visualization tool is described that transforms program execution trace data from a multiprocessor into a single, color image. The image is essentially the program's logical procedure-invocation tree, displayed radially from the root. An algorithm is described that condenses the image both radially and laterally, producing a color-dense abstraction of the program's execution behavior: a program signature, within a workstation window. An implementation of the tool was made in X-Windows, including a user interface that can zoom the image and annotate any node in the image with the corresponding procedure-invocation data. Experimentation with the system was performed with trace data from Panda, a concurrent logic programming system on shared-memory multiprocessors. The authors demonstrate how the tool helps the programmer develop intuitions about parallel performance and how condensation successfully abstracts very large traces.
+SN  - 081862440X
+UR  - http://dx.doi.org/10.1109/HICSS.1992.183287
+ER  -

@@ -1,0 +1,28 @@
+TY  - CONF
+AU  - Jia, Ming
+AU  - Li, Ling
+AU  - Boggess, Erin
+AU  - Wurtele, Eve Syrkin
+AU  - Dickerson, Julie A.
+A2  - Bebis, George
+A2  - Boyle, Richard
+A2  - Parvin, Bahram
+A2  - Koracin, Darko
+A2  - Chung, Ronald
+A2  - Hammoud, Riad
+A2  - Hussain, Muhammad
+A2  - Kar-Han, Tan
+A2  - Crawfis, Roger
+A2  - Thalmann, Daniel
+A2  - kao, David
+A2  - Avila, Lisa
+T1  - Visualizing Multivariate Hierarchic Data Using Enhanced Radial Space-Filling Layout
+T2  - Advances in Visual Computing: Proceedings of the International Symposium on Visual Computing 2010
+PB  - Springer
+Y1  - 2010
+SP  - 350
+EP  - 360
+N2  - Currently, visualization tools for large ontologies (e.g., pathway and gene ontologies) result in a very flat wide tree that is difficult to fit on a single display. This paper develops the concept of using an enhanced radial space-filling (ERSF) layout to show biological ontologies efficiently. The ERSF technique represents ontology terms as circular regions in 3D. Orbital connections in a third dimension correspond to non-tree edges in the ontology that exist when an ontology term belongs to multiple categories. Biologists can use the ERSF layout to identify highly activated pathway or gene ontology categories by mapping experimental statistics such as coefficient of variation and overrepresentation values onto the visualization. This paper illustrates the use of the ERSF layout to explore pathway and gene ontologies using a gene expression dataset from E. coli.
+SN  - 3642172881
+UR  - http://dx.doi.org/10.1007/978-3-642-17289-2_34
+ER  -

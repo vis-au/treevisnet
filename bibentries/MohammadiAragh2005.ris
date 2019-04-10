@@ -1,0 +1,16 @@
+TY  - CONF
+AU  - Mohammadi-Aragh, Mahnas Jean
+AU  - Jankun-Kelly, T. J.
+A2  - Brodlie, Ken
+A2  - Duke, David
+A2  - Joy, Kenneth I.
+T1  - MoireTrees: Visualization and Interaction for Multi-Hierarchical Data
+T2  - EuroVis'05: Proceedings of the Joint Eurographics - IEEE VGTC Symposium on Visualization
+PB  - Eurographics Association
+Y1  - 2005
+SP  - 231
+EP  - 238
+N2  - Visualizing hierarchical data is one of the core areas of information visualization. Most of these techniques focus on single hierarchies - hierarchies with a single root element and a single path to each element. In contrast, this work focuses on the browsing of multi-hierarchies - hierarchies with multiple roots or multiple paths per element. A radial focus+context display algorithm and interaction methods are introduced to explore such multi-hierarchical data. A series of examples demonstrate the effectiveness of our new visualization.
+SN  - 3905673193
+UR  - http://dx.doi.org/10.2312/VisSym/EuroVis05/231-238
+ER  -

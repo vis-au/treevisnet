@@ -1,0 +1,24 @@
+TY  - CONF
+AU  - Tominski, Christian
+AU  - Abello, James
+AU  - van Ham, Frank
+AU  - Schumann, Heidrun
+A2  - Banissi, Ebad
+A2  - Burkhard, Remo Aslak
+A2  - Ursyn, Anna
+A2  - Zhang, Jian J.
+A2  - Bannatyne, Mark
+A2  - Maple, Carsten
+A2  - Cowell, Andrew J.
+A2  - Tian, Gui Yun
+A2  - Hou, Ming
+T1  - Fisheye Tree Views and Lenses for Graph Visualization
+T2  - IV'06: Proceedings of the International Conference on Information Visualisation
+PB  - IEEE Computer Society
+Y1  - 2006
+SP  - 17
+EP  - 24
+N2  - We present interactive visual aids to support the exploration and navigation of graph layouts. They include fisheye tree views and composite lenses. These views provide, in an integrated manner, overview+detail and focus+context. Fisheye tree views are novel applications of the well known fisheye distortion technique. They facilitate the exploration of the hierarchy trees associated with clustered graphs. Composite lenses are the result of the integration of several lens techniques. They facilitate the display of local graph information that may be otherwise difficult to grasp in large and dense graph layouts
+SN  - 0769526020
+UR  - http://dx.doi.org/10.1109/IV.2006.54
+ER  -

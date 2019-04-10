@@ -1,0 +1,17 @@
+TY  - CONF
+AU  - Dwyer, Tim
+AU  - Marriott, Kim
+AU  - Sbarski, Peter
+A2  - Goel, Ashok K.
+A2  - Jamnik, Mateja
+A2  - Narayanan, N. Hari
+T1  - Hi-Tree Layout Using Quadratic Programming
+T2  - Diagrammatic Representation and Inference: Proceedings of the International Conference Diagrams 2010
+PB  - Springer
+Y1  - 2010
+SP  - 212
+EP  - 219
+N2  - Horizontal placement of nodes in tree layout or layered drawings of directed graphs can be modelled as a convex quadratic program. Thus, quadratic programming provides a declarative framework for specifying such layouts which can then be solved optimally with a standard quadratic programming solver. While slower than specialized algorithms, the quadratic programming approach is fast enough for practical applications and has the great benefit of being flexible yet easy to implement with standard mathematical software. We demonstrate the utility of this approach by using it to layout hi-trees. These are a tree-like structure with compound nodes recently introduced for visualizing the logical structure of arguments and of decisions.
+SN  - 364214599X
+UR  - http://dx.doi.org/10.1007/978-3-642-14600-8_20
+ER  -

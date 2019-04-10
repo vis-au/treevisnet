@@ -1,0 +1,18 @@
+TY  - CONF
+AU  - Giacomo, Emilio Di
+AU  - Didimo, Walter
+AU  - Liotta, Giuseppe
+AU  - Meijer, Henk
+A2  - Cheong, Otfried
+A2  - Chwa, Kyung-Yong
+A2  - Park, Kunsoo
+T1  - Drawing a Tree as a Minimum Spanning Tree Approximation
+T2  - ISAAC'10: Proceedings of the International Symposium on Algorithms and Computations
+PB  - Springer
+Y1  - 2010
+SP  - 61
+EP  - 72
+N2  - We introduce and study (1+e)-EMST drawings, i.e. planar straight-line drawings of trees such that, for any fixed e>0, the distance between any two vertices is at least 1/1+e the length of the longest edge in the path connecting them. (1+e)-EMST drawings are good approximations of Euclidean minimum spanning trees. While it is known that only trees with bounded degree have a Euclidean minimum spanning tree realization, we show that every tree T has a (1+e)-EMST drawing for any given e>0. We also present drawing algorithms that compute (1+e)-EMST drawings of trees with bounded degree in polynomial area. As a byproduct of one of our techniques, we improve the best known area upper bound for Euclidean minimum spanning tree realizations of complete binary trees.
+SN  - 3642175139
+UR  - http://dx.doi.org/10.1007/978-3-642-17514-5_6
+ER  -

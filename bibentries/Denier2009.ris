@@ -1,0 +1,13 @@
+TY  - CONF
+AU  - Denier, Simon
+AU  - Sahraoui, Houari
+T1  - Understanding the use of inheritance with visual patterns
+T2  - ESEM'09: Proceedings of the International Symposium on Empirical Software Engineering and Measurement
+PB  - IEEE Computer Society
+Y1  - 2009
+SP  - 79
+EP  - 88
+N2  - The goal of this work is to visualize inheritance in object-oriented programs to help its comprehension. We propose a single, compact view of all class hierarchies at once using a custom Sunburst layout. It enables to quickly discover interesting facts across classes while preserving the essential relationship between parent and children classes. We explain how standard inheritance metrics are mapped into our visualization. Additionally, we define a new metric characterizing similar children classes. Using these metrics and the proposed layout, a set of common visual patterns is derived. These patterns allow the programmer to quickly understand how inheritance is used and provide answers to some essential questions when performing program comprehension tasks. Our approach is evaluated through a case study that involves examples from large programs, demonstrating its scalability.
+SN  - 9781424448418
+UR  - http://dx.doi.org/10.1109/ESEM.2009.5316016
+ER  -

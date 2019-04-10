@@ -1,0 +1,11 @@
+TY  - JOUR
+AU  - Wang, Yan-Chao
+AU  - Lin, Feng
+AU  - Seah, Hock-Soon
+T1  - Orthogonal {V}oronoi Diagram and Treemap
+JO  - arXiv.org e-print service
+Y1  - 2019
+VL  - arXiv:1904.02348
+N2  - In this paper, we propose a novel space partitioning strategy for implicit hierarchy visualization such that the new plot not only has a tidy layout similar to the treemap, but also is flexible to data changes similar to the Voronoi treemap. To achieve this, we define a new distance function and neighborhood relationship between sites so that space will be divided by axis-aligned segments. Then a sweepline+skyline based heuristic algorithm is proposed to allocate the partitioned spaces to form an orthogonal Voronoi diagram with orthogonal rectangles. To the best of our knowledge, it is the first time to use a sweepline-based strategy for the Voronoi treemap. Moreover, we design a novel strategy to initialize the diagram status and modify the status update procedure so that the generation of our plot is more effective and efficient. We show that the proposed algorithm has an O(nlog(n)) complexity which is the same as the state-of-the-art Voronoi treemap. To this end, we show via experiments on the artificial dataset and real-world dataset the performance of our algorithm in terms of computation time, converge rate, and aspect ratio. Finally, we discuss the pros and cons of our method and make a conclusion.
+UR  - https://arxiv.org/abs/1904.02348
+ER  -

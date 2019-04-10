@@ -1,0 +1,8 @@
+TY  - CONF
+AU  - Song, Hongzhi
+AU  - Curran, Edwin P.
+AU  - Sterritt, Roy
+T1  - FlexTree: Visualising large quantities of hierarchical information
+N2  - Visualising large quantities of hierarchical information is a difficult topic in information visualisation and it has been attracting much effort since the emergence of this research area. The paper presents the FlexTree, an approach to visualising, navigating and analysing large hierarchies. It is based on the focus+context technique and combines the power of the histogram with traditional two dimensional (2D) node-link diagrams. This approach maintains the context of a large hierarchy while providing easy and consistent access to details of multiple focal points. Simple aesthetic rules and an interactive design were applied to the system. As a demonstration of the approach a computer file system hierarchy with 6,351 file folders and 130,400 files on a personal computer has been successfully visualised.
+SN  - 0780374371
+ER  -

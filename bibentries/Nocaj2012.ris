@@ -1,0 +1,13 @@
+TY  - JOUR
+AU  - Nocaj, Arlind
+AU  - Brandes, Ulrik
+T1  - Computing Voronoi Treemaps: Faster, Simpler, and Resolution-independent
+JO  - Computer Graphics Forum
+Y1  - 2012
+VL  - 31
+IS  - 3
+SP  - 855
+EP  - 864
+N2  - Voronoi treemaps represent hierarchies as nested polygons. We here show that, contrary to the apparent popular belief, utilization of an algorithm for weighted Voronoi diagrams is not only feasible, but also more efficient than previous low-resolution approximations, even when the latter are implemented on graphics hardware. More precisely, we propose an instantiation of Lloyd's method for centroidal Voronoi diagrams with Aurenhammer's algorithm for power diagrams that yields an algorithm running in O(n*logn) rather than Omega(n*n) time per iteration, with n the number of sites. We describe its implementation and present evidence that it is faster also in practice.
+UR  - http://dx.doi.org/10.1111/j.1467-8659.2012.03078.x
+ER  -

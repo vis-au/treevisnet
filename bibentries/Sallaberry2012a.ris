@@ -1,0 +1,11 @@
+TY  - RPRT
+AU  - Sallaberry, Arnaud
+AU  - Fu, Yang-Chih
+AU  - Ho, Hwai-Chung
+AU  - Ma, Kwan-Liu
+T1  - ContactTress: Ego-centeres visualization of social relations
+Y1  - 2012
+IS  - CSE-2012-24
+N2  - A topic of interest in social science research is the study of people's social contacts and activities, in which network visualization is often used to show relations among people and activities. However, network visualization is not ideal for studying individuals and comparing their social behavior and relationships with others based on data with rich attributes. In this paper, we present ContactTree, a new ego-centered visualization technique designed to reveal patterns and trends in the data, and to facilitate reasoning about patterns or trends as well as comparison of interpersonal ties and contacts. The technique is based on a botanical tree metaphor. The tree is easy to construct and the resulting tree-like visualization can display many properties of the data. We have conducted two case studies to validate our method. The first study is based on a dataset consisting of two waves of 3-month contact diaries over 2004-2008. The second study uses a co-author network consisting of mainly information visualization researchers.
+UR  - http://www.cs.ucdavis.edu/research/tech-reports/2011/CSE-2012-24.pdf
+ER  -

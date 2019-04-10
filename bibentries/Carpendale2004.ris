@@ -1,0 +1,11 @@
+TY  - CONF
+AU  - Carpendale, Sheelagh
+AU  - Agarawala, Anand
+T1  - PhylloTrees: Harnessing Nature's Phyllotactic Patterns for Tree Layout
+T2  - InfoVis'04: Poster Compendium of the IEEE Symposium on Information Visualization
+Y1  - 2004
+SP  - 7
+EP  - 8
+N2  - We explore the use of nature’s phyllotactic patterns to inform the layout of hierarchical data. These naturally occurring patterns provide a non-overlapping, optimal packing when the total number of nodes is not known a priori. We present a family of expandable tree layouts based on these patterns.
+UR  - http://dx.doi.org/10.1109/INFVIS.2004.53
+ER  -

@@ -1,0 +1,13 @@
+TY  - CONF
+AU  - Demaine, Erik D.
+AU  - Schulz, André
+A2  - Randall, Dana
+T1  - Embedding Stacked Polytopes on a Polynomial-Size Grid
+T2  - SODA'11: Proceedings of the ACM-SIAM Symposium on Discrete Algorithms
+PB  - Society for Industrial and Applied Mathematics
+Y1  - 2011
+SP  - 1177
+EP  - 1187
+N2  - We show how to realize a stacked 3D polytope (formed by repeatedly stacking a tetrahedron onto a triangular face) by a strictly convex embedding with its n vertices on an integer grid of size $O(n^4)times O(n^4)times O(n^18)$. We use a perturbation technique to construct an integral 2D embedding that lifts to a small 3D polytope, all in linear time. This result solves a question posed by Günter M. Ziegler, and is the first nontrivial subexponential upper bound on the long-standing open question of the grid size necessary to embed arbitrary convex polyhedra, that is, about efficient versions of Steinitz's 1916 theorem. An immediate consequence of our result is that $O(log n)$-bit coordinates suffice for a greedy routing strategy in planar 3-trees.
+UR  - http://www.siam.org/proceedings/soda/2011/SODA11_088_demainee.pdf
+ER  -

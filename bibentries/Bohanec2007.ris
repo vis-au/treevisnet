@@ -1,0 +1,21 @@
+TY  - CONF
+AU  - Bohanec, Marko
+A2  - Bohanec, Marko
+A2  - Gams, Matjaž
+A2  - Rajkovi?, Vladislav
+A2  - Urban?i?, Tanja
+A2  - Bernik, Mojca
+A2  - Mladeni?, Dunja
+A2  - Grobelnik, Marko
+A2  - Heri?ko, Marjan
+A2  - Kordeš, Urban
+A2  - Marki?, Olga
+T1  - DEXiTree: A program for pretty drawing of trees
+T2  - IS'07: Proceedings of the International Multiconference Information Society
+Y1  - 2007
+SP  - 7
+EP  - 10
+N2  - This paper presents DEXiTree, a computer program for drawing trees. In principle, DEXiTree is aimed at making nice drawings of attribute trees made by DEXi, a computer program for qualitative multi-attribute decision modelling. Apart from that, DEXiTree is quite a general and powerful tree-drawing program that implements four different tree-drawing algorithms (called Distribute, Align, Walker, and QP), draws trees in four different directions (top-down, left-right, bottom-up and right-left) and provides an extensive set of parameters for controlling the appearance of trees and their components. DEXiTree’s functionality includes loading a decision model from a DEXi file, interactively designing the tree layout, saving and loading the layout using an XML format, and rendering the drawing in two graphic formats: vector and raster.
+SN  - 9789616303941
+UR  - http://kt.ijs.si/MarkoBohanec/pub/IS2007_DEXiTree.pdf
+ER  -

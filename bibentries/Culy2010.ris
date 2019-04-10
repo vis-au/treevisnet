@@ -1,0 +1,33 @@
+TY  - CONF
+AU  - Culy, Chris
+AU  - Lyding, Verena
+A2  - Banissi, Ebad
+A2  - Bertschi, Stefan
+A2  - Burkhard, Remo
+A2  - Counsell, John
+A2  - Dastbaz, Mohammad
+A2  - Eppler, Martin
+A2  - Forsell, Camilla
+A2  - Grinstein, Georges
+A2  - Johansson, Jimmy
+A2  - Jern, Mikael
+A2  - Khosrowshahi, Farzad
+A2  - Marchese, Francis T.
+A2  - Maple, Carsten
+A2  - Laing, Richard
+A2  - Cvek, Urska
+A2  - Trutschl, Marjan
+A2  - Sarfraz, Muhammad
+A2  - Stuart, Liz
+A2  - Ursyn, Anna
+A2  - Wyeld, Theodor G.
+T1  - Double Tree: An Advanced KWIC Visualization for Expert Users
+T2  - IV'10: Proceedings of the International Conference on Information Visualisation
+PB  - IEEE Computer Society
+Y1  - 2010
+SP  - 98
+EP  - 103
+N2  - In this paper we present Double Tree, a new visualization of Key Word In Context (KWIC) displays targeted to support linguistic analysis. Inspired by Wattenberg's and Viegas' Word Tree visualization, Double Tree extends the idea of representing KWIC results as trees. We address several issues with Word Trees with respect to the specific demands of linguists and discuss the design decisions and implementation details that we chose for Double Tree. In particular we present our approach for displaying a two-sided tree. We describe details of the layout, including how frequency and linguistic information is incorporated, and what user interaction is supported. We conclude with some consideration on possible next steps for Double Tree.
+SN  - 9780769541655
+UR  - http://dx.doi.org/10.1109/IV.2010.24
+ER  -

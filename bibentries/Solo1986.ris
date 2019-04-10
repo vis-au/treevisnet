@@ -1,0 +1,8 @@
+TY  - RPRT
+AU  - Solo, David M.
+T1  - Readable Layout of Unbalanced N-ary Trees
+Y1  - 1986
+IS  - WP-289
+N2  - The automatic layout of unbounded n-ary tree structures is a problem of subjectively meshing two independent goals: clarity and space efficiency. This paper presents a minimal set of subjective aesthetics which insures highly readable structures, without overly restricted flexibility in the layout of the tree. This flexibility underlies the algorithm's ability to produce readable trees with greater uniformity of node density throughout the display than achieved by previous algorithms, an especially useful characteristic where nodes are labelled with text.
+UR  - http://hdl.handle.net/1721.1/41166
+ER  -

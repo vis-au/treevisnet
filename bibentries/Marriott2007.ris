@@ -1,0 +1,14 @@
+TY  - CONF
+AU  - Marriott, Kim
+AU  - Sbarski, Peter
+A2  - Dobbie, Gillian
+T1  - Compact layout of layered trees
+T2  - ACSC'07: Proceedings of the Australasian Conference on Computer Science
+PB  - Australian Computer Society
+Y1  - 2007
+SP  - 7
+EP  - 14
+N2  - The standard layered drawing convention for trees in which the vertical placement of a node is given by its level in the tree and each node is centered between its children can lead to drawings which are quite wide. We present two new drawing conventions which reduce the layout width to be less than some maximum width while still maintaining the essential layered drawing convention. These conventions relax the requirement that a parent must be exactly placed midway between its children, and instead make this a preference which can be violated if this is required for the layout to fit into the required width. Both drawing conventions give rise to a simple kind of quadratic programming problem. We give an iterative gradient projection algorithm for solving this kind of problem, and also a linear time heuristic algorithm. Our algorithms are practical: a tree with three thousand nodes can be laid out in less than a hundred milliseconds with either algorithm.
+SN  - 1920682430
+UR  - http://dl.acm.org/citation.cfm?id=1273751
+ER  -

@@ -1,0 +1,14 @@
+TY  - CONF
+AU  - Devroye, Luc
+AU  - Kruszewski, Paul
+A2  - Brandenburg, Franz J.
+T1  - The botanical beauty of random binary trees
+T2  - GD'95: Proceedings of the Symposium on Graph Drawing
+PB  - Springer
+Y1  - 1995
+SP  - 166
+EP  - 177
+N2  - We present a simple mechanism for quickly rendering computer images of botanical trees based on random binary trees commonly found in computer science. That is, we visualize abstract binary trees as botanical ones. We generate random binary trees by splitting based upon the beta distribution, and obtain the standard binary search trees as a special case. We draw them in PostScript to resemble actual botanical trees found in nature. Through flexible parameterization and extensive randomization, we can produce a rich collection of images.
+SN  - 9783540607236
+UR  - http://dx.doi.org/10.1007/BFb0021801
+ER  -

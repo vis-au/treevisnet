@@ -1,0 +1,12 @@
+TY  - JOUR
+AU  - Shneiderman, Ben
+T1  - Tree visualization with tree-maps: 2-d space-filling approach
+JO  - ACM Transactions on Graphics
+Y1  - 1992
+VL  - 11
+IS  - 1
+SP  - 92
+EP  - 99
+N2  - This paper presents a novel approach to representing trees that have weights or sizes on the leaf nodes. The 2-d visualization is space filling and the recursive algorithm for generation runs rapidly. It depends on color coding (or shading) of regions and easily provides users with a quick overview that clearly indicates relative sizes of the leaf nodes. Figures 3 and 4 show examples of tree-maps with size coding, as implemented by Brian Johnson on an Apple Macintosh II computer with a high resolution color display. Figure 3 shows fifteen files in four directories at three levels, with nested boxes to show the levels. Figure 4 represents actual disk directories encompassing 850 files at four levels with color coding by file type (text, graphics, applications, etc.). We continue to explore refinements of tree-maps such as alternate layouts, better methods for coping with large ranges of file size, color coding schemes and operations applied to files.
+UR  - http://dx.doi.org/10.1145/102377.115768
+ER  -

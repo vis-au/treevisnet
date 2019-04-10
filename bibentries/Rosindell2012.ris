@@ -1,0 +1,13 @@
+TY  - JOUR
+AU  - Rosindell, James
+AU  - Harmon, Luke J.
+T1  - OneZoom: A Fractal Explorer for the Tree of Life
+JO  - PLoS Biology
+Y1  - 2012
+VL  - 10
+IS  - 10
+SP  - e1001406
+EP  - e1001406
+N2  - Our knowledge of the tree of life -- a phylogenetic tree summarizing the evolutionary relationships among all life on Earth -- is expanding rapidly. "Mega-trees" with millions of tips (species) are expected to appear imminently. Unfortunately, there has so far been no practical and intuitive way to explore even the much smaller trees with thousands of tips that are now being routinely produced. Without a way to view megatrees, these wondrous objects, representing the culmination of decades of scientific effort, cannot be fully appreciated. The field really needs a solution to this problem to enable scientists to communicate important evolutionary concepts and data effectively, both to each other and to the general public. In this manuscript, we introduce a new approach that solves the problem. Trees with millions of tips, richly embellished with additional data, can now be easily explored within the web browser of any modern hardware with a zooming user interface similar to that used in Google Maps.
+UR  - http://dx.doi.org/10.1371/journal.pbio.1001406
+ER  -

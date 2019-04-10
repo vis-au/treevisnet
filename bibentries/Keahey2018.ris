@@ -1,0 +1,10 @@
+TY  - PAT
+AU  - Keahey, Thomas A.
+AU  - Rope, Daniel J.
+AU  - Wills, Graham J.
+T1  - Generating an Outside-in Hierarchical Tree Visualization
+Y1  - 2018
+IS  - US 20180046690 A1
+N2  - A data visualization tool ("tool") configured to generate a visualization for tree data. The tool can calculate a number of hierarchical levels of the tree data. The tool can further subdivide a presentation area for the data visualization into a number of concentric parts. The concentric parts are equivalent to the number of hierarchical levels. Each of the concentric parts corresponds to one of the hierarchical levels. Further, the tool can graphically generate the data visualization for presentation via an electronic display. A first of the concentric parts that corresponds to a highest of the hierarchal levels is an outermost one of the concentric parts in the presentation area. Each successive concentric part inward corresponds to a next lower hierarchical level.
+UR  - http://www.freepatentsonline.com/y2018/0046690.html
+ER  -

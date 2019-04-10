@@ -1,0 +1,11 @@
+TY  - JOUR
+AU  - Lin, Yaw-Ling
+AU  - Yu, Po-Shun
+T1  - Visualizing Phylogenetic Trees by Spring-Embedder Models
+JO  - Journal of Computers
+Y1  - 2007
+VL  - 18
+IS  - 2
+N2  - A phylogenetic tree is a graphical representation of the evolutionary relationship between taxonomic groups. The term phylogeny refers to the evolution or historical development of a plant or animal species, or even a human tribe or similar group. In order to make ourself to understand the structure of phylogenetic tree. We present a spring-embedder model for drawing rooted and unrooted phylogenetic trees with straight edges. Our heuristic strives for uniform edge lengths, and we develop it in analogy to forces in natural systems, for a simple, elegant, conceptually intuitive, and efficient algorithm. These algorithms are implemented on a web-based phylogeny visualization system that interoperates with existing tools developed for phylogenetic processing including CLUSTAL W, PHYLIP, PAUP. The molecular biologists can also manually construct their phylogenetic tree via existing system in, e.g., the Phylip format produced by CLUSTAL W as input format of the web system to which this data is to be fed.
+UR  - http://www.joc.iecs.fcu.edu.tw/Published%20Vol_18_No_2.files/10_JOC95006_PRINT.pdf
+ER  -

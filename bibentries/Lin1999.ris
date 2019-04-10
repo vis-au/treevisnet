@@ -1,0 +1,22 @@
+TY  - CONF
+AU  - Lin, Y.-B.
+AU  - Miller, Zevi
+AU  - Perkel, Manley
+AU  - Pritikin, Dan
+AU  - Sudborough, Ivan Hal
+A2  - Zomaya, Albert Y.
+A2  - Hsu, D. Frank
+A2  - Ibarra, Oscar
+A2  - Horiguchi, Susumu
+A2  - Nassimi, David
+A2  - Palis, Michael
+T1  - On mapping complete binary trees into grids and extended grids
+T2  - I-SPAN'99: Proceedings of the International Symposium on Parallel Architectures, Algorithms, and Networks
+PB  - IEEE Computer Society
+Y1  - 1999
+SP  - 242
+EP  - 247
+N2  - We consider one-to-one, congestion one layouts of complete binary trees into 2-D grids and extended 2-D grids. For such a layout of the complete binary tree $T_h$ of height h into the square $ntimes n$ grid we consider the layout's expansion ratio r=n*n/(2^(h+1) -1). For r the least expansion among layouts of $T_h$ into grids, we obtain the bounds 1.122<=r<=1.4656 for large h and n. For layouts into extended grids we similarly obtain bounds 1.03<=r<=1.115. The upper bounds are improvements on previous work, while the lower bounds are the first such to appear.
+SN  - 0769502318
+UR  - http://dx.doi.org/10.1109/ISPAN.1999.778946
+ER  -

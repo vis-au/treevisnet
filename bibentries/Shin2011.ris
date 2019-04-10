@@ -1,0 +1,14 @@
+TY  - JOUR
+AU  - Shin, HyunJu
+AU  - Park, GwangHyun
+AU  - Han, JungHyun
+T1  - Tablorer -- An Interactive Tree Visualization System for Tablet PCs
+JO  - Computer Graphics Forum
+Y1  - 2011
+VL  - 30
+IS  - 3
+SP  - 1131
+EP  - 1140
+N2  - A variety of mobile devices are available today, but there is no dominant tree visualization system in the devices. This paper proposes Tablorer, a novel interactive tree visualization system for medium-sized mobile devices, especially for tablet PCs. The system shows the hierarchical information with a compact way using an expandable table format. For efficient navigation, the system provides an integrated view of context and focus information. The experimental results show that Tablorer can reduce the search time by about 22
+UR  - http://dx.doi.org/10.1111/j.1467-8659.2011.01962.x
+ER  -

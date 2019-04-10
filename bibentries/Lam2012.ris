@@ -1,0 +1,10 @@
+TY  - JOUR
+AU  - Lam, Ho-Ching
+AU  - Dinov, Ivo D.
+T1  - Hyperbolic Wheel: A Novel Hyperbolic Space Graph Viewer for Hierarchical Information Content
+JO  - ISRN Computer Graphics
+Y1  - 2012
+VL  - 2012
+N2  - Tree and graph structures have been widely used to present hierarchical and linked data. Hyperbolic trees are special types of graphs composed of nodes (points or vertices) and edges (connecting lines), which are visualized on a non-Euclidean space. In traditional Euclidean space graph visualization, distances between nodes are measured by straight lines. Displays of large graphs in Euclidean spaces may not utilize efficiently the available space and may impose limitations on the number of graph nodes. The special hyperbolic space rendering of tree-graphs enables adaptive and efficient use of the available space and facilitates the display of large hierarchical structures. In this paper we report on a newly developed advanced hyperbolic graph viewer, Hyperbolic Wheel, which enables the navigation, traversal, discovery and interactive manipulation of information stored in large hierarchical structures. Examples of such structures include personnel records, disc directory structures, ontological constructs, web-pages and other nested partitions. The Hyperbolic Wheel framework provides an intuitive and dynamic graphical interface to explore and retrieve information about individual nodes (data objects) and their relationships (data associations). The Hyperbolic Wheel is freely available online for educational and research purposes.
+UR  - http://dx.doi.org/10.5402/2012/609234
+ER  -

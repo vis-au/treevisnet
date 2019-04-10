@@ -1,0 +1,16 @@
+TY  - CONF
+AU  - Bisson, Gilles
+AU  - Blanch, Renaud
+A2  - Tortora, Genny
+A2  - Levialdi, Stefano
+A2  - Tucci, Maurizio
+T1  - Stacked trees: a new hybrid visualization method
+T2  - AVI'12: Proceedings of the Working Conference on Advanced Visual Interfaces
+PB  - ACM Press
+Y1  - 2012
+SP  - 709
+EP  - 712
+N2  - In this paper, we introduce a new Focus+Context visualization technique, named ``Stacked Trees'', allowing us to explore large dendrograms produced by hierarchical clustering. This approach displays up to fifty thousands nodes on a standard-sized screen.
+SN  - 9781450312875
+UR  - http://dx.doi.org/10.1145/2254556.2254690
+ER  -

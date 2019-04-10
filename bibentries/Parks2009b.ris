@@ -1,0 +1,10 @@
+TY  - JOUR
+AU  - Parks, Donovan
+AU  - MacDonald, Norman
+AU  - Beiko, Robert
+T1  - Tracking the evolution and geographic spread of Influenza A
+JO  - PLoS Currents
+Y1  - 2009
+N2  - The 2009 swine-origin strain of Influenza A H1N1 has spread to nearly all parts of the world, with 175 countries reporting confirmed cases thus far. Consistent with seasonal flu outbreaks, the current pandemic strain has shown rapid dispersal, with multiple examples of introduction into different geographic regions. Here we use an automated pipeline to collect data for analysis in the geospatial package GenGIS, which allows the geographic and temporal tracking of new sequence types and polymorphisms. Using this approach, we examine a pair of amino acid changes in the neuraminidase protein that are implicated in antibody recognition, and exhibit global dispersal with little or no geographic structure.
+UR  - http://dx.doi.org/10.1371/currents.RRN1014
+ER  -

@@ -1,0 +1,13 @@
+TY  - CHAP
+AU  - Kim, Sung Kwon
+A2  - Eades, Peter
+A2  - Zhang, Kang
+T1  - H-v drawings of binary trees
+T2  - Software Visualization
+PB  - World Scientific Publishing
+Y1  - 1996
+SP  - 101
+EP  - 116
+N2  - This chapter considers h-v drawings of binary trees and presents new results on it. We prove that binary trees with n nodes can be h-v drawn so that the total edge length is O(n log log n), and so that the maximum edge length is O(SQRT(n log n).
+UR  - http://dx.doi.org/10.1142/9789812797995_0006
+ER  -
